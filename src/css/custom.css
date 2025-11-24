@@ -1,0 +1,106 @@
+/**
+ * Couleurs Isocarto
+ * Primaire: #0f172a (gris foncé)
+ * Secondaire: #F7BE16 (jaune/or)
+ * Accent: #87C4D8 (bleu clair)
+ */
+
+:root {
+  /* Mode clair : utiliser le gris foncé pour la lisibilité */
+  --ifm-color-primary: #0f172a;
+  --ifm-color-primary-dark: #0d1117;
+  --ifm-color-primary-darker: #0a0e14;
+  --ifm-color-primary-darkest: #000000;
+  --ifm-color-primary-light: #1f2937;
+  --ifm-color-primary-lighter: #374151;
+  --ifm-color-primary-lightest: #4b5563;
+
+  --ifm-navbar-background-color: #0f172a;
+  --ifm-navbar-link-color: #ffffff;
+  --ifm-navbar-link-hover-color: #f7be16;
+
+  --ifm-link-color: #0f172a;
+  --ifm-link-hover-color: #334155;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(17, 24, 39, 0.1);
+}
+
+[data-theme="dark"] {
+  /* Mode sombre : utiliser le jaune qui ressort bien */
+  --ifm-color-primary: #f7be16;
+  --ifm-color-primary-dark: #e5ad0a;
+  --ifm-color-primary-darker: #d9a309;
+  --ifm-color-primary-darkest: #b38708;
+  --ifm-color-primary-light: #f9c63d;
+  --ifm-color-primary-lighter: #fad054;
+  --ifm-color-primary-lightest: #fce08a;
+
+  --ifm-link-color: #ffffff;
+  --ifm-link-hover-color: #94a3b8;
+
+  --ifm-background-color: #0f172a !important;
+  --ifm-navbar-background-color: #0f172a;
+
+  --docusaurus-highlighted-code-line-bg: rgba(247, 190, 22, 0.2);
+}
+
+/* Navbar avec couleurs Isocarto */
+.navbar {
+  background-color: #0f172a !important;
+  border-bottom: 2px solid #f7be16;
+}
+
+/* FORCER la couleur du bouton toggle */
+button[class*="toggleButton"],
+button[class*="clean-btn"],
+.navbar button {
+  color: #ffffff !important;
+  filter: brightness(1) !important;
+}
+
+button[class*="toggleButton"]:hover,
+button[class*="clean-btn"]:hover {
+  background-color: rgba(247, 190, 22, 0.2) !important;
+}
+
+/* Icône du toggle */
+.navbar svg {
+  fill: #ffffff !important;
+}
+
+/* Boutons - jaune pour les deux thèmes */
+.button--primary {
+  background-color: #f7be16;
+  border-color: #f7be16;
+  color: #0f172a;
+  font-weight: 600;
+}
+
+.button--primary:hover {
+  background-color: #e5ad0a;
+  border-color: #e5ad0a;
+  color: #0f172a;
+}
+
+/* Sidebar - accent bleu sur l'élément actif */
+.menu__link--active {
+  border-left: 3px solid #87c4d8;
+  background-color: rgba(135, 196, 216, 0.1);
+}
+
+/* Footer */
+.footer {
+  background-color: #0f172a;
+}
+
+.footer__link-item:hover {
+  color: #f7be16;
+}
+
+/* Headers avec une touche de bleu */
+h1,
+h2 {
+  border-bottom: 2px solid rgba(135, 196, 216, 0.3);
+  padding-bottom: 0.3rem;
+}
