@@ -92,6 +92,7 @@ button[class*="clean-btn"]:hover {
 /* Footer */
 .footer {
   background-color: #0f172a;
+  color: #ffffff;
 }
 
 .footer__link-item:hover {
