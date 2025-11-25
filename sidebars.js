@@ -2,10 +2,10 @@
 const sidebars = {
   docsSidebar: [
     "intro",
-
+    "inscription",
     {
       type: "category",
-      label: "Zones de Chalandise",
+      label: "Zones",
       items: [
         {
           type: "category",

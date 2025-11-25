@@ -322,3 +322,15 @@ blockquote p + p {
 [data-theme="dark"] .prism-code {
   background-color: var(--color-iso-p) !important;
 }
+
+/* Style pour les images dans le contenu */
+.theme-doc-markdown img {
+  @apply border border-gray-200 rounded-xl shadow-sm my-6 block max-w-full h-auto
+         transition-shadow duration-200 ease-in-out
+         hover:shadow-md;
+
+  /* Pour le thème sombre */
+  .dark & {
+    @apply border-gray-700;
+  }
+}
