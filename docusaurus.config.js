@@ -13,6 +13,14 @@ const config = {
   url: "https://docs.isocarto.fr",
   baseUrl: "/",
 
+  scripts: [
+    {
+      src: "https://analytics.2803media.fr/js/script.js",
+      defer: true,
+      "data-domain": "docs.isocarto.fr",
+    },
+  ],
+
   organizationName: "2803media",
   projectName: "isocarto-docs",
 
@@ -41,16 +49,79 @@ const config = {
     ],
   ],
 
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        indexPages: true,
+        docsRouteBasePath: "/docs",
+        hashed: true,
+        language: ["fr"],
+        highlightSearchTermsOnTargetPage: false,
+        searchResultContextMaxLength: 50,
+        searchResultLimits: 8,
+        searchBarShortcut: true,
+        searchBarShortcutHint: true,
+      },
+    ],
+  ],
+
+  plugins: ["./src/plugins/tailwind-config.js"],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // Personnalisation des libellés
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
+      // Personnalisation des textes
+      metadata: [
+        {
+          name: "keywords",
+          content: "isocarto, documentation, géomarketing, cartographie",
+        },
+      ],
+      // Configuration de la documentation
+      // Personnalisation des admonitions
+      admonitions: {
+        tag: ":::admonition",
+        keywords: ["note", "tip", "info", "warning", "danger"],
+        customTypes: [
+          {
+            keyword: "note",
+            title: "Note",
+          },
+          {
+            keyword: "tip",
+            title: "Conseil",
+          },
+          {
+            keyword: "info",
+            title: "Information",
+          },
+          {
+            keyword: "warning",
+            title: "Avertissement",
+          },
+          {
+            keyword: "danger",
+            title: "Attention",
+          },
+        ],
+      },
       navbar: {
-        title: "Isocarto",
+        hideOnScroll: false,
         logo: {
           alt: "Isocarto Logo",
-          src: "https://isocarto.fr/images/logo.svg",
-          href: "https://isocarto.fr", // Clic sur le logo renvoie vers isocarto.fr
+          src: "/img/logofull.svg",
+          srcDark: "/img/logofullwhite.svg",
+          href: "https://isocarto.fr",
           target: "_self",
+          width: 150,
+          height: 40,
         },
         items: [
           {
@@ -58,11 +129,7 @@ const config = {
             docId: "intro",
             position: "left",
             label: "Documentation",
-          },
-          {
-            href: "https://isocarto.fr",
-            label: "← Retour à Isocarto",
-            position: "right",
+            className: "navbar__item--documentation",
           },
         ],
       },

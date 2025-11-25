@@ -18,14 +18,6 @@ Isocarto est un outil de géo-marketing qui vous permet de :
 
 ![alt text](../static/img/home-1.webp)
 
-## Démarrage rapide
-
-Suivez ces étapes pour commencer avec Isocarto :
-
-1. [Créer votre premier projet](./guide-demarrage/premier-projet)
-2. [Définir vos zones géographiques](./fonctionnalites/creation-zones)
-3. [Analyser avec l'IA](./fonctionnalites/analyse-ia)
-
 ## Besoin d'aide ?
 
-Consultez notre [FAQ](./faq) ou contactez notre support à [support@isocarto.fr](mailto:support@isocarto.fr)
+Consultez les différents guides dans la barre latérale ou contactez notre support à [support@isocarto.fr](mailto:support@isocarto.fr)
