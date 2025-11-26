@@ -2,6 +2,7 @@
 id: definition-isodistance
 title: Définition d'une zone Isodistance
 description: Comprendre ce qu’est une zone isodistance, son utilité et ses variantes selon les modes de transport.
+slug: /definitions/isodistances
 ---
 
 # Isodistance : Définition et Utilité

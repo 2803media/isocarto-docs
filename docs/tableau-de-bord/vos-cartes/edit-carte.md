@@ -2,6 +2,7 @@
 id: edit-carte
 title: Modifier le titre et la description
 description: "Apprenez à modifier rapidement le titre et la description d'une carte dans Isocarto."
+slug: /tableau-de-bord/edit-carte
 ---
 
 # Modifier le titre et la description

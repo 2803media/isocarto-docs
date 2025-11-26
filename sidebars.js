@@ -31,11 +31,7 @@ const sidebars = {
             "tableau-de-bord/vos-cartes/ajout-editeur",
           ],
         },
-        {
-          type: "category",
-          label: "Cartes invitées",
-          items: ["tableau-de-bord/cartes-invitees/general"],
-        },
+        "tableau-de-bord/cartes-invitees",
         {
           type: "category",
           label: "Vos fichiers",

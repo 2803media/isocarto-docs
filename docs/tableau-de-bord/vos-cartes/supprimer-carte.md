@@ -2,6 +2,7 @@
 id: supprimer-carte
 title: Supprimer une carte
 description: "Découvrez comment supprimer définitivement une carte et ses zones dans Isocarto."
+slug: /tableau-de-bord/supprimer-carte
 ---
 
 # Supprimer une carte

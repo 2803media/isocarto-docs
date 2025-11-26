@@ -2,6 +2,7 @@
 id: ajout-carte
 title: Ajouter une nouvelle carte
 description: "Apprendre à créer une nouvelle carte vide dans Isocarto pour y ajouter vos zones géographiques."
+slug: /tableau-de-bord/ajout-carte
 ---
 
 # Ajouter une nouvelle carte

@@ -2,6 +2,7 @@
 id: general
 title: Vue d'ensemble des cartes
 description: "Gérer, éditer, partager et organiser toutes vos cartes dans votre tableau de bord Isocarto."
+slug: /tableau-de-bord/general
 ---
 
 # Vos cartes
@@ -26,19 +27,13 @@ Cliquer sur une carte dans la liste pour l'ouvrir dans l'application.
 
 En cliquant sur **Ajouter une carte**, vous pouvez créer une nouvelle carte vide dans laquelle vous pourrez ensuite dessiner ou ajouter vos zones.
 
+Voir la page dédiée [Créer une carte](ajout-carte)
+
 ## Modifier une carte
 
 Chaque carte propose plusieurs actions :
 
-### Renommer la carte
-
-Vous pouvez modifier le nom de la carte pour mieux refléter son contenu.
-
-### Ajouter ou modifier une description
-
-La description permet d’expliquer le contexte ou les objectifs liés à la carte.
-
-### Éditer la carte
+### Modifier le titre et la description d'une carte
 
 Le mode d’édition permet de :
 
@@ -47,6 +42,8 @@ Le mode d’édition permet de :
 - Ajuster les paramètres d’analyse
 - Gérer les données associées à la carte
 
+Voir la page dédiée [Modifier une carte](edit-carte).
+
 ## Partage et collaboration
 
 Isocarto permet la collaboration entre plusieurs utilisateurs.
@@ -54,6 +51,8 @@ Isocarto permet la collaboration entre plusieurs utilisateurs.
 ### Partager une carte
 
 Vous pouvez partager une carte avec d’autres personnes afin qu’elles puissent la visualiser.
+
+Voir la page dédiée [Partager une carte](partage-carte).
 
 ### Ajouter des collaborateurs
 
@@ -64,6 +63,8 @@ Ils pourront modifier les zones, ajouter des données ou mettre à jour les para
 
 Une carte peut être supprimée si elle n’est plus nécessaire.  
 Une confirmation est toujours demandée pour éviter toute suppression accidentelle.
+
+Voir la page dédiée [Supprimer une carte](supprimer-carte).
 
 ---
 

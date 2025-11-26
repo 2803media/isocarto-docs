@@ -2,6 +2,7 @@
 id: partage-carte
 title: Partager une carte
 description: "Apprenez à partager vos cartes publiquement dans Isocarto via un lien ou une intégration sur un site web."
+slug: /tableau-de-bord/partage-carte
 ---
 
 # Partager une carte
