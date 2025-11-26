@@ -35,7 +35,7 @@ Il ne s’agit pas d’un simple cercle : la forme dépend du réseau utilisable
 - Ne tient pas compte du temps ou des vitesses, uniquement des kilomètres parcourus.
 - Permet de visualiser la « proximité routière » d'un lieu.
 
-:::tip
+:::tip[Exemple d'application]
 
 - Analyse du potentiel routier autour d’un entrepôt.
 - Comparaison d’emplacements selon leur distance du réseau principal.
@@ -47,7 +47,7 @@ Il ne s’agit pas d’un simple cercle : la forme dépend du réseau utilisable
 - Suit les chemins et trottoirs accessibles à pied.
 - Permet de déterminer une proximité réelle pour les déplacements courts.
 
-:::tip
+:::tip[Exemple d'application]
 
 - Accessibilité locale (commerce de quartier, école, services publics).
 - Analyse du cadre de vie et des distances de marche.
@@ -60,7 +60,7 @@ Il ne s’agit pas d’un simple cercle : la forme dépend du réseau utilisable
 - Intègre les restrictions PL (gabarits, tonnage, interdictions de circulation).
 - Permet de déterminer une distance réelle adaptée à la logistique lourde.
 
-:::tip
+:::tip[Exemple d'application]
 
 - Définition de zones de livraison.
 - Études de roulement autour d’un dépôt (ex : “camions dans un rayon de 10 km”).
@@ -72,7 +72,7 @@ Il ne s’agit pas d’un simple cercle : la forme dépend du réseau utilisable
 - Peut se baser sur les pistes cyclables, routes secondaires, chemins autorisés.
 - Considère la distance, pas le temps d’effort.
 
-:::tip
+:::tip[Exemple d'application]
 
 - Mobilité douce autour d’un quartier.
 - Accessibilité aux équipements sportifs.
@@ -85,7 +85,7 @@ Ce cas est plus particulier :
 il ne s’applique pas à la distance parcourue **en transport**, mais **à la distance parcourue à pied** jusqu’aux arrêts ou équipements de transport.  
 On ne mesure donc pas le trajet du bus/métro, mais la distance jusqu’à son point d’accès.
 
-:::tip
+:::tip[Exemple d'application]
 
 - Identifier les secteurs situés à moins de X mètres d’un arrêt.
 - Études d’offre de transport pour collectivités.

@@ -85,33 +85,6 @@ const config = {
         },
       ],
       // Configuration de la documentation
-      // Personnalisation des admonitions
-      admonitions: {
-        tag: ":::admonition",
-        keywords: ["note", "tip", "info", "warning", "danger"],
-        customTypes: [
-          {
-            keyword: "note",
-            title: "Note",
-          },
-          {
-            keyword: "tip",
-            title: "Conseil",
-          },
-          {
-            keyword: "info",
-            title: "Information",
-          },
-          {
-            keyword: "warning",
-            title: "Avertissement",
-          },
-          {
-            keyword: "danger",
-            title: "Attention",
-          },
-        ],
-      },
       navbar: {
         hideOnScroll: false,
         logo: {

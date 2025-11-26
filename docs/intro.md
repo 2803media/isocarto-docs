@@ -7,11 +7,12 @@ slug: /
 
 Bienvenue dans la documentation d'**Isocarto**, la plateforme de géo-marketing nouvelle génération.
 
+La documentation est en cours de migration et va se complèter progressivement...
+
 ## Qu'est-ce qu'Isocarto ?
 
 Isocarto est un outil de géo-marketing qui vous permet de :
 
-- Créer des zones géographiques personnalisées
 - Analyser vos territoires en profondeur
 - Utiliser l'IA pour synthétiser vos données
 - Prendre des décisions stratégiques basées sur la localisation

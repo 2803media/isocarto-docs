@@ -20,9 +20,9 @@ Renseignez les champs suivants :
 - **Adresse email** (veillez à utiliser une adresse valide, nécessaire pour la vérification)
 - **Mot de passe** : l’interface affiche automatiquement un indicateur de niveau de sécurité pour vous aider à choisir un mot de passe robuste. Le mot de passe doit faire au minimum **8 caractères**.
 
-:::tip
+:::tip[Conseil]
 
-- Afin de sécuriser votre compte pensez à ajouter des chiffres, des majuscules et des caractères spéciaux.
+- Afin de sécuriser votre compte pensez à ajouter des chiffres, des majuscules et des caractères spéciaux à votre mot de passe.
 - Par ailleurs un bon moyen d'avoir des mots de passe sécurisés et d'utiliser des gestionnaires de mots de passe comme <a href="https://bitwarden.eu/" target="_blank" rel="noopener noreferrer">Bitwarden</a>.
   :::
 
@@ -60,6 +60,11 @@ Un **code de vérification à 6 chiffres** est automatiquement envoyé à l’ad
 ![alt text](../static/img/code6chiffres.jpg)
 
 Saisissez ce code dans le champ prévu pour confirmer et finaliser votre inscription.
+
+:::warning[Attention]
+
+- Si vous ne recevez pas l'email, vérifiez votre dossier "Spam" ou "Courriers indésirables".
+  :::
 
 ---
 

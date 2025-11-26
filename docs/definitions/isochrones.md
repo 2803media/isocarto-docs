@@ -20,7 +20,7 @@ Les isochrones sont un outil puissant pour :
 - **Analyser l'accessibilité** d’un lieu (magasin, école, point de livraison…).
 - **Optimiser la logistique et les tournées**.
 - **Étudier la couverture de services** (santé, commerces, infrastructures publiques).
-- **Comprendre le potentiel d’un site** (immobilier, urbanisme).
+- **Comprendre le potentiel d’un site ou d'un magasin** (immobilier, urbanisme, commerce).
 - **Comparer plusieurs emplacements** selon leur accessibilité réelle.
 
 Elles apportent une vision **réaliste et utile** de ce qui est accessible, non pas “à vol d’oiseau”, mais selon les déplacements _réels_, sur les routes ou les chemins.
@@ -36,7 +36,7 @@ Voici les plus courants :
 - Tient compte des vitesses, feux, intersections.
 - Permet d’estimer l’accès à un service en fonction de la circulation normale (hors trafic).
 
-:::tip
+:::tip[Exemple d'application]
 
 - Définir la zone de chalandise d'un commerce.
 - Mesurer le temps d'accès à une zone industrielle.
@@ -48,7 +48,7 @@ Voici les plus courants :
 - Se base sur les tronçons piétonniers, trottoirs et chemins accessibles à pied.
 - Tient compte d’une vitesse moyenne de marche.
 
-:::tip
+:::tip[Exemple d'application]
 
 - Analyse d'accessibilité pour les centre-villes.
 - Évaluation du temps d'accès aux transports (gare, métro).
@@ -60,7 +60,7 @@ Voici les plus courants :
 - Se base sur les tronçons cyclables, pistes et chemins accessibles à vélo.
 - Tient compte d’une vitesse moyenne de déplacement à vélo.
 
-:::tip
+:::tip[Exemple d'application]
 
 - Aménagement de pistes cyclables.
 - Étude de mobilité durable.
@@ -75,7 +75,7 @@ Voici les plus courants :
   - ponts limités en hauteur/poids,
   - interdictions locales.
 
-:::tip
+:::tip[Exemple d'application]
 
 - Optimisation logistique.
 - Planification d'itinéraires pour transporteurs.
@@ -90,7 +90,7 @@ Voici les plus courants :
   - les correspondances,
   - les segments piétons.
 
-:::tip
+:::tip[Exemple d'application]
 
 - Évaluation de la desserte d'un quartier.
 - Analyse des points noirs de mobilité.

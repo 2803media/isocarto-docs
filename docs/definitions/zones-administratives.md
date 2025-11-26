@@ -55,26 +55,10 @@ Il s’agit du découpage le plus fin disponible au niveau national pour les don
 - Études marketing ultra-ciblées
 - Pilotage territorial précis
 
-:::tip
+:::tip[Exemple d'application]
 
 - Quelle est la répartition socio-économique par quartier ?
 - Quels IRIS présentent le plus fort taux de jeunes actifs ?
-  :::
-
-## Départements
-
-Les **départements** sont des divisions territoriales majeures, utilisées pour l’administration publique, la logistique et les politiques publiques.
-
-**Utilités :**
-
-- Organisation administrative (préfectures, services de l’État)
-- Études macro-territoriales
-- Planification logistique large
-
-:::tip
-
-- Quel est le tissu économique du département X ?
-- Comparer les départements d'une région sur la démographie.
   :::
 
 ## Communes
@@ -89,10 +73,50 @@ Chaque commune possède un territoire clairement défini, un maire et un conseil
 - Analyses de chalandise locale
 - Comptage des entreprises (SIRENE)
 
-:::tip
+:::tip[Exemple d'application]
 
 - Quelle est la population totale de ma commune cible ?
 - Quel est le nombre d’entreprises dans cette commune ?
+  :::
+
+## EPCI (Établissements Publics de Coopération Intercommunale)
+
+Les **EPCI** regroupent plusieurs communes pour mutualiser des services ou mener des projets communs.  
+Ils incluent notamment :
+
+- Communautés de communes
+- Communautés d’agglomération
+- Communautés urbaines
+- Métropoles
+
+Les EPCI constituent un niveau incontournable pour de nombreuses données publiques et décisions politiques.
+
+**Utilités :**
+
+- Planification territoriale
+- Gestion des services publics (déchets, transports, eau…)
+- Études de cohérence territoriale
+
+:::tip[Exemple d'application]
+
+- Quelle intercommunalité gère ce territoire ?
+- Quelle est la population totale de l'EPCI concerné ?
+  :::
+
+## Départements
+
+Les **départements** sont des divisions territoriales majeures, utilisées pour l’administration publique, la logistique et les politiques publiques.
+
+**Utilités :**
+
+- Organisation administrative (préfectures, services de l’État)
+- Études macro-territoriales
+- Planification logistique large
+
+:::tip[Exemple d'application]
+
+- Quel est le tissu économique du département X ?
+- Comparer les départements d'une région sur la démographie.
   :::
 
 ## Zones d’Emploi (INSEE)
@@ -106,7 +130,7 @@ Ce sont des zones fonctionnelles, très pertinentes pour les analyses économiqu
 - Analyses économiques régionales
 - Politiques publiques de mobilité
 
-:::tip
+:::tip[Exemple d'application]
 
 - Où se concentre l'emploi autour de ma zone d'activité ?
 - Quelle zone attire les travailleurs pour un secteur donné ?
@@ -128,34 +152,10 @@ L’INSEE distingue :
 - Études de mobilité quotidienne
 - Aménagement du territoire
 
-:::tip
+:::tip[Exemple d'application]
 
 - Quelle est la taille de l'agglomération autour de mon site ?
 - Quelle est la dynamique urbaine de cette zone ?
-  :::
-
-## EPCI (Établissements Publics de Coopération Intercommunale)
-
-Les **EPCI** regroupent plusieurs communes pour mutualiser des services ou mener des projets communs.  
-Ils incluent notamment :
-
-- Communautés de communes
-- Communautés d’agglomération
-- Communautés urbaines
-- Métropoles
-
-Les EPCI constituent un niveau incontournable pour de nombreuses données publiques et décisions politiques.
-
-**Utilités :**
-
-- Planification territoriale
-- Gestion des services publics (déchets, transports, eau…)
-- Études de cohérence territoriale
-
-:::tip
-
-- Quelle intercommunalité gère ce territoire ?
-- Quelle est la population totale de l'EPCI concerné ?
   :::
 
 ## Aires d’Attraction des Villes (INSEE)
@@ -174,7 +174,7 @@ Une AAV est composée :
 - Analyses d’attractivité territoriale
 - Évaluation des dynamiques économiques
 
-:::tip
+:::tip[Exemple d'application]
 
 - Quel est le périmètre d'attraction d'une grande ville sur son territoire ?
 - Quels flux domicile-travail structurent la zone ?
@@ -199,14 +199,6 @@ Une AAV est composée :
 > “Étudier une agglomération pour connaître la densité ou l'évolution de la population.”
 
 ### 5. **Transport et mobilité**
-
-> “Étudier les zones d'emploi ou les aires d'attraction.”
-
-### 6. **Immobilier**
-
-> “Étudier une agglomération pour connaître la densité ou l'évolution de la population.”
-
-### 7. **Transport et mobilité**
 
 > “Étudier les zones d'emploi ou les aires d'attraction.”
 
