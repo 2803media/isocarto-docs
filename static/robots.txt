@@ -1,0 +1,17 @@
+# robots.txt pour site docs.isocarto.fr
+# Généré le 2025-11-27
+
+User-agent: *
+Allow: /
+
+# Bloquer les fichiers de build et assets non nécessaires
+Disallow: /build/
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*.json$
+
+# Bloquer les pages de tags si vous voulez éviter la duplication
+Disallow: /tags/
+
+# URL du sitemap (à adapter avec votre domaine)
+Sitemap: https://docs.isocarto.fr/sitemap.xml
