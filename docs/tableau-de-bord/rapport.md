@@ -16,6 +16,8 @@ Cette personnalisation aide à adapter le rapport à un secteur d’activité pr
 
 ## Personnalisation des rapports en ligne
 
+![alt text](../../static/img/rapports.jpg)
+
 - **Afficher / masquer des sections** :  
   L’utilisateur peut désactiver des blocs entiers, par exemple :
   - Analyse des emplois
@@ -26,8 +28,6 @@ Cette personnalisation aide à adapter le rapport à un secteur d’activité pr
   Chaque section peut contenir des sous-blocs qui peuvent être masqués individuellement.
 - **Toggles interactifs** :  
   Les options sont activables via de simples boutons on/off.
-
-  ![alt text](../../static/img/rapports.jpg)
 
 :::warning[Attention]
 
