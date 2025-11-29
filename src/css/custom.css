@@ -194,7 +194,7 @@ blockquote p + p {
 
 /* titres */
 .markdown h1 {
-  @apply text-3xl font-bold text-iso-p mb-6;
+  @apply text-3xl font-bold text-iso-p mb-6 mt-4;
 }
 
 .markdown h2 {

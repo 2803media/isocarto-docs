@@ -13,5 +13,16 @@ Disallow: /*.json$
 # Bloquer les pages de tags si vous voulez éviter la duplication
 Disallow: /tags/
 
+# Bloquer les versions archivées
+Disallow: /2-*/
+Disallow: /3-*/
+Disallow: /4-*/
+Disallow: /5-*/
+Disallow: /6-*/
+Disallow: /7-*/
+Disallow: /8-*/
+Disallow: /9-*/
+Disallow: /10-*/
+
 # URL du sitemap (à adapter avec votre domaine)
 Sitemap: https://docs.isocarto.fr/sitemap.xml

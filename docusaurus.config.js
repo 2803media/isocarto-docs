@@ -25,7 +25,11 @@ const config = {
   projectName: "isocarto-docs",
 
   onBrokenLinks: "warn",
-  onBrokenMarkdownLinks: "warn",
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
+  },
 
   i18n: {
     defaultLocale: "fr",
@@ -35,17 +39,30 @@ const config = {
   presets: [
     [
       "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          routeBasePath: "/", // Remettre à la racine
+          routeBasePath: "/",
+          lastVersion: "current",
+          versions: {
+            current: {
+              label: "2.2",
+              path: "/", // Version actuelle à la racine
+              banner: "none",
+            },
+            2.1: {
+              label: "2.1",
+              path: "2.1",
+              banner: "unmaintained",
+              noIndex: true, // Pas d'indexation SEO
+            },
+          },
         },
         blog: false,
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
-      }),
+      },
     ],
   ],
 
@@ -104,8 +121,14 @@ const config = {
             label: "Documentation",
             className: "navbar__item--documentation",
           },
+          {
+            type: "docsVersionDropdown",
+            position: "right",
+            dropdownActiveClassDisabled: true,
+          },
         ],
       },
+
       footer: {
         copyright: `© ${new Date().getFullYear()} # 2803 MEDIA. Tous droits réservés.`,
       },
