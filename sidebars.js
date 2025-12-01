@@ -49,12 +49,19 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "Abonnement",
+      label: "Gestion du compte",
+      collapsed: false,
       items: [
-        "compte/abonnement/general",
-        "compte/abonnement/synthese",
-        "compte/abonnement/maj-abonnement",
-        "compte/abonnement/annulation-abonnement",
+        {
+          type: "category",
+          label: "Abonnement",
+          items: [
+            "compte/abonnement/general",
+            "compte/abonnement/synthese",
+            "compte/abonnement/maj-abonnement",
+            "compte/abonnement/annulation-abonnement",
+          ],
+        },
       ],
     },
   ],
