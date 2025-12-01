@@ -2,7 +2,7 @@
 id: ajout-fichier
 title: Ajouter un fichier
 description: "Apprenez à importer un fichier Excel ou CSV dans Isocarto et configurer son géocodage."
-slug: /tableau-de-bord/vos-fichiers/ajout-fichier
+slug: /tableau-de-bord/fichiers/ajout-fichier
 ---
 
 # Ajouter un fichier

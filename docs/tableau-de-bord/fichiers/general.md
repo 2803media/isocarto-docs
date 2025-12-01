@@ -1,8 +1,8 @@
 ---
 id: general
-title: Présentation de l’interface Vos fichiers
+title: Présentation de l’interface
 description: "Découvrez l’interface de gestion des fichiers importés dans Isocarto."
-slug: /tableau-de-bord/vos-fichiers/general
+slug: /tableau-de-bord/fichiers/general
 ---
 
 # Vos fichiers
@@ -21,10 +21,10 @@ Lorsque vous ouvrez l’onglet, une **fenêtre de gestion** s’affiche. Elle li
 
 Vous pouvez ensuite :
 
-- **ajouter un fichier** depuis votre ordinateur,
-- **éditer un fichier** existant,
-- **supprimer un fichier**,
-- consulter votre **consommation de quota**.
+- [**Ajouter un fichier**](ajout-fichier) depuis votre ordinateur,
+- [**Éditer un fichier**](edition-fichier) existant,
+- [**Supprimer un fichier**](supprimer-fichier),
+- Consulter votre [**consommation de quota**](gestion-quota).
 
 ---
 
