@@ -32,7 +32,7 @@ Cette page permet de :
 - Ajouter des **informations de facturation avancées** si nécessaire, notamment :
 
   - Numéro de TVA intracommunautaire
-  - Numéro de société / SIRET
+  - Nom de société
 
 - Valider l’ensemble des informations avant de procéder.
 
