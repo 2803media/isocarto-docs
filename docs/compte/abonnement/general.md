@@ -2,7 +2,7 @@
 id: general
 title: Gestion de l’abonnement
 description: Présentation générale de l’onglet Abonnement dans votre compte Isocarto.
-sidebar_label: Présentation
+sidebar_label: Onglet abonnement
 slug: /compte/abonnement/general
 ---
 

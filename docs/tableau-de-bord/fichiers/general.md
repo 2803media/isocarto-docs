@@ -1,6 +1,6 @@
 ---
 id: general
-title: Présentation de l’interface
+title: Gestion des fichiers
 description: "Découvrez l’interface de gestion des fichiers importés dans Isocarto."
 slug: /tableau-de-bord/fichiers/general
 ---
