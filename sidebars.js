@@ -6,7 +6,7 @@ const sidebars = {
     "connexion",
     {
       type: "category",
-      label: "Interface",
+      label: "Interface du site",
       items: ["interface/changement-theme"],
     },
     {

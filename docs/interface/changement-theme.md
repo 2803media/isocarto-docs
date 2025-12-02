@@ -48,6 +48,6 @@ Le thème foncé peut être utile dans plusieurs situations :
 
 :::tip[Information]
 
-les rapports PDF générés par Isocarto sont toujours produits en **thème clair**, quelle que soit votre préférence dans l’interface.
+Les rapports PDF générés par Isocarto et la cartographie sont toujours produits en **thème clair**, quelle que soit votre préférence dans l’interface.
 
 :::
