@@ -35,5 +35,3 @@ Deux types de documents sont disponibles :
 - **Télécharger le reçu** (si vous n’avez pas besoin d’une facture complète)
 
 ![alt text](/img/facture-2.jpg)
-
-Il suffit de cliquer sur l’icône **PDF** pour télécharger la facture.

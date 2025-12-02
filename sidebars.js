@@ -73,6 +73,14 @@ const sidebars = {
             "compte/factures/historique-factures",
           ],
         },
+        {
+          type: "category",
+          label: "Utilisateurs",
+          items: [
+            "compte/utilisateurs/general",
+            "compte/utilisateurs/invitation-membres",
+          ],
+        },
       ],
     },
   ],
