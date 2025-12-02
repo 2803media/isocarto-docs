@@ -1,7 +1,9 @@
 ---
 sidebar_position: 3
 slug: connexion
-sidebar_label: icon:heroicons:user Connexion
+sidebar_label: Connexion
+sidebar_custom_props:
+  icon: heroicons:user
 ---
 
 # Connexion à votre compte

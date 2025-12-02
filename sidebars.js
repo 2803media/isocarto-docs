@@ -4,29 +4,30 @@ const sidebars = {
     // 🚀 DÉMARRER
     {
       type: "category",
-      label: "icon:heroicons:rocket-launch Démarrer",
+      label: "Démarrer", // ✅ Le texte propre pour le breadcrumb
       collapsed: false,
-      items: [
-        "intro",
-        "inscription",
-        "connexion",
-        //"demarrage/premier-projet",
-        //"demarrage/premiere-zone",
-      ],
+      customProps: {
+        icon: "heroicons:rocket-launch", // 🔧 L'icône déplacée ici
+      },
+      items: ["intro", "inscription", "connexion"],
     },
 
     // 📚 COMPRENDRE
     {
       type: "category",
-      label: "icon:heroicons:book-open Comprendre",
+      label: "Comprendre",
       collapsed: false,
+      customProps: {
+        icon: "heroicons:book-open",
+      },
       items: [
         {
           type: "category",
-          label: "icon:heroicons:light-bulb Concepts fondamentaux",
+          label: "Concepts fondamentaux",
+          customProps: {
+            icon: "heroicons:light-bulb",
+          },
           items: [
-            //"concepts/geomarketing-introduction",
-            //"concepts/zone-chalandise",
             "definitions/definition-isochrone",
             "definitions/definition-isodistance",
             "definitions/zones-manuelles",
@@ -34,105 +35,44 @@ const sidebars = {
             "definitions/zone-primaire",
           ],
         },
-        /*
-        {
-          type: "category",
-          label: "icon:heroicons:academic-cap Méthodologies",
-          items: [
-            "methodo/analyser-zone-chalandise",
-            "methodo/choisir-type-zone",
-            "methodo/lire-donnees",
-          ],
-        },
-        */
-        //"concepts/glossaire",
       ],
     },
 
     // 🛠️ UTILISER
     {
       type: "category",
-      label: "icon:heroicons:cursor-arrow-rays Utiliser Isocarto",
+      label: "Utiliser Isocarto",
       collapsed: false,
+      customProps: {
+        icon: "heroicons:cursor-arrow-rays",
+      },
       items: [
         {
           type: "category",
-          label: "icon:heroicons:computer-desktop Interface",
+          label: "Interface",
+          customProps: {
+            icon: "heroicons:computer-desktop",
+          },
           items: ["interface/ecran-principal", "interface/changement-theme"],
         },
-        /*
-        {
-          type: "category",
-          label: "icon:heroicons:map-pin Créer des zones",
-          items: [
-            "zones/overview",
-            "zones/isochrone",
-            "zones/isodistance",
-            "zones/manuelle",
-            "zones/administrative",
-          ],
-        },
-        {
-          type: "category",
-          label: "icon:heroicons:chart-bar-square Analyser",
-          items: [
-            "analyse/donnees-disponibles",
-            "analyse/population",
-            "analyse/concurrence",
-            "analyse/indicateurs",
-          ],
-        },
-        {
-          type: "category",
-          label: "icon:heroicons:arrow-down-tray Exporter",
-          items: [
-            "export/formats",
-            "export/rapports",
-            "export/partage",
-          ],
-        },
-        */
       ],
     },
-
-    // 💼 CAS D'USAGE
-    /*
-    {
-      type: "category",
-      label: "icon:heroicons:briefcase Cas d'usage",
-      items: [
-        {
-          type: "category",
-          label: "icon:heroicons:building-storefront Par secteur",
-          items: [
-            "cas-usage/retail",
-            "cas-usage/franchise",
-            "cas-usage/immobilier",
-            "cas-usage/restauration",
-          ],
-        },
-        {
-          type: "category",
-          label: "icon:heroicons:flag Par objectif",
-          items: [
-            "cas-usage/ouverture-point-vente",
-            "cas-usage/analyse-concurrence",
-            "cas-usage/optimisation-reseau",
-          ],
-        },
-      ],
-    },
-    */
 
     // 📊 TABLEAU DE BORD
     {
       type: "category",
-      label: "icon:heroicons:chart-pie Tableau de bord",
+      label: "Tableau de bord",
       collapsed: false,
+      customProps: {
+        icon: "heroicons:chart-pie",
+      },
       items: [
         {
           type: "category",
-          label: "icon:heroicons:map Cartes",
+          label: "Cartes",
+          customProps: {
+            icon: "heroicons:map",
+          },
           items: [
             "tableau-de-bord/cartes/general",
             "tableau-de-bord/cartes/ajout-carte",
@@ -145,7 +85,10 @@ const sidebars = {
         "tableau-de-bord/cartes-invitees",
         {
           type: "category",
-          label: "icon:heroicons:folder Fichiers",
+          label: "Fichiers",
+          customProps: {
+            icon: "heroicons:folder",
+          },
           items: [
             "tableau-de-bord/fichiers/general",
             "tableau-de-bord/fichiers/ajout-fichier",
@@ -161,12 +104,18 @@ const sidebars = {
     // ⚙️ GESTION DU COMPTE
     {
       type: "category",
-      label: "icon:heroicons:cog-6-tooth Gestion du compte",
+      label: "Gestion du compte",
       collapsed: false,
+      customProps: {
+        icon: "heroicons:cog-6-tooth",
+      },
       items: [
         {
           type: "category",
-          label: "icon:heroicons:credit-card Abonnement",
+          label: "Abonnement",
+          customProps: {
+            icon: "heroicons:credit-card",
+          },
           items: [
             "compte/abonnement/general",
             "compte/abonnement/synthese",
@@ -178,7 +127,10 @@ const sidebars = {
         "compte/informations",
         {
           type: "category",
-          label: "icon:heroicons:document-text Factures",
+          label: "Factures",
+          customProps: {
+            icon: "heroicons:document-text",
+          },
           items: [
             "compte/factures/general",
             "compte/factures/facturation-informations",
@@ -188,7 +140,10 @@ const sidebars = {
         },
         {
           type: "category",
-          label: "icon:heroicons:users Utilisateurs",
+          label: "Utilisateurs",
+          customProps: {
+            icon: "heroicons:users",
+          },
           items: [
             "compte/utilisateurs/general",
             "compte/utilisateurs/invitation-membres",
@@ -196,19 +151,6 @@ const sidebars = {
         },
       ],
     },
-
-    // 🎓 ALLER PLUS LOIN
-    /*
-    {
-      type: "category",
-      label: "icon:heroicons:academic-cap Aller plus loin",
-      items: [
-        "avance/bonnes-pratiques",
-        "avance/limites-donnees",
-        "avance/faq",
-      ],
-    },
-    */
   ],
 };
 

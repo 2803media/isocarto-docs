@@ -1,7 +1,9 @@
 ---
 sidebar_position: 2
 slug: inscription
-sidebar_label: icon:heroicons:user-plus Inscription
+sidebar_label: Inscription
+sidebar_custom_props:
+  icon: heroicons:user-plus
 ---
 
 # Inscription sur le site

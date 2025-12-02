@@ -2,27 +2,18 @@ import React from "react";
 import Category from "@theme-original/DocSidebarItem/Category";
 import { Icon } from "@iconify/react";
 
-// Fonction pour extraire l'icône du label
-function extractIcon(label) {
-  if (typeof label === "string") {
-    const match = label.match(/^icon:(\S+)\s+(.+)$/);
-    if (match) {
-      return { icon: match[1], text: match[2] };
-    }
-  }
-  return { icon: null, text: label };
-}
-
 export default function CategoryWrapper(props) {
   const { item } = props;
-  const { icon, text } = extractIcon(item.label);
+
+  // On récupère l'icône depuis customProps au lieu de parser le label
+  const icon = item.customProps?.icon;
 
   // Si pas d'icône, retourne le composant original
   if (!icon) {
     return <Category {...props} />;
   }
 
-  // Si icône détectée, modifie le label
+  // Si icône détectée, on modifie l'affichage du label
   const modifiedItem = {
     ...item,
     label: (
@@ -35,7 +26,7 @@ export default function CategoryWrapper(props) {
             flexShrink: 0,
           }}
         />
-        <span>{text}</span>
+        <span>{item.label}</span>
       </span>
     ),
   };

@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
 slug: /
-sidebar_label: icon:heroicons:home Bienvenue
+sidebar_label: Bienvenue
+sidebar_custom_props:
+  icon: heroicons:home
 ---
 
 # Bienvenue sur Isocarto

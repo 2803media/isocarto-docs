@@ -2,19 +2,11 @@ import React from "react";
 import Link from "@theme-original/DocSidebarItem/Link";
 import { Icon } from "@iconify/react";
 
-function extractIcon(label) {
-  if (typeof label === "string") {
-    const match = label.match(/^icon:(\S+)\s+(.+)$/);
-    if (match) {
-      return { icon: match[1], text: match[2] };
-    }
-  }
-  return { icon: null, text: label };
-}
-
 export default function LinkWrapper(props) {
   const { item } = props;
-  const { icon, text } = extractIcon(item.label);
+
+  // On récupère l'icône depuis customProps
+  const icon = item.customProps?.icon;
 
   if (!icon) {
     return <Link {...props} />;
@@ -32,7 +24,7 @@ export default function LinkWrapper(props) {
             flexShrink: 0,
           }}
         />
-        <span>{text}</span>
+        <span>{item.label}</span>
       </span>
     ),
   };
