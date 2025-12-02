@@ -10,7 +10,7 @@ Cette page explique en détail comment créer votre compte sur **Isocarto**, vot
 
 ## Étape 1 : Accéder au formulaire d'inscription
 
-En haut de la page d'accueil, cliquez sur le **bouton jaune "Inscription"**. Vous serez redirigé vers le formulaire dédié à la création de compte. Vous pouvez aussi accéder au formulaire directement via l'URL <a href="https://isocarto.fr/auth/signup" target="_blank" rel="noopener noreferrer">https://isocarto.fr/auth/signup</a>
+En haut de la page d'accueil, cliquez sur le **bouton jaune "Inscription"**. Vous serez redirigé vers le formulaire dédié à la création de compte. Vous pouvez aussi accéder au formulaire directement via l'URL [https://isocarto.fr/auth/signup](https://isocarto.fr/auth/signup)
 
 ## Étape 2 : Compléter les informations personnelles
 
@@ -23,9 +23,10 @@ Renseignez les champs suivants :
 
 :::tip[Conseil]
 
-- Afin de sécuriser votre compte pensez à ajouter des chiffres, des majuscules et des caractères spéciaux à votre mot de passe.
-- Par ailleurs un bon moyen d'avoir des mots de passe sécurisés et d'utiliser des gestionnaires de mots de passe comme <a href="https://bitwarden.eu/" target="_blank" rel="noopener noreferrer">Bitwarden</a>.
-  :::
+- Afin de sécuriser votre compte, pensez à ajouter des chiffres, des majuscules et des caractères spéciaux à votre mot de passe.
+- Par ailleurs, un bon moyen d'avoir des mots de passe sécurisés est d'utiliser des gestionnaires de mots de passe comme [Bitwarden](https://bitwarden.eu/).
+
+:::
 
 ## Étape 3 : Fournir votre adresse
 
