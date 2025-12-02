@@ -334,3 +334,17 @@ blockquote p + p {
     @apply border-gray-700;
   }
 }
+
+/* ====== TAILLE TEXTE SIDEBAR NIVEAU 3 ====== */
+/* Ciblage spécifique du niveau 3 dans Docusaurus */
+.menu__list-item-collapsible:has(.menu__link--sublist-caret)
+  ~ .menu__list
+  .menu__link,
+.menu__list .menu__list .menu__list .menu__link {
+  @apply text-sm py-1; /* Réduit la taille (text-sm) et tasse un peu (py-1) */
+}
+
+/* Optionnel : Réduire aussi l'icône si vous en avez à ce niveau */
+.menu__list .menu__list .menu__list .menu__link svg {
+  @apply w-4 h-4; /* Icône un peu plus petite */
+}
