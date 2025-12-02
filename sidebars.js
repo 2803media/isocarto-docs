@@ -6,6 +6,11 @@ const sidebars = {
     "connexion",
     {
       type: "category",
+      label: "Interface",
+      items: ["interface/changement-theme"],
+    },
+    {
+      type: "category",
       label: "Définitions",
       items: [
         "definitions/definition-isochrone",
@@ -60,6 +65,7 @@ const sidebars = {
             "compte/abonnement/synthese",
             "compte/abonnement/maj-abonnement",
             "compte/abonnement/annulation-abonnement",
+            "compte/abonnement/periode-essai",
           ],
         },
         "compte/informations",

@@ -19,7 +19,7 @@ Dans cette section, vous pouvez :
 - Voir pour chaque membre :
   - **Nom et prénom**
   - **Adresse e-mail**
-  - **Rôle** (Owner ou Member)
+  - **Rôle** (Propriétaire ou Member)
   - **Date d’ajout** dans l’organisation
 - Déterminer rapidement qui possède les droits d’administration.
 
@@ -29,7 +29,7 @@ Dans cette section, vous pouvez :
 
 Trois rôles sont possibles :
 
-### **Owner**
+### **Propriétaire**
 
 - Il s’agit du propriétaire de l’organisation.
 - Dispose de **tous les droits**, notamment :
@@ -63,7 +63,7 @@ Trois rôles sont possibles :
 
 Selon votre rôle, vous pouvez :
 
-### Owner
+### Propriétaire
 
 - **Inviter un utilisateur**
 - **Supprimer un membre**
@@ -87,6 +87,12 @@ Selon votre rôle, vous pouvez :
 La suppression d'un membre supprimera tous ses accès ainsi que ses données. Cela inclut l'accès aux cartes, aux données et aux paramètres personnels.
 
 ![alt text](/img/member-6.jpg)
+
+:::tip[Information]
+
+La révocation d'un membre mettra à jour votre abonnement automatiquement avec une réduction correspondant au coût mensuel du membre supprimé.
+
+:::
 
 ## Invitation des membres
 

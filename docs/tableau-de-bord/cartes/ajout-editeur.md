@@ -30,7 +30,7 @@ Dans le panneau des éditeurs :
 
 :::warning[Condition importante]
 
-**L’utilisateur ajouté doit obligatoirement appartenir à la même organisation** que le propriétaire de la carte. Cet utilisateur doit donc avoir été ajouté par le propriétaire de l’organisation.
+**L’utilisateur ajouté doit obligatoirement appartenir à la même organisation** que le propriétaire de la carte. Cet utilisateur doit donc avoir été ajouté par le [propriétaire de l’organisation](/compte/utilisateurs/general).
 Si ce n’est pas le cas, l’ajout est refusé.
 :::
 

@@ -70,12 +70,6 @@ Le propriétaire peut à tout moment :
 
 Cette action est accessible depuis la liste des utilisateurs via le menu d’options.
 
-:::tip[Information]
-
-La révocation d'un membre mettra à jour votre abonnement automatiquement avec une réduction correspondant au coût mensuel du membre supprimé.
-
-:::
-
 ## Limites et conditions
 
 - Le nombre de membres autorisés dépend du **plan d’abonnement** de l’organisation.

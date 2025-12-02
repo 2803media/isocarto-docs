@@ -1,0 +1,53 @@
+---
+id: changement-theme
+title: Changement de thème
+description: Guide pour passer du thème clair au thème foncé dans Isocarto.
+sidebar_label: Changement de couleur de thème
+slug: /compte/changement-theme
+---
+
+# Changement de couleur de thème sur le site
+
+Isocarto propose deux modes d’affichage : **thème clair** et **thème foncé**.  
+Vous pouvez basculer à tout moment vers celui qui correspond le mieux à votre confort visuel ou à votre environnement de travail.
+
+## Modifier le thème de l’interface
+
+Le changement de thème s’applique :
+
+- à **tout le site Isocarto**,
+- à **l’outil de cartographie**,
+- ainsi qu’aux différentes pages de votre compte.
+
+Pour changer le thème :
+
+1. Cliquez sur l'icône **soleil** ou **lune** en haut à droite de l'écran
+   ![alt text](/img/theme-switch.jpg)
+   ![alt text](/img/theme-switch-2.jpg)
+2. Le changement s’applique immédiatement.
+
+## Exemples visuels
+
+Ci-dessous, deux captures d’écran illustrant les deux modes :
+
+### Thème clair
+
+![alt text](/img/light-theme.jpg)
+
+### Thème foncé
+
+![alt text](/img/dark-theme.jpg)
+
+## Pourquoi utiliser le thème foncé ?
+
+Le thème foncé peut être utile dans plusieurs situations :
+
+- **Réduire la fatigue visuelle** lors d’un usage prolongé.
+- **Travailler dans un environnement sombre** ou faiblement éclairé.
+- **Préférence personnelle** pour une ambiance visuelle plus douce.
+
+:::tip[Information]
+
+les rapports PDF générés par Isocarto sont toujours produits en **thème clair**, quelle que soit votre préférence dans l’interface.
+
+:::
