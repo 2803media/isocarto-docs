@@ -3,6 +3,7 @@ id: rapport
 title: Rapports
 description: "Découvrez comment personnaliser les rapports online et PDF de votre organisation dans Isocarto."
 slug: /tableau-de-bord/rapport
+sidebar_label: icon:heroicons:document Rapports
 ---
 
 # Personnalisation des rapports

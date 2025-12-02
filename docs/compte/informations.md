@@ -2,7 +2,7 @@
 id: informations
 title: Informations du compte
 description: Gérer vos informations personnelles et la suppression définitive de votre compte.
-sidebar_label: Informations
+sidebar_label: icon:heroicons:user-circle Informations
 slug: /compte/informations
 ---
 

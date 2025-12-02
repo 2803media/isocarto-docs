@@ -3,6 +3,7 @@ id: cartes-invitees
 title: Cartes invitées
 description: "Découvrez comment gérer les cartes auxquelles vous avez été invité à collaborer dans Isocarto."
 slug: /tableau-de-bord/cartes-invitees
+sidebar_label: icon:heroicons:map Cartes invitées
 ---
 
 # Gestion des cartes invitées
