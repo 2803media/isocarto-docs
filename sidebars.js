@@ -62,6 +62,17 @@ const sidebars = {
             "compte/abonnement/annulation-abonnement",
           ],
         },
+        "compte/informations",
+        {
+          type: "category",
+          label: "Factures",
+          items: [
+            "compte/factures/general",
+            "compte/factures/facturation-informations",
+            "compte/factures/moyens-paiement",
+            "compte/factures/historique-factures",
+          ],
+        },
       ],
     },
   ],

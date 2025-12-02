@@ -8,7 +8,7 @@ slug: /compte/abonnement/maj-abonnement
 
 # Mise à jour de l’abonnement
 
-Cette section vous permet de modifier votre abonnement en choisissant un plan supérieur ou inférieur.
+Cette section vous permet de modifier votre abonnement en choisissant un plan supérieur ou inférieur à tout moment.
 
 ## Modifier votre abonnement
 
