@@ -31,7 +31,7 @@ Pour inviter un utilisateur :
 2. Saisissez l’adresse e-mail du membre à inviter.
 3. Validez l’envoi de l’invitation.
 
-![alt text](/img/member-5.jpg)
+![Formulaire d'ajout d'un nouveau membre](/img/member-5.jpg)
 
 Une entrée apparaît alors dans la liste des invitations en attente.
 
@@ -44,7 +44,7 @@ Lorsqu’une invitation est envoyée, le futur membre reçoit un e-mail contenan
 - Un bouton ou lien **Accepter l'invitation**
 - Les informations essentielles sur le partage d’un abonnement
 
-![alt text](/img/member-2.jpg)
+![Exemple d'email d'invitation](/img/member-2.jpg)
 
 Ce message permet au membre d’accéder directement à la page d’enrôlement Isocarto.
 
@@ -56,7 +56,7 @@ Il devra :
 1. Renseigner son nom et prénom
 2. Choisir un mot de passe pour se connecter
 
-![alt text](/img/member-4.jpg)
+![Page d'enrôlement d'un nouvel utilisateur](/img/member-4.jpg)
 
 Une fois ces étapes validées, il devient officiellement membre de l’organisation.
 
@@ -66,7 +66,7 @@ Le propriétaire peut à tout moment :
 
 - **Annuler une invitation en attente**
 
-![alt text](../../../static/img/member-7.jpg)
+![Option de révocation d'une invitation](../../../static/img/member-7.jpg)
 
 Cette action est accessible depuis la liste des utilisateurs via le menu d’options.
 

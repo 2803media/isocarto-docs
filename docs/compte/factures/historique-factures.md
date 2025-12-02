@@ -25,7 +25,7 @@ Chaque ligne de facture présente :
 - **Statut** : payée, remboursée, en attente
 - **Lien de téléchargement**
 
-![alt text](/img/facture-1.jpg)
+![Liste des factures dans l'historique](/img/facture-1.jpg)
 
 ## Télécharger vos documents
 
@@ -34,4 +34,4 @@ Deux types de documents sont disponibles :
 - **Télécharger la facture (PDF)**
 - **Télécharger le reçu** (si vous n’avez pas besoin d’une facture complète)
 
-![alt text](/img/facture-2.jpg)
+![Détails d'une facture avec options de téléchargement](/img/facture-2.jpg)

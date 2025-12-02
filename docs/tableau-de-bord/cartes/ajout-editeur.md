@@ -17,7 +17,7 @@ Chaque éditeur possède ses **propres paramètres et préférences d’affichag
 Dans l’onglet **Vos cartes**, sélectionnez la carte sur laquelle vous souhaitez collaborer.  
 Cliquez ensuite sur le **bouton “Ajouter des éditeurs”** pour ouvrir le panneau dédié.
 
-![alt text](/img/ajout-editeur-1.jpg)
+![Interface d'ajout d'éditeur - étape 1](/img/ajout-editeur-1.jpg)
 
 ## Étape 2 : Ajouter un éditeur
 
@@ -26,7 +26,7 @@ Dans le panneau des éditeurs :
 - Saisissez l’**adresse e-mail** de la personne que vous souhaitez ajouter,
 - puis cliquez sur **Ajouter**.
 
-![alt text](/img/ajout-editeur-2.jpg)
+![Interface d'ajout d'éditeur - étape 2](/img/ajout-editeur-2.jpg)
 
 :::warning[Condition importante]
 

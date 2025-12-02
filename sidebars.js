@@ -6,11 +6,6 @@ const sidebars = {
     "connexion",
     {
       type: "category",
-      label: "Interface du site",
-      items: ["interface/changement-theme"],
-    },
-    {
-      type: "category",
       label: "Définitions",
       items: [
         "definitions/definition-isochrone",
@@ -20,6 +15,13 @@ const sidebars = {
         "definitions/zone-primaire",
       ],
     },
+    {
+      type: "category",
+      label: "Outil Isocarto",
+      collapsed: false,
+      items: ["interface/ecran-principal", "interface/changement-theme"],
+    },
+
     {
       type: "category",
       label: "Tableau de bord",

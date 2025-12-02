@@ -21,7 +21,7 @@ Vous pouvez mettre à jour les éléments suivants :
 - **Ville**
 - **Pays**
 
-![alt text](/img/update-fac.jpg)
+![Formulaire de mise à jour des informations de facturation](/img/update-fac.jpg)
 
 Après modification des champs souhaités, cliquez sur **Mettre à jour les informations**.
 

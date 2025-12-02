@@ -2,7 +2,7 @@
 id: changement-theme
 title: Changement de thème
 description: Guide pour passer du thème clair au thème foncé dans Isocarto.
-sidebar_label: Changement de couleur de thème
+sidebar_label: Thème sombre/clair
 slug: /compte/changement-theme
 ---
 
@@ -22,8 +22,8 @@ Le changement de thème s’applique :
 Pour changer le thème :
 
 1. Cliquez sur l'icône **soleil** ou **lune** en haut à droite de l'écran
-   ![alt text](/img/theme-switch.jpg)
-   ![alt text](/img/theme-switch-2.jpg)
+   ![Bouton de basculement du thème clair](/img/theme-switch.jpg)
+   ![Bouton de basculement du thème sombre](/img/theme-switch-2.jpg)
 2. Le changement s’applique immédiatement.
 
 ## Exemples visuels
@@ -32,11 +32,11 @@ Ci-dessous, deux captures d’écran illustrant les deux modes :
 
 ### Thème clair
 
-![alt text](/img/light-theme.jpg)
+![Capture d'écran du thème clair d'Isocarto](/img/light-theme.jpg)
 
 ### Thème foncé
 
-![alt text](/img/dark-theme.jpg)
+![Capture d'écran du thème sombre d'Isocarto](/img/dark-theme.jpg)
 
 ## Pourquoi utiliser le thème foncé ?
 
