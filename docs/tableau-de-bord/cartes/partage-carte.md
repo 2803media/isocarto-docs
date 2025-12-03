@@ -14,9 +14,9 @@ Par défaut, une carte dans **Isocarto** est **privée** et uniquement visible p
 Dans la page **Vos cartes**, sélectionnez la carte que vous souhaitez partager et cliquez sur le **bouton de partage**.  
 Ce bouton ouvre l’interface de partage public.
 
-![alt text](/img/partage-carte-1.jpg)
+![Interface de la page 'Vos cartes' avec le bouton de partage d'une carte sélectionnée](/img/partage-carte-1.jpg)
 
-![alt text](/img/partage-carte-2.jpg)
+![Menu déroulant du bouton de partage avec l'option 'Partage public' mise en évidence](/img/partage-carte-2.jpg)
 
 ## Étape 2 : Choisir le type de lien
 
@@ -25,7 +25,7 @@ Une fois le partage activé, vous pouvez choisir entre deux types de lien :
 - **Lien direct** : envoyez ce lien par e-mail ou messagerie. Il permet de visualiser la carte avec uniquement les informations des zones.
 - **Intégration sur un site web** : obtenez un code iFrame pour intégrer la carte directement dans une page web.
 
-![alt text](/img/partage-carte-3.jpg)
+![Interface de partage public avec options de lien direct et code d'intégration iFrame](/img/partage-carte-3.jpg)
 
 ## Étape 3 : Copier le lien ou le code iFrame
 

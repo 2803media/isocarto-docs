@@ -13,13 +13,13 @@ Cette page vous guide à travers les étapes pour supprimer une carte dans **Iso
 
 Dans l’onglet **Vos cartes** de votre tableau de bord, repérez la carte que vous souhaitez supprimer. Cliquez sur l’**icône de la poubelle rouge** associée à cette carte.
 
-![alt text](/img/delete-map-1.jpg)
+![Interface 'Vos cartes' avec le bouton de suppression (icône de poubelle) mis en évidence](/img/delete-map-1.jpg)
 
 ## Étape 2 : Confirmation de la suppression
 
 Une fenêtre de confirmation apparaîtra. Vous devrez alors valider votre choix pour confirmer la suppression de la carte.
 
-![alt text](/img/delete-map-2.jpg)
+![Fenêtre modale de confirmation de suppression avec le message 'Êtes-vous sûr de vouloir supprimer cette carte ?' et les boutons 'Annuler' et 'Supprimer'](/img/delete-map-2.jpg)
 
 ## Étape 3 : Conséquences de la suppression
 

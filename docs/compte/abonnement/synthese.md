@@ -10,7 +10,7 @@ slug: /compte/abonnement/synthese
 
 Cette section présente un aperçu global de votre abonnement actuel sur Isocarto.
 
-![alt text](/img/abo-resume.jpg)
+![Vue d'ensemble de l'abonnement montrant le plan actuel, le prix, la date de renouvellement et les fonctionnalités incluses](/img/abo-resume.jpg)
 
 ## Détails affichés
 

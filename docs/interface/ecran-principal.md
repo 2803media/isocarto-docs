@@ -18,7 +18,7 @@ L’interface se compose de trois zones principales :
 - **Au centre :** la carte interactive.
 - **À droite et en haut de la carte :** les contrôles liés à la navigation, l’affichage et les exports.
 
-![Aperçu de l’interface principale](/img/main-interface.jpg)
+![Vue d'ensemble de l'interface d'Isocarto avec la barre latérale de gauche, la carte centrale et les contrôles à droite](/img/main-interface.jpg)
 
 ## Barre latérale gauche - Outils principaux
 
@@ -66,9 +66,14 @@ Génère une **capture de la carte** (PNG) incluant les zones visibles et les co
 
 En bas de l’écran, un sélecteur de fond de carte permet de choisir entre :
 
+![Barre de sélection du fond de carte avec les options : Vue satellite, Vue classique et Aucun fond](/img/fond-switch.jpg)
+
 - **Satellite**
+  ![Capture d'écran montrant la vue satellite avec les bâtiments et la végétation visibles](/img/fond-sat.jpg)
 - **Classique**
+  ![Capture d'écran montrant la vue cartographique classique avec les routes et les noms de rues](/img/fond-normal.jpg)
 - **Aucun fond de carte** (utile pour certains exports ou analyses)
+  ![Capture d'écran montrant une vue sans fond de carte, avec uniquement les éléments ajoutés par l'utilisateur](/img/fond-blanc.jpg)
 
 Le changement est immédiat et s’applique à la vue courante.
 

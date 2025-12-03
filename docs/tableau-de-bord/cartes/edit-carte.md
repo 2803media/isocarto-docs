@@ -14,7 +14,7 @@ Cette page explique comment mettre à jour le **titre** et la **description** d�
 Dans la page **Vos cartes**, sélectionnez la carte à modifier et cliquez sur le **bouton jaune** associé.  
 Ce bouton vous permet d’ouvrir l’interface de modification des informations de la carte.
 
-![alt text](/img/edit-carte-1.jpg)
+![Interface 'Vos cartes' avec le bouton d'édition (icône de crayon) mis en évidence pour modifier une carte](/img/edit-carte-1.jpg)
 
 ## Étape 2 : Mettre à jour les informations
 
@@ -23,7 +23,7 @@ Vous pouvez maintenant :
 - modifier le **titre** de la carte,
 - ajouter ou mettre à jour sa **description**, afin de préciser son objectif ou son contexte d’utilisation.
 
-![alt text](/img/edit-carte-2.jpg)
+![Formulaire d'édition de carte avec les champs 'Titre' et 'Description' et les boutons 'Annuler' et 'Enregistrer' en bas à droite](/img/edit-carte-2.jpg)
 
 ## Étape 3 : Enregistrer ou annuler
 

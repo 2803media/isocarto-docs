@@ -9,7 +9,7 @@ slug: /tableau-de-bord/general
 
 La page **Cartes** du tableau de bord vous permet de gérer l’ensemble des cartes que vous avez créées dans Isocarto. Chaque carte peut contenir plusieurs zones géographiques et peut être éditée ou partagée selon vos besoins.
 
-![alt text](/img/vos-cartes.jpg)
+![Vue d'ensemble du tableau de bord des cartes montrant la liste des cartes avec leurs noms, descriptions et nombre de zones associées](/img/vos-cartes.jpg)
 
 ## Consulter vos cartes
 

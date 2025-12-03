@@ -61,7 +61,7 @@ Une fois le formulaire complété, cliquez sur **Valider**.
 
 Un **code de vérification à 6 chiffres** est automatiquement envoyé à l’adresse email fournie.
 
-![alt text](/img/code6chiffres.jpg)
+![Exemple de code de vérification à 6 chiffres reçu par email](/img/code6chiffres.jpg)
 
 Saisissez ce code dans le champ prévu pour confirmer et finaliser votre inscription.
 

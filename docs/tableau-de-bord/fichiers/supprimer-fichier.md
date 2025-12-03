@@ -21,13 +21,13 @@ Pour supprimer un fichier :
 4. Sélectionnez **Supprimer** dans le menu déroulant.
 5. Une modal s’affichera pour confirmer la suppression.
 
-![alt text](/img/edit-fichier.jpg)
+![Menu contextuel d'un fichier avec l'option 'Supprimer' mise en évidence](/img/edit-fichier.jpg)
 
 ## Modal de confirmation
 
 La modal de confirmation vous informera que la suppression est définitive et qu’elle ne pourra pas être annulée. Vous devrez confirmer votre choix en cliquant sur **Supprimer**.
 
-![alt text](/img/del-fichier.jpg)
+![Fenêtre de confirmation de suppression avec le message d'avertissement et les boutons 'Annuler' et 'Supprimer'](/img/del-fichier.jpg)
 
 ## Conséquences de la suppression
 

@@ -20,7 +20,7 @@ Isocarto est un outil de géo-marketing qui vous permet de :
 - Utiliser l'IA pour synthétiser vos données
 - Prendre des décisions stratégiques basées sur la localisation
 
-![alt text](/img/home-1.webp)
+![Présentation visuelle de l'interface d'Isocarto avec une carte interactive et des outils d'analyse géographique](/img/home-1.webp)
 
 ## Besoin d'aide ?
 

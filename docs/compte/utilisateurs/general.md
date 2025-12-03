@@ -23,7 +23,7 @@ Dans cette section, vous pouvez :
   - **Date d’ajout** dans l’organisation
 - Déterminer rapidement qui possède les droits d’administration.
 
-![Liste des utilisateurs de l'organisation](/img/member-1.jpg)
+![Tableau des membres de l'organisation avec colonnes pour le nom, l'email, le rôle et la date d'ajout](/img/member-1.jpg)
 
 ## Rôles dans l’organisation
 
@@ -70,7 +70,7 @@ Selon votre rôle, vous pouvez :
 - **Révoquer une invitation en attente**
 - **Changer le rôle** d'un membre
 
-![Menu de modification du rôle d'un utilisateur](/img/member-3.jpg)
+![Menu déroulant des rôles disponibles (Propriétaire, Administrateur, Membre) avec le rôle actuel sélectionné](/img/member-3.jpg)
 
 ### Administrateur
 
@@ -86,7 +86,7 @@ Selon votre rôle, vous pouvez :
 
 La suppression d'un membre supprimera tous ses accès ainsi que ses données. Cela inclut l'accès aux cartes, aux données et aux paramètres personnels.
 
-![Confirmation de suppression d'un membre](/img/member-6.jpg)
+![Fenêtre de confirmation de suppression avec le message d'avertissement et les boutons 'Annuler' et 'Supprimer'](/img/member-6.jpg)
 
 :::tip[Information]
 

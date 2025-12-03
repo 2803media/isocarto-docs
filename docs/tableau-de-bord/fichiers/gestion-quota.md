@@ -25,11 +25,11 @@ Chaque utilisateur voit ainsi une barre de progression indiquant le quota global
 
 Vue du propriétaire de l'organisation:
 
-![alt text](/img/quota-fichier.jpg)
+![Vue du propriétaire montrant la répartition détaillée du quota entre tous les membres de l'organisation](/img/quota-fichier.jpg)
 
 Vue d'un membre de l'organisation:
 
-![alt text](/img/quota-fichier-2.jpg)
+![Vue d'un membre montrant son utilisation personnelle et l'utilisation globale de l'organisation de manière anonymisée](/img/quota-fichier-2.jpg)
 
 ## Gérer le quota
 

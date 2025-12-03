@@ -18,13 +18,13 @@ Pour changer de plan :
 2. Sélectionnez le plan souhaité.
 3. Cliquez sur **Mettre à jour l’abonnement**.
 
-![alt text](/img/maj-abo-1.jpg)
+![Interface de sélection de plan avec les différentes offres disponibles et le bouton 'Mettre à jour l'abonnement' en évidence](/img/maj-abo-1.jpg)
 
 ## Votre premier abonnement payant
 
 Lors de votre premier passage à un abonnement payant, vous êtes automatiquement redirigé vers une **page de checkout sécurisée**.
 
-![alt text](/img/first-abo.jpg)
+![Page de paiement sécurisé avec le récapitulatif de la commande et le formulaire de coordonnées à remplir](/img/first-abo.jpg)
 
 Cette page permet de :
 
@@ -47,7 +47,7 @@ Vous êtes alors redirigé vers une **page de paiement Stripe** où vous pouvez 
 
 - Accepter les **conditions d’utilisation** du service et la **politique de confidentialité**
 
-![alt text](/img/checkout-stripe.jpg)
+![Formulaire de paiement Stripe avec les champs pour les informations de carte bancaire et la case à cocher pour accepter les conditions](/img/checkout-stripe.jpg)
 
 ## Upgrade (passage à un abonnement supérieur)
 
@@ -55,7 +55,7 @@ Vous êtes alors redirigé vers une **page de paiement Stripe** où vous pouvez 
 - Les nouvelles limites ou options de l'abonnement supérieur sont **activées immédiatement**.
 - Les fonctionnalités de l'abonnement précédent restent actives sans interruption pour tous les membres de l'organisation.
 
-![alt text](/img/maj-abo-2.jpg)
+![Message de confirmation de mise à niveau montrant les nouvelles fonctionnalités disponibles immédiatement](/img/maj-abo-2.jpg)
 
 ## Downgrade (passage à un abonnement inférieur)
 
@@ -65,7 +65,7 @@ Lors d’un downgrade, une **modale de confirmation** apparaît pour préciser :
 - L’abonnement futur.
 - Les fonctionnalités ou les zones qui seront limitées ou supprimées à la prochaine période de facturation.
 
-![alt text](/img/maj-abo-3.jpg)
+![Fenêtre de confirmation de rétrogradation indiquant que les changements prendront effet à la prochaine période de facturation](/img/maj-abo-3.jpg)
 
 Le downgrade prend effet **à la prochaine période de facturation**, et non immédiatement.
 

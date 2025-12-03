@@ -19,7 +19,7 @@ Cette personnalisation aide à adapter le rapport à un secteur d’activité pr
 
 ## Personnalisation des rapports en ligne
 
-![alt text](/img/rapports.jpg)
+![Interface de personnalisation des rapports avec les sections activables/désactivables et les options de configuration](/img/rapports.jpg)
 
 - **Afficher / masquer des sections** :  
   L’utilisateur peut désactiver des blocs entiers, par exemple :
@@ -50,7 +50,7 @@ La personnalisation des rapports s'applique automatiquement à tous les membres 
 
 Un **icône “filtre”** situé en haut à droite du rapport (près du menu) permet d’ouvrir directement le panneau des options.
 
-![alt text](/img/rapports-2.jpg)
+![Barre d'outils du rapport avec l'icône de filtre mis en évidence pour accéder aux options de personnalisation](/img/rapports-2.jpg)
 
 ## Exemple d’usage
 

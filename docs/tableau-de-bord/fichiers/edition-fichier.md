@@ -21,7 +21,7 @@ Pour renommer un fichier :
 4. Sélectionnez **Renommer le fichier** dans le menu déroulant.
 5. Saisissez le nouveau nom souhaité, puis confirmez.
 
-![alt text](/img/edit-fichier.jpg)
+![Menu contextuel d'un fichier avec les options 'Renommer le fichier' et 'Supprimer' disponibles](/img/edit-fichier.jpg)
 
 Le fichier sera immédiatement mis à jour et le nouveau nom sera visible dans la liste.
 

@@ -18,7 +18,7 @@ En haut à droite de la page d'accueil, cliquez sur le **bouton "Connexion"**. V
 
 Saisissez votre **adresse email** et votre **mot de passe** dans les champs prévus.
 
-![alt text](/img/connexion.jpg)
+![Formulaire de connexion avec champs pour l'email et le mot de passe](/img/connexion.jpg)
 
 - Vous pouvez **visualiser votre mot de passe** en cliquant sur l’icône en forme d’œil, située à côté du champ du mot de passe.
 

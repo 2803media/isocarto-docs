@@ -22,7 +22,7 @@ Dans cette section, vous pouvez visualiser et modifier les informations enregist
 - **Mot de passe**
 - **Numéro de téléphone**
 
-![Capture d'écran des informations du compte](/img/compte-preview.jpg)
+![Capture d'écran de la section 'Informations personnelles' avec les champs Nom, Prénom, Email, Mot de passe et Téléphone](/img/compte-preview.jpg)
 
 Pour modifier une information, il suffit de mettre à jour le champ correspondant puis de cliquer sur **Enregistrer**.
 
@@ -32,7 +32,7 @@ Pour mettre à jour l'email associé à votre compte, vous devez :
 
 1. Cliquez sur le bouton "changer l'email' pour accéder à la page dédiée.
 
-![alt text](/img/changement-email.jpg)
+![Formulaire de changement d'email avec les champs 'Nouvel email' et 'Confirmer le nouvel email' et bouton 'Mettre à jour'](/img/changement-email.jpg)
 
 :::warning[Attention]
 
@@ -49,7 +49,7 @@ Pour changer votre mot de passe, vous devrez :
 
 1. Cliquez sur le bouton "changer le mot de passe" pour accéder à la page dédiée.
 
-![alt text](/img/changement-mdp.jpg)
+![Formulaire de changement de mot de passe avec les champs 'Mot de passe actuel', 'Nouveau mot de passe' et 'Confirmer le nouveau mot de passe'](/img/changement-mdp.jpg)
 
 2. Saisir votre mot de passe actuel.
 3. Saisir le nouveau mot de passe.
@@ -67,7 +67,7 @@ Cette étape garantit la sécurité de votre compte.
 
 La section située en bas de la page permet de **supprimer entièrement votre compte Isocarto** ainsi que toutes les données associées.
 
-![alt text](/img/del-compte.jpg)
+![Section 'Supprimer définitivement le compte' avec le bouton rouge 'Supprimer mon compte' et un message d'avertissement sur l'irréversibilité de l'action](/img/del-compte.jpg)
 
 En supprimant votre compte :
 

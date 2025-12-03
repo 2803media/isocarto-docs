@@ -10,7 +10,7 @@ slug: /compte/factures/general
 
 L’onglet **Facturation** rassemble toutes les informations liées à la gestion financière de votre compte Isocarto.
 
-![alt text](/img/factures.jpg)
+![Vue d'ensemble de l'onglet Facturation avec les sections 'Informations de facturation', 'Moyens de paiement' et 'Historique des factures' visibles](/img/factures.jpg)
 
 Vous y trouverez :
 

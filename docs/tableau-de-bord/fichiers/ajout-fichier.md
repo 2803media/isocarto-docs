@@ -24,13 +24,13 @@ Vous pouvez ensuite importer les formats de fichier suivants :
 Taille maximale des fichiers : 50 Mo par fichier
 :::
 
-![alt text](/img/vos-fichiers-8.jpg)
+![Interface d'ajout de fichier avec le bouton de sélection de fichier et les formats acceptés (CSV, XLSX, XLS)](/img/vos-fichiers-8.jpg)
 
 ## Étape 2 : Sélectionner la feuille (fichiers Excel)
 
 Si vous importez un fichier Excel contenant plusieurs feuilles, sélectionnez celle qui contient vos données.
 
-![alt text](/img/vos-fichiers-9.jpg)
+![Sélecteur de feuille Excel avec la liste des feuilles disponibles dans le document](/img/vos-fichiers-9.jpg)
 
 ## Étape 3 : Choisir la méthode de géocodage du fichier
 
@@ -50,7 +50,7 @@ Vous pouvez reconstituer une adresse postale en sélectionnant :
 
 L’interface vous aide à associer correctement chaque champ.
 
-![alt text](/img/vos-fichiers-4.jpg)
+![Interface de sélection des colonnes d'adresse avec les champs pour la rue, le code postal et la ville](/img/vos-fichiers-4.jpg)
 
 ### **3. Utilisation de coordonnées GPS**
 
@@ -59,7 +59,7 @@ Si votre fichier contient :
 - une colonne **Latitude**,
 - une colonne **Longitude**,
 
-![alt text](/img/vos-fichiers-5.jpg)
+![Interface de sélection des colonnes de coordonnées GPS (latitude et longitude)](/img/vos-fichiers-5.jpg)
 
 alors Isocarto les utilisera directement : **aucun géocodage n’est nécessaire**.
 
@@ -71,7 +71,7 @@ Vous pouvez donc sélectionner seulement celles que vous souhaitez importer.
 - Les colonnes nécessaires au géocodage (adresse ou coordonnées GPS) sont **obligatoires**.
 - Les autres colonnes sont **optionnelles**.
 
-![alt text](/img/vos-fichiers-6.jpg)
+![Interface de sélection des colonnes à importer avec les options pour chaque colonne et l'indication des champs obligatoires](/img/vos-fichiers-6.jpg)
 
 Cela permet de ne pas importer de données inutiles ou confidentielles.
 

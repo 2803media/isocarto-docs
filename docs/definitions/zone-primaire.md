@@ -9,7 +9,7 @@ slug: /definitions/zone-primaire
 
 Les zones de chalandise sont des outils essentiels en géomarketing pour analyser la proximité et l’attractivité d’un point de vente. Elles se divisent généralement en trois catégories : primaire, secondaire et tertiaire.
 
-![alt text](/img/primaire.jpg)
+![Représentation visuelle des trois zones de chalandise (primaire, secondaire, tertiaire) autour d'un point de vente central](/img/primaire.jpg)
 
 ## Zone de Chalandise Primaire
 

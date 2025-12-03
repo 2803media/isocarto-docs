@@ -15,12 +15,12 @@ Vous pouvez annuler votre abonnement directement depuis votre espace personnel d
 1. Accédez à **Compte → Abonnement**.
 2. Cliquez sur **Annuler l’abonnement**.
 
-![alt text](/img/annulation-abo.jpg)
+![Section de l'abonnement avec le bouton 'Annuler l'abonnement' mis en évidence](/img/annulation-abo.jpg)
 
 3. Une **modale de confirmation** s’affiche.
 4. Validez pour enregistrer votre demande.
 
-![alt text](/img/annulation-abo-2.jpg)
+![Fenêtre de confirmation d'annulation avec le message 'Êtes-vous sûr de vouloir annuler votre abonnement ?' et les boutons 'Annuler' et 'Confirmer'](/img/annulation-abo-2.jpg)
 
 ## Ce qu’il faut savoir
 

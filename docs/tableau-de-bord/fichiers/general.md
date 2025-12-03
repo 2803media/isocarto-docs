@@ -17,7 +17,7 @@ Lorsque vous ouvrez l’onglet, une **fenêtre de gestion** s’affiche. Elle li
 - la part restante dans votre quota,
 - les options pour ajouter, renommer ou supprimer un fichier.
 
-![alt text](/img/vos-fichiers-1.jpg)
+![Interface de gestion des fichiers avec la liste des fichiers importés, l'indicateur d'utilisation du quota et les boutons d'action (ajouter, éditer, supprimer)](/img/vos-fichiers-1.jpg)
 
 Vous pouvez ensuite :
 

@@ -15,11 +15,11 @@ La gestion des moyens de paiement est opérée via **Stripe**, notre prestataire
 1. Rendez-vous dans **Compte → Factures**.
 2. Cliquez sur **Gérer les moyens de paiement**.
 
-![Interface de gestion des moyens de paiement](/img/moyen-paid.jpg)
+![Section 'Moyens de paiement' avec le bouton 'Gérer les moyens de paiement' mis en évidence](/img/moyen-paid.jpg)
 
 3. Vous serez redirigé vers l’espace sécurisé Stripe.
 
-![Page de paiement sécurisée](/img/moyen-paid-3.jpg)
+![Tableau de bord Stripe sécurisé avec la liste des méthodes de paiement enregistrées](/img/moyen-paid-3.jpg)
 
 ## Ajouter un moyen de paiement
 
@@ -27,12 +27,12 @@ Sur la page Stripe, vous pouvez :
 
 - Mettre à jour un moyen de paiement existant
 
-![Options de paiement disponibles](/img/moyen-paid-2.jpg)
+![Menu déroulant des options de paiement disponibles (carte bancaire, prélèvement SEPA)](/img/moyen-paid-2.jpg)
 
 - Ajouter une **carte bancaire**
 - Configurer un **prélèvement SEPA**
 
-![Configuration du prélèvement SEPA](/img/moyen-paid-4.jpg)
+![Formulaire de configuration du prélèvement SEPA avec les champs IBAN et coordonnées du titulaire du compte](/img/moyen-paid-4.jpg)
 
 Stripe vous demande ensuite de confirmer l’ajout.
 

@@ -22,8 +22,8 @@ Le changement de thème s’applique :
 Pour changer le thème :
 
 1. Cliquez sur l'icône **soleil** ou **lune** en haut à droite de l'écran
-   ![Bouton de basculement du thème clair](/img/theme-switch.jpg)
-   ![Bouton de basculement du thème sombre](/img/theme-switch-2.jpg)
+   ![Bouton de basculement du thème clair avec une icône de soleil](/img/theme-switch.jpg)
+   ![Bouton de basculement du thème sombre avec une icône de lune](/img/theme-switch-2.jpg)
 2. Le changement s’applique immédiatement.
 
 ## Exemples visuels
@@ -32,11 +32,11 @@ Ci-dessous, deux captures d’écran illustrant les deux modes :
 
 ### Thème clair
 
-![Capture d'écran du thème clair d'Isocarto](/img/light-theme.jpg)
+![Interface d'Isocarto en thème clair avec la barre de navigation blanche et le fond de carte clair](/img/light-theme.jpg)
 
 ### Thème foncé
 
-![Capture d'écran du thème sombre d'Isocarto](/img/dark-theme.jpg)
+![Interface d'Isocarto en thème sombre avec la barre de navigation noire et le fond de carte sombre](/img/dark-theme.jpg)
 
 ## Pourquoi utiliser le thème foncé ?
 

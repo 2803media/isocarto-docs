@@ -17,6 +17,6 @@ Cet onglet se divise en trois sections principales :
 2. [**Mise à jour de l'abonnement**](maj-abonnement) : possibilité d’upgrade ou de downgrade vers un autre plan.
 3. [**Annulation de l'abonnement**](annulation-abonnement) : arrêter votre abonnement tout en conservant l'accès jusqu’à la fin de la période en cours.
 
-![alt text](/img/account.jpg)
+![Capture d'écran de l'onglet 'Abonnement' avec les sections 'Votre abonnement actuel', 'Historique des factures' et 'Moyens de paiement' visibles](/img/account.jpg)
 
 Des pages dédiées détaillent chacune de ces sections pour une meilleure compréhension.
