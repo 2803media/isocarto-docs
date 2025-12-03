@@ -14,9 +14,9 @@ L’écran principal d’Isocarto regroupe l’ensemble des outils nécessaires 
 
 L’interface se compose de trois zones principales :
 
-- **À gauche :** la liste des _features_ principales (création de zones, données, fichiers, analyses, etc.).
-- **Au centre :** la carte interactive.
-- **À droite et en haut de la carte :** les contrôles liés à la navigation, l’affichage et les exports.
+- À gauche : la liste des fonctionnalités principales (création de zones, données, fichiers, analyses, etc.).
+- Au centre : la carte interactive.
+- À droite et en haut de la carte : les contrôles liés à la navigation, l’affichage et les exports.
 
 ![Vue d'ensemble de l'interface d'Isocarto avec la barre latérale de gauche, la carte centrale et les contrôles à droite](/img/main-interface.jpg)
 
@@ -36,8 +36,8 @@ Cette barre vous permet de naviguer rapidement entre toutes les fonctionnalités
 
 En haut de la carte se trouve une barre de recherche permettant de :
 
-- rechercher une **adresse**,
-- rechercher un **lieu**,
+- rechercher une adresse ;
+- rechercher un lieu ;
 - centrer automatiquement la carte sur la position trouvée.
 
 Cette recherche facilite les déplacements rapides au sein de votre zone d’étude.
@@ -60,7 +60,7 @@ Centre la carte sur votre position actuelle (avec votre consentement).
 
 ### Export d’image
 
-Génère une **capture de la carte** (PNG) incluant les zones visibles et les couches affichées.
+Génère une capture de la carte (PNG) incluant les zones visibles et les couches affichées.
 
 ## Barre inférieure - Fond de carte
 
@@ -68,32 +68,13 @@ En bas de l’écran, un sélecteur de fond de carte permet de choisir entre :
 
 ![Barre de sélection du fond de carte avec les options : Vue satellite, Vue classique et Aucun fond](/img/fond-switch.jpg)
 
-- **Satellite**
-  ![Capture d'écran montrant la vue satellite avec les bâtiments et la végétation visibles](/img/fond-sat.jpg)
+- Satellite
+- Classique
+- Aucun fond de carte
 
-  :::tip[Information]
-
-  Pour les images satellite, Isocarto utilise les données de l'IGN avec la BD ORTHO.
-
-  :::
-
-- **Classique**
-  ![Capture d'écran montrant la vue cartographique classique avec les routes et les noms de rues](/img/fond-normal.jpg)
-
-  :::tip[Information]
-
-  Pour les fonds de carte classique, Isocarto, à l'inverse des solutions concurrentes, utilise **son propre serveur de tuiles** basé sur les données d'OpenStreetMap. Cela nous permet d'avoir une meilleure maitrise du design des cartes et de ce que l'on veut afficher!
-
-  :::
-
-- **Aucun fond de carte** (utile pour certains exports ou analyses)
-  ![Capture d'écran montrant une vue sans fond de carte, avec uniquement les éléments ajoutés par l'utilisateur](/img/fond-blanc.jpg)
-
-Le changement est immédiat et s’applique à la vue courante.
+Chaque fond possède un usage adapté selon le type d’analyse ou de rendu souhaité.
 
 ## Échelle et crédits (en bas à droite)
-
-En bas à droite de la carte, vous trouverez :
 
 ### Échelle
 
@@ -101,22 +82,22 @@ Indique la distance correspondant à l’affichage actuel pour faciliter les mes
 
 :::tip[Information]
 
-N'oublions pas qu'un outil de cartographie doit être accompagné d'une échelle sinon cela n'est pas un outil de cartographie!
+Toute carte doit comporter une échelle pour être interprétée correctement.
 
 :::
 
 ### Crédits
 
-Fournit les informations légales et les mentions obligatoires liées aux données cartographiques (OpenStreetMap, IGN, fond satellite, etc.).
+Affiche les mentions légales et les sources des données (OpenStreetMap, IGN, etc.).
 
 :::tip[Information]
 
-Beaucoup d'acteurs les oublient, chez Isocarto nous ne les oublions pas et nous ne cachons pas non plus nos sources d'informations affichées sur la carte.
+Isocarto affiche systématiquement les crédits des données afin de respecter les bonnes pratiques et obligations légales.
 
 :::
 
 ## Accéder à la carte
 
-Vous pouvez accéder directement à l'outil de cartographie via le lien suivant :
+Vous pouvez accéder directement à l’outil de cartographie via le lien suivant :
 
 [Ouvrir la carte Isocarto](https://isocarto.fr/carte)

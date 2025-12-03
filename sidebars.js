@@ -53,7 +53,11 @@ const sidebars = {
           customProps: {
             icon: "heroicons:computer-desktop",
           },
-          items: ["interface/ecran-principal", "interface/changement-theme"],
+          items: [
+            "interface/ecran-principal",
+            "interface/vues-fonds-de-carte",
+            "interface/changement-theme",
+          ],
         },
       ],
     },
