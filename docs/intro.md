@@ -6,21 +6,31 @@ sidebar_custom_props:
   icon: heroicons:home
 ---
 
-# Bienvenue sur Isocarto
+# Bienvenue sur la documentation d'Isocarto
 
-Bienvenue dans la documentation d'**Isocarto**, la plateforme de géo-marketing nouvelle génération.
+**Isocarto** est une plateforme de géo-marketing nouvelle génération conçue pour analyser vos territoires, comprendre vos données et orienter vos décisions.
 
-La documentation est en cours de migration et va se complèter progressivement...
+## Pourquoi Isocarto ?
 
-## Qu'est-ce qu'Isocarto ?
+Isocarto vous aide à :
 
-Isocarto est un outil de géo-marketing qui vous permet de :
-
-- Analyser vos territoires en profondeur
-- Utiliser l'IA pour synthétiser vos données
-- Prendre des décisions stratégiques basées sur la localisation
+- **Analyser finement vos zones de chalandise**
+- **Croiser vos données internes** avec les données publiques (INSEE, SIREN, OSM…)
+- **Générer des insights immédiatement exploitables grâce à l’IA**
+- **Optimiser vos décisions stratégiques** selon la localisation et le contexte territorial
 
 ![Présentation visuelle de l'interface d'Isocarto avec une carte interactive et des outils d'analyse géographique](/img/home-1.webp)
+
+## Naviguer dans la documentation
+
+Dans cette documentation, vous trouverez :
+
+- Les **guides utilisateur** pour comprendre les fonctionnalités
+- Les **tutoriels** pour aller plus loin
+- Les **références techniques** pour l’usage avancé
+- Les **modules thématiques** (cartes, zones, fichiers, rapports…)
+
+Utilisez la barre latérale pour accéder rapidement aux sections.
 
 ## Besoin d'aide ?
 
