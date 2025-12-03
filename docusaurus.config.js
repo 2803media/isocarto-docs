@@ -9,10 +9,11 @@ const config = {
   title: "Documentation Isocarto",
   tagline: "Guide d'utilisation de la plateforme de géo-marketing",
   favicon: "img/favicon.ico",
+  /*
   future: {
     v4: true,
   },
-
+*/
   url: "https://docs.isocarto.fr",
   baseUrl: "/",
 

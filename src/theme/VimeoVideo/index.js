@@ -13,7 +13,7 @@ export default function VimeoVideo({ videoId, className }) {
         className="h-full w-full"
         allow="autoplay; fullscreen; picture-in-picture"
         loading="lazy"
-        title="Présentation vidéo Isocarto"
+        title="Vidéo Isocarto"
       ></iframe>
     </div>
   );
