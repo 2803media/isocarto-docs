@@ -6,9 +6,6 @@ const sidebars = {
       type: "category",
       label: "Démarrer", // ✅ Le texte propre pour le breadcrumb
       collapsed: false,
-      customProps: {
-        icon: "heroicons:rocket-launch", // 🔧 L'icône déplacée ici
-      },
       items: ["intro", "inscription", "connexion"],
     },
 
@@ -17,9 +14,6 @@ const sidebars = {
       type: "category",
       label: "Comprendre",
       collapsed: false,
-      customProps: {
-        icon: "heroicons:book-open",
-      },
       items: [
         {
           type: "category",
@@ -43,9 +37,6 @@ const sidebars = {
       type: "category",
       label: "Utiliser Isocarto",
       collapsed: false,
-      customProps: {
-        icon: "heroicons:cursor-arrow-rays",
-      },
       items: [
         {
           type: "category",
@@ -69,9 +60,6 @@ const sidebars = {
       type: "category",
       label: "Tableau de bord",
       collapsed: false,
-      customProps: {
-        icon: "heroicons:chart-pie",
-      },
       items: [
         {
           type: "category",
@@ -112,9 +100,6 @@ const sidebars = {
       type: "category",
       label: "Gestion du compte",
       collapsed: false,
-      customProps: {
-        icon: "heroicons:cog-6-tooth",
-      },
       items: [
         {
           type: "category",
