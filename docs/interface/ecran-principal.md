@@ -70,8 +70,22 @@ En bas de l’écran, un sélecteur de fond de carte permet de choisir entre :
 
 - **Satellite**
   ![Capture d'écran montrant la vue satellite avec les bâtiments et la végétation visibles](/img/fond-sat.jpg)
+
+  :::tip[Information]
+
+  Pour les images satellite, Isocarto utilise les données de l'IGN avec la BD ORTHO.
+
+  :::
+
 - **Classique**
   ![Capture d'écran montrant la vue cartographique classique avec les routes et les noms de rues](/img/fond-normal.jpg)
+
+  :::tip[Information]
+
+  Pour les fonds de carte classique, Isocarto, à l'inverse des solutions concurrentes, utilise **son propre serveur de tuiles** basé sur les données d'OpenStreetMap. Cela nous permet d'avoir une meilleure maitrise du design des cartes et de ce que l'on veut afficher!
+
+  :::
+
 - **Aucun fond de carte** (utile pour certains exports ou analyses)
   ![Capture d'écran montrant une vue sans fond de carte, avec uniquement les éléments ajoutés par l'utilisateur](/img/fond-blanc.jpg)
 
