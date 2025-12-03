@@ -56,6 +56,7 @@ const sidebars = {
           items: [
             "interface/ecran-principal",
             "interface/vues-fonds-de-carte",
+            "interface/masquer-barre-laterale",
             "interface/changement-theme",
           ],
         },

@@ -6,6 +6,8 @@ sidebar_label: Thème sombre/clair
 slug: /compte/changement-theme
 ---
 
+import VimeoVideo from '@site/src/theme/VimeoVideo';
+
 # Changement de couleur de thème sur le site
 
 Isocarto propose deux modes d’affichage : **thème clair** et **thème foncé**.  
@@ -25,6 +27,8 @@ Pour changer le thème :
    ![Bouton de basculement du thème clair avec une icône de soleil](/img/theme-switch.jpg)
    ![Bouton de basculement du thème sombre avec une icône de lune](/img/theme-switch-2.jpg)
 2. Le changement s’applique immédiatement.
+
+<VimeoVideo videoId="1143127887" />
 
 ## Exemples visuels
 

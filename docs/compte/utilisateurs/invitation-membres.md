@@ -66,7 +66,7 @@ Le propriétaire peut à tout moment :
 
 - **Annuler une invitation en attente**
 
-![Menu contextuel d'un membre avec l'option 'Révoquer l'invitation' mise en évidence](../../../static/img/member-7.jpg)
+![Menu contextuel d'un membre avec l'option 'Révoquer l'invitation' mise en évidence](/img/member-7.jpg)
 
 Cette action est accessible depuis la liste des utilisateurs via le menu d’options.
 

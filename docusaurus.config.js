@@ -9,6 +9,9 @@ const config = {
   title: "Documentation Isocarto",
   tagline: "Guide d'utilisation de la plateforme de géo-marketing",
   favicon: "img/favicon.ico",
+  future: {
+    v4: true,
+  },
 
   url: "https://docs.isocarto.fr",
   baseUrl: "/",
@@ -50,12 +53,6 @@ const config = {
               path: "/", // Version actuelle à la racine
               banner: "none",
             },
-            2.1: {
-              label: "2.1",
-              path: "2.1",
-              banner: "unmaintained",
-              noIndex: true, // Pas d'indexation SEO
-            },
           },
         },
         blog: false,
@@ -71,7 +68,7 @@ const config = {
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
         indexPages: true,
-        docsRouteBasePath: "/docs",
+        docsRouteBasePath: "/",
         hashed: true,
         language: ["fr"],
         highlightSearchTermsOnTargetPage: false,
@@ -83,7 +80,34 @@ const config = {
     ],
   ],
 
-  plugins: ["./src/plugins/tailwind-config.js"],
+  plugins: [
+    "./src/plugins/tailwind-config.js",
+    function (context, options) {
+      return {
+        name: "image-optimizer",
+        configureWebpack(config, isServer) {
+          if (!isServer) {
+            return {
+              plugins: [
+                new (require("image-minimizer-webpack-plugin"))({
+                  minimizer: {
+                    implementation: require("image-minimizer-webpack-plugin")
+                      .imageminMinify,
+                    options: {
+                      plugins: [
+                        ["mozjpeg", { quality: 75 }],
+                        ["pngquant", { quality: [0.6, 0.8] }],
+                      ],
+                    },
+                  },
+                }),
+              ],
+            };
+          }
+        },
+      };
+    },
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
