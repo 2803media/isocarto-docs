@@ -55,6 +55,7 @@ const sidebars = {
           },
           items: [
             "interface/ecran-principal",
+            "interface/menus-barre-laterale",
             "interface/vues-fonds-de-carte",
             "interface/masquer-barre-laterale",
             "interface/changement-theme",
