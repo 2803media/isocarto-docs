@@ -2,7 +2,7 @@
 id: definition-isodistance
 title: Zone Isodistance
 description: Comprendre ce qu’est une zone isodistance, son utilité et ses variantes selon les modes de transport.
-slug: /definitions/isodistances
+slug: /comprendre/definitions/isodistances
 ---
 
 # Isodistance : Définition et Utilité
@@ -34,7 +34,7 @@ Il ne s’agit pas d’un simple cercle : la forme dépend du réseau utilisable
 
 - Suit le réseau routier accessible aux véhicules motorisés.
 - Ne tient pas compte du temps ou des vitesses, uniquement des kilomètres parcourus.
-- Permet de visualiser la « proximité routière » d'un lieu.
+- Permet de visualiser la "proximité routière" d'un lieu.
 
 :::tip[Exemple d'application]
 

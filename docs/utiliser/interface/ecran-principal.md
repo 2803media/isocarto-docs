@@ -3,7 +3,7 @@ id: ecran-principal
 title: Écran principal
 description: Présentation de l'écran principal et de la navigation dans Isocarto.
 sidebar_label: Écran principal
-slug: /interface/ecran-principal
+slug: /utiliser/interface/ecran-principal
 ---
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';

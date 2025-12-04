@@ -3,7 +3,7 @@ id: masquer-barre-laterale
 title: Masquer la barre latérale
 description: Comment masquer ou réafficher la barre latérale d’Isocarto pour optimiser l’espace de travail.
 sidebar_label: Masquer la barre latérale
-slug: /interface/masquer-barre-laterale
+slug: /utiliser/interface/masquer-barre-laterale
 ---
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';

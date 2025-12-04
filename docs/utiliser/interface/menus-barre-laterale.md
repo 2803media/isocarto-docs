@@ -3,7 +3,7 @@ id: menus-barre-laterale
 title: Menus de la barre latérale
 description: Présentation des différents menus disponibles dans la barre latérale d'Isocarto.
 sidebar_label: Menus de la barre latérale
-slug: /interface/menus-barre-laterale
+slug: /utiliser/interface/menus-barre-laterale
 ---
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';

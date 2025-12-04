@@ -1,7 +1,7 @@
 ---
 sidebar_label: Choisir le type de zone
 title: Choisir le type de zone
-slug: /methodo/choisir-type-zone
+slug: /comprendre/methodo/choisir-type-zone
 ---
 
 # Choisir le type de zone

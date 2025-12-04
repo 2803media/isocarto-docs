@@ -2,7 +2,7 @@
 id: zones-manuelles
 title: Zones Manuelles
 description: "Créer des zones personnalisées à l’aide de l’outil de dessin intégré à la carte."
-slug: /definitions/zones-manuelles
+slug: /comprendre/definitions/zones-manuelles
 ---
 
 # Zones Manuelles : Définition et Utilité

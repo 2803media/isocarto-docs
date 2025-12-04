@@ -1,7 +1,7 @@
 ---
 sidebar_label: Analyser une zone de chalandise
 title: Analyser une zone de chalandise
-slug: /methodo/analyser-zone-chalandise
+slug: /comprendre/methodo/analyser-zone-chalandise
 ---
 
 # Analyser une zone de chalandise

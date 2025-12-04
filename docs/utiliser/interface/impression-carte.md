@@ -3,7 +3,7 @@ id: impression-carte
 title: Imprimer la carte
 description: Imprimer la carte interactive sans éléments perturbateurs.
 sidebar_label: Imprimer la carte
-slug: /interface/impression-carte
+slug: /utiliser/interface/impression-carte
 ---
 
 # Imprimer la carte

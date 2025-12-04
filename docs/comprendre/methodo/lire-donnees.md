@@ -1,7 +1,7 @@
 ---
 sidebar_label: Lire et interpréter les données
 title: Lire et interpréter les données
-slug: /methodo/lire-donnees
+slug: /comprendre/methodo/lire-donnees
 ---
 
 # Lire et interpréter les données

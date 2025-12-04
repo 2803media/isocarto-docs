@@ -3,7 +3,7 @@ id: vues-fonds-de-carte
 title: Vues et fonds de carte
 description: Présentation des vues et des fonds de carte disponibles dans Isocarto.
 sidebar_label: Vues et fonds de carte
-slug: /interface/vues-fonds-de-carte
+slug: /utiliser/interface/vues-fonds-de-carte
 ---
 
 # Usages recommandés des fonds de carte

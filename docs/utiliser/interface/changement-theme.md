@@ -3,7 +3,7 @@ id: changement-theme
 title: Changement de thème
 description: Guide pour passer du thème clair au thème foncé dans Isocarto.
 sidebar_label: Thème sombre/clair
-slug: /compte/changement-theme
+slug: /utiliser/compte/changement-theme
 ---
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';

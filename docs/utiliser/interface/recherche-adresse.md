@@ -3,7 +3,7 @@ id: recherche-adresse
 title: Utiliser la recherche d’adresse
 description: Rechercher et se positionner sur la carte via la boîte de recherche.
 sidebar_label: Recherche d’adresse
-slug: /interface/recherche-adresse
+slug: /utiliser/interface/recherche-adresse
 ---
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';

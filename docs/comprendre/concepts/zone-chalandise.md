@@ -2,7 +2,7 @@
 sidebar_position: 2
 sidebar_label: Zone de chalandise
 title: Zone de chalandise
-slug: /concepts/zone-chalandise
+slug: /comprendre/concepts/zone-chalandise
 ---
 
 # Zone de chalandise

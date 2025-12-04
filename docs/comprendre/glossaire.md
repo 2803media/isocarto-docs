@@ -112,13 +112,23 @@ Loi française (n°89-1008 du 31 décembre 1989) régissant les relations commer
 
 ## P
 
+### Pegman
+
+Outil de navigation de Google Maps représenté par une icône de bonhomme jaune. Dans Isocarto, Pegman permet d'ouvrir Google Street View depuis la fenêtre de validation d'un point sur la carte. Cette fonctionnalité est particulièrement utile pour :
+
+- Vérifier visuellement l'environnement d'un lieu
+- Confirmer la localisation exacte avant de créer une zone
+- Identifier les points d'intérêt à proximité
+
+L'utilisation de Pegman aide à éviter les erreurs de positionnement et à valider le choix d'un emplacement pour des analyses précises.
+
 ### PLU (Plan Local d'Urbanisme)
 
 Document de planification urbaine qui définit les règles d'utilisation du sol sur le territoire d'une commune ou d'un groupement de communes. Il remplace le POS (Plan d'Occupation des Sols) et fixe les règles générales d'urbanisme, les zones constructibles et les espaces à protéger.
 
 ### Point d'intérêt (POI)
 
-Lieu spécifique qui peut être utile ou intéressant pour les utilisateurs, comme un magasin, une école, un hôpital, etc.
+Lieu particulier qui peut présenter un intérêt pour les utilisateurs, comme un commerce, un service public ou un monument. Les POI sont souvent utilisés dans les analyses de zone de chalandise et les études d'implantation.
 
 ## Q
 

@@ -2,8 +2,8 @@
 id: geolocalisation
 title: Utiliser la géolocalisation sur la carte
 description: Activer la géolocalisation pour se positionner automatiquement sur la carte.
-sidebar_label: Géolocalisation
-slug: /interface/geolocalisation
+sidebar_label: Géolocalisation de l'utilisateur
+slug: /utiliser/interface/geolocalisation
 ---
 
 # Utiliser la géolocalisation sur la carte

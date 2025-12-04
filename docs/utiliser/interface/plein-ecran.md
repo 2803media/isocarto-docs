@@ -3,7 +3,7 @@ id: plein-ecran
 title: Passer en mode plein écran
 description: Activer le mode plein écran pour une vue immersive de la carte.
 sidebar_label: Mode plein écran
-slug: /interface/plein-ecran
+slug: /utiliser/interface/plein-ecran
 ---
 
 # Passer en mode plein écran

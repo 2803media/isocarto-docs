@@ -2,7 +2,7 @@
 id: zones-administratives
 title: Zones Administratives
 description: "Comprendre les zones administratives utilisées en cartographie : communes, quartiers IRIS, départements, zones d’emploi, unités urbaines, EPCI et aires d’attraction."
-slug: /definitions/zones-administratives
+slug: /comprendre/definitions/zones-administratives
 ---
 
 # Zones Administratives : Définition et Utilité
