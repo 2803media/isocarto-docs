@@ -20,7 +20,7 @@ L’interface se compose de trois zones principales :
 - Au centre : la carte interactive.
 - À droite et en haut de la carte : les contrôles liés à la navigation, l’affichage et les exports.
 
-![Vue d'ensemble de l'interface d'Isocarto avec la barre latérale de gauche, la carte centrale et les contrôles à droite](/img/main-interface.jpg)
+<VimeoVideo videoId="1143464222" />
 
 ## Barre latérale gauche - Outils principaux
 

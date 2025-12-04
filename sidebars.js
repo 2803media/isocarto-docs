@@ -64,15 +64,20 @@ const sidebars = {
       items: [
         {
           type: "category",
-          label: "Interface",
+          label: "Interface de l'outil",
           customProps: {
             icon: "heroicons:computer-desktop",
           },
           items: [
             "interface/ecran-principal",
             "interface/menus-barre-laterale",
+            "interface/recherche-adresse",
             "interface/vues-fonds-de-carte",
             "interface/masquer-barre-laterale",
+            "interface/geolocalisation",
+            "interface/plein-ecran",
+            "interface/impression-carte",
+            "interface/3D",
             "interface/changement-theme",
           ],
         },
