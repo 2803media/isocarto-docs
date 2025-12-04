@@ -16,6 +16,8 @@ Cette page décrit l’ensemble du processus : ouverture du panneau, choix du po
 Dans la barre latérale, cliquez sur le bouton **"Ajouter nouvelle zone"** (icône "plus").  
 Ce bouton est volontairement mis en avant afin de guider l’utilisateur vers la création de sa première zone.
 
+![bouton ajout de zone](/img/bouton-add-zone.jpg)
+
 Cela ouvre le panneau **"Ajouter nouvelle zone"**, qui présente en haut une section **Besoin d'aide ?** expliquant comment choisir et positionner le point central de la zone.
 
 ## Choisir le point de départ de la zone

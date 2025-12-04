@@ -46,6 +46,12 @@ Dans cette section, vous trouverez toutes les données ajoutées par l’utilisa
 
 En cliquant sur ce lien, vous ouvrez le rapport interactif en ligne de la zone active de la carte. Cela vous permet d’exporter ou de consulter les résultats d’analyse en toute simplicité. Les [préférences des rapports](/tableau-de-bord/rapport) sont modifiables dans le tableau de bord
 
+## Retrouvez ce menu sur chacune des vues de la barre latérale
+
+Quand vous naviguez dans les options de la barre latérale vous aller retrouver ce menu, sous la forme d'icône cliquables, à chaque fois en haut de la fenêtre. L'idée ici est de vous proposer un accès rapide pour naviguer entre les différentes options de la barre latérale.
+
+![quick menu barre latérale](/img/quick-menu-sidebar.jpg)
+
 ## Accéder à la carte
 
 Vous pouvez accéder directement à l’outil de cartographie via le lien suivant :
