@@ -17,9 +17,9 @@ const sidebars = {
       items: [
         {
           type: "category",
-          label: "Concepts fondamentaux",
+          label: "Définitions",
           customProps: {
-            icon: "heroicons:light-bulb",
+            icon: "heroicons:information-circle",
           },
           items: [
             "definitions/definition-isochrone",
@@ -29,6 +29,30 @@ const sidebars = {
             "definitions/zone-primaire",
           ],
         },
+        {
+          type: "category",
+          label: "Concepts fondamentaux",
+          customProps: {
+            icon: "heroicons:light-bulb",
+          },
+          items: [
+            "concepts/geomarketing-introduction",
+            "concepts/zone-chalandise",
+          ],
+        },
+        {
+          type: "category",
+          label: "Méthodologies",
+          customProps: {
+            icon: "heroicons:academic-cap",
+          },
+          items: [
+            "methodo/analyser-zone-chalandise",
+            "methodo/choisir-type-zone",
+            "methodo/lire-donnees",
+          ],
+        },
+        "comprendre/glossaire",
       ],
     },
 
@@ -50,6 +74,40 @@ const sidebars = {
             "interface/vues-fonds-de-carte",
             "interface/masquer-barre-laterale",
             "interface/changement-theme",
+          ],
+        },
+      ],
+    },
+
+    // 💼 CAS D'USAGE
+    {
+      type: "category",
+      label: "Cas d'usage",
+      collapsed: false,
+      items: [
+        {
+          type: "category",
+          label: "Par secteur",
+          customProps: {
+            icon: "heroicons:building-storefront",
+          },
+          items: [
+            "cas-usage/retail",
+            "cas-usage/franchise",
+            "cas-usage/immobilier",
+            "cas-usage/restauration",
+          ],
+        },
+        {
+          type: "category",
+          label: "Par objectif",
+          customProps: {
+            icon: "heroicons:flag",
+          },
+          items: [
+            "cas-usage/ouverture-point-vente",
+            "cas-usage/analyse-concurrence",
+            "cas-usage/optimisation-reseau",
           ],
         },
       ],
