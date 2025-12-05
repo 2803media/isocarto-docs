@@ -106,14 +106,23 @@ const config = {
         hideOnScroll: false,
         logo: {
           alt: "Isocarto Logo",
-          src: "/img/logofull.svg",
-          srcDark: "/img/logofullwhite.svg",
+          src: "/img/logo.svg",
           href: "https://docs.isocarto.fr",
           target: "_self",
-          width: 150,
-          height: 40,
+          width: 32,
+          height: 32,
         },
         items: [
+          {
+            type: "html",
+            position: "left",
+            value: `
+            <span class="-ml-8 text-center text-xl font-extrabold tracking-tighter text-slate-900 sm:text-xl lg:text-2xl dark:text-white">
+                <span class="text-yellow-500 dark:text-yellow-400">iso</span>carto
+              </span>         
+              <span class="mx-2 text-lg font-semibold text-slate-600 dark:text-slate-400">DOCS</span>
+            `,
+          },
           {
             to: "https://isocarto.fr",
             html: `
