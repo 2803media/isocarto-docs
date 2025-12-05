@@ -16,6 +16,7 @@ const config = {
 */
   url: "https://docs.isocarto.fr",
   baseUrl: "/",
+  trailingSlash: false,
 
   scripts: [
     {
