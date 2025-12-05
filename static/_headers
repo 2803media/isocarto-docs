@@ -1,11 +1,14 @@
 # _headers dans static/
 /assets/images/*
   Cache-Control: public, max-age=31536000, immutable
+  CDN-Cache-Control: no-transform
   Cloudflare-CDN-Cache-Control: no-transform
-  CF-No-Transform: 1
-  X-Content-Type-Options: nosniff
-  X-Cache-Hash: static
+  X-Cache-Hash: original
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+  CDN-Cache-Control: no-transform
 
 /*
   Cache-Control: public, max-age=0, must-revalidate
-  CF-No-Transform: 1
+  X-Accel-Expires: 0
