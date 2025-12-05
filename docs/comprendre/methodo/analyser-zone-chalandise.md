@@ -113,4 +113,4 @@ Zones commerciales spécifiques, secteurs de tournée, territoires d'équipes co
 
 Isocarto permet de créer et comparer tous ces types de zones. Les données publiques (INSEE, SIREN, OSM) peuvent être croisées avec les données internes pour obtenir une vision fiable du territoire. Les visualisations cartographiques facilitent l'interprétation et la prise de décision.
 
-**Pour aller plus loin** : consultez notre guide sur [comment choisir le type de zone](/methodo/choisir-type-zone) adapté à votre analyse.
+**Pour aller plus loin** : consultez notre guide sur [comment choisir le type de zone](/comprendre/methodo/choisir-type-zone) adapté à votre analyse.

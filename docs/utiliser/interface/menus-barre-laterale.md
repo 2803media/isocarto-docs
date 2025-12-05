@@ -16,7 +16,7 @@ La barre latérale d'Isocarto offre un accès rapide aux principales fonctionnal
 
 ## Vos cartes
 
-En cliquant sur cet élément, vous accédez au [tableau de bord](/tableau-de-bord/cartes/general) où sont listées toutes les cartes créées par l'utilisateur. Cela permet de gérer facilement l'ensemble de vos projets cartographiques.
+En cliquant sur cet élément, vous accédez au [tableau de bord](/docs/tableau-de-bord/cartes/general) où sont listées toutes les cartes créées par l'utilisateur. Cela permet de gérer facilement l'ensemble de vos projets cartographiques.
 
 ## Ajouter une nouvelle zone
 
@@ -24,7 +24,7 @@ Ce bouton clignotant permet de créer une nouvelle zone sur la carte. En un clic
 
 ## Informations sur la carte
 
-À l’aide de l’icône d’information, vous pouvez voir le nom de la carte sur laquelle vous travaillez actuellement. Cela facilite la gestion de plusieurs projets simultanés. Vous pouvez [changer ce nom](/tableau-de-bord/cartes/edit-carte) dans le tableau de bord.
+À l’aide de l’icône d’information, vous pouvez voir le nom de la carte sur laquelle vous travaillez actuellement. Cela facilite la gestion de plusieurs projets simultanés. Vous pouvez [changer ce nom](/docs/tableau-de-bord/cartes/edit-carte) dans le tableau de bord.
 
 ## Gestion des zones
 

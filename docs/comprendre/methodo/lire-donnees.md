@@ -157,4 +157,4 @@ Commencez par une analyse globale (démographie + économie), puis affinez avec 
 
 :::
 
-**Pour aller plus loin** : consultez notre guide sur [l'analyse de zone de chalandise](/methodo/analyser-zone-chalandise) pour comprendre le processus complet.
+**Pour aller plus loin** : découvrez comment [analyser une zone de chalandise](/comprendre/methodo/analyser-zone-chalandise) de manière approfondie.

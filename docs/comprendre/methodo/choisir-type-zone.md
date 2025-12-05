@@ -86,4 +86,4 @@ Pour une analyse optimale, commencez par une zone isochrone ou par distance, pui
 
 :::
 
-**Pour aller plus loin** : découvrez comment [interpréter les données](/methodo/lire-donnees) une fois votre zone définie.
+**Pour aller plus loin** : découvrez comment [interpréter les données](/comprendre/methodo/lire-donnees) une fois votre zone définie.
