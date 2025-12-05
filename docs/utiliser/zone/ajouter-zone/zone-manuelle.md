@@ -3,7 +3,7 @@ id: zone-manuelle
 title: Création d'une zone manuelle
 description: Guide pour créer une zone manuelle en dessinant directement sur la carte.
 sidebar_label: Créer une zone manuelle
-slug: /utiliser/ajouter-zone/zone-manuelle
+slug: /utiliser/zone/ajouter-zone/zone-manuelle
 ---
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';

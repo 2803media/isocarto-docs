@@ -85,16 +85,23 @@ const sidebars = {
         },
         {
           type: "category",
-          label: "Créer une nouvelle zone",
+          label: "Zones",
+          collapsed: true,
           customProps: {
-            icon: "heroicons:plus-circle",
+            icon: "heroicons:rectangle-group",
           },
           items: [
-            "utiliser/ajouter-zone/point-depart",
-            "utiliser/ajouter-zone/zone-isochrone",
-            "utiliser/ajouter-zone/zone-isodistance",
-            "utiliser/ajouter-zone/zone-manuelle",
-            "utiliser/ajouter-zone/zone-administrative",
+            {
+              type: "category",
+              label: "Créer une nouvelle zone",
+              items: [
+                "utiliser/zone/ajouter-zone/point-depart",
+                "utiliser/zone/ajouter-zone/zone-isochrone",
+                "utiliser/zone/ajouter-zone/zone-isodistance",
+                "utiliser/zone/ajouter-zone/zone-manuelle",
+                "utiliser/zone/ajouter-zone/zone-administrative",
+              ],
+            },
           ],
         },
       ],

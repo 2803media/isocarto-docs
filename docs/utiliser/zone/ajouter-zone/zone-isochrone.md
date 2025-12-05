@@ -3,7 +3,7 @@ id: zone-isochrone
 title: Création d'une zone isochrone
 description: Guide pour créer une zone isochrone basée sur le temps de parcours.
 sidebar_label: Créer une zone isochrone
-slug: /utiliser/ajouter-zone/zone-isochrone
+slug: /utiliser/zone/ajouter-zone/zone-isochrone
 ---
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';

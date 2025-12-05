@@ -3,7 +3,7 @@ id: point-depart
 title: Point de départ
 description: Guide pour créer sélectionner un point de départ de zone
 sidebar_label: Sélectionner un point de départ
-slug: /utiliser/ajouter-zone/point-depart
+slug: /utiliser/zone/ajouter-zone/point-depart
 ---
 
 # Déterminer le point de départ de la zone

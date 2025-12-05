@@ -3,7 +3,7 @@ id: zone-isodistance
 title: Création d'une zone isodistance
 description: Guide pour créer une zone basée sur une distance définie.
 sidebar_label: Créer une zone isodistance
-slug: /utiliser/ajouter-zone/zone-isodistance
+slug: /utiliser/zone/ajouter-zone/zone-isodistance
 ---
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';

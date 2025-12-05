@@ -3,16 +3,16 @@ id: zone-administrative
 title: Création d'une zone administrative
 description: Guide pour créer une zone administrative en sélectionnant des découpages géographiques.
 sidebar_label: Créer une zone administrative
-slug: /utiliser/ajouter-zone/zone-administrative
+slug: /utiliser/zone/ajouter-zone/zone-administrative
 ---
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';
 
 # Création d'une zone administrative
 
-<VimeoVideo videoId="1143878110" />
+La zone administrative vous permet d'utiliser des découpages géographiques tels que les communes, les départements, les zones urbaines ou les zones d'emploi pour construire vos zones.
 
-La zone administrative vous permet de visualiser des découpages géographiques tels que les communes, les départements, les zones urbaines ou les zones d'emploi.
+<VimeoVideo videoId="1143878110" />
 
 ## Étapes de création
 
@@ -34,9 +34,9 @@ La zone administrative vous permet de visualiser des découpages géographiques 
 
 4. **Sélectionner les zones** : Cliquez sur les zones administratives qui vous intéressent. Chaque zone sélectionnée sera mise en surbrillance.
 
-5. **Valider la zone** : Une fois que les zones sélectionnées vous conviennent, cliquez sur **"Créer la zone"**. Le nombre de zones sélectionnées sera affiché pour confirmation.
+5. **Éditer la zone si nécessaire** : Si vous souhaitez modifier la zone, vous pouvez cliquer sur les zones jaunes pour ajuster les contours avant de valider définitivement.
 
-6. **Éditer la zone si nécessaire** : Si vous souhaitez modifier la zone, vous pouvez cliquer sur les zones ou les points pour ajuster les contours avant de valider définitivement.
+6. **Valider la zone** : Une fois que les zones sélectionnées vous conviennent, cliquez sur **"Créer la zone"**. Le nombre de découpes administratives sélectionnées sera affiché entre parenthèses pour confirmation.
 
 ## Exemples d'utilisation
 
