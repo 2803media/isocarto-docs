@@ -83,34 +83,7 @@ const config = {
     ],
   ],
 
-  plugins: [
-    "./src/plugins/tailwind-config.js",
-    function (context, options) {
-      return {
-        name: "image-optimizer",
-        configureWebpack(config, isServer) {
-          if (!isServer) {
-            return {
-              plugins: [
-                new (require("image-minimizer-webpack-plugin"))({
-                  minimizer: {
-                    implementation: require("image-minimizer-webpack-plugin")
-                      .imageminMinify,
-                    options: {
-                      plugins: [
-                        ["mozjpeg", { quality: 75 }],
-                        ["pngquant", { quality: [0.6, 0.8] }],
-                      ],
-                    },
-                  },
-                }),
-              ],
-            };
-          }
-        },
-      };
-    },
-  ],
+  plugins: ["./src/plugins/tailwind-config.js"],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
