@@ -3,7 +3,7 @@ id: zone-isochrone
 title: Création d'une zone isochrone
 description: Guide pour créer une zone isochrone basée sur le temps de parcours.
 sidebar_label: Créer une zone isochrone
-slug: /interface/zones/isochrone
+slug: /utiliser/ajouter-zone/zone-isochrone
 ---
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';
@@ -18,7 +18,7 @@ La zone isochrone permet de visualiser une aire géographique accessible en un t
 
 1. **Ouvrir le panneau "Ajouter nouvelle zone"** : Cliquez sur le bouton **"Ajouter une nouvelle zone"** dans la barre latérale.
 
-2. **Ajoutez un point de départ** : Suivez les étapes détaillées dans la documentation sur la [définition du point de départ](./point-depart).
+2. **Ajoutez un point de départ** : Suivez les étapes détaillées dans la documentation sur la [définition du point de départ](/utiliser/ajouter-zone/point-depart).
 
 3. **Choisir le type de zone** : Sélectionnez l’icône **"Temps"** pour indiquer que vous souhaitez créer une zone isochrone.
 
