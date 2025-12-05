@@ -89,7 +89,10 @@ const sidebars = {
           customProps: {
             icon: "heroicons:plus-circle",
           },
-          items: ["utiliser/ajouter-zone/point-depart"],
+          items: [
+            "utiliser/ajouter-zone/point-depart",
+            "utiliser/ajouter-zone/zone-isochrone",
+          ],
         },
       ],
     },
