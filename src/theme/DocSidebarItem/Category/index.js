@@ -1,6 +1,11 @@
 import React from "react";
 import Category from "@theme-original/DocSidebarItem/Category";
 import { Icon } from "@iconify/react";
+import { addCollection } from "@iconify/react";
+import heroicons from "@iconify/json/json/heroicons.json";
+
+// Charger les icônes Heroicons en local (pas d'appel API)
+addCollection(heroicons);
 
 export default function CategoryWrapper(props) {
   const { item } = props;

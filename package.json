@@ -30,6 +30,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
     "@docusaurus/types": "3.9.2",
+    "@iconify/json": "^2.2.414",
     "@tailwindcss/postcss": "^4.1.17",
     "fs-extra": "^11.3.2",
     "glob": "^13.0.0",
