@@ -114,16 +114,6 @@ const config = {
         },
         items: [
           {
-            type: "html",
-            position: "left",
-            value: `
-            <span class="-ml-8 text-center text-xl font-extrabold tracking-tighter text-slate-900 sm:text-xl lg:text-2xl dark:text-white">
-                <span class="text-yellow-500 dark:text-yellow-400">iso</span>carto
-              </span>         
-              <span class="mx-2 text-lg font-semibold text-slate-600 dark:text-slate-400">DOCS</span>
-            `,
-          },
-          {
             to: "https://isocarto.fr",
             html: `
               <span class="flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium text-iso-p bg-iso-s/70 hover:bg-iso-s/10 dark:hover:bg-iso-s/80 border border-iso-s/20 hover:border-iso-s/40 rounded-lg transition-colors">
