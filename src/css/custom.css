@@ -652,3 +652,11 @@ blockquote p + p {
     @apply text-sm;
   }
 }
+
+.navbar {
+  border-bottom: 1px solid var(--color-iso-white); /* ou la couleur de votre choix */
+}
+
+[data-theme="dark"] .navbar {
+  border-bottom: 1px solid var(--color-iso-s); /* ou la couleur de votre choix */
+}
