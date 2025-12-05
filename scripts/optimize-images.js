@@ -9,11 +9,18 @@ const BACKUP_DIR = path.join(__dirname, "../static/img-original");
 async function optimizeImages() {
   console.log("🖼️  Optimisation des images...");
 
-  // Créer un backup si nécessaire
-  if (!fs.existsSync(BACKUP_DIR)) {
-    console.log("📦 Création du backup des images originales...");
-    await fs.copy(IMG_DIR, BACKUP_DIR);
+  // Si le backup existe, les images sont déjà optimisées
+  if (fs.existsSync(BACKUP_DIR)) {
+    console.log("✅ Images déjà optimisées (backup existe)");
+    console.log(
+      "💡 Pour ré-optimiser, supprimez le dossier static/img-original"
+    );
+    return;
   }
+
+  // Créer le backup des originales
+  console.log("📦 Création du backup des images originales...");
+  await fs.copy(IMG_DIR, BACKUP_DIR);
 
   // Trouver toutes les images
   const images = glob.sync(`${IMG_DIR}/**/*.{jpg,jpeg,png,webp}`, {
@@ -33,7 +40,6 @@ async function optimizeImages() {
 
       // Lire l'image avec sharp
       let image = sharp(imagePath);
-      const metadata = await image.metadata();
 
       // Optimiser selon le format
       if (ext === ".jpg" || ext === ".jpeg") {

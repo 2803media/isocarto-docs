@@ -240,8 +240,9 @@ html[data-theme="dark"] .theme-edit-this-page::before {
 
 /* Style spécifique pour h2 */
 .markdown h2 {
-  @apply text-2xl md:text-3xl font-bold mt-10 mb-6 pb-2;
-  border-bottom: 2px solid rgba(247, 190, 22, 0.2);
+  @apply text-2xl font-bold mt-10 mb-6 pb-2;
+  border-bottom: 2px solid var(--color-iso-a);
+  display: inline-block;
   padding-bottom: 0.5rem;
 }
 
@@ -340,12 +341,7 @@ html[data-theme="dark"] .theme-edit-this-page::before {
   border-radius: 2px;
 }
 
-.theme-doc-markdown h2 {
-  @apply text-2xl font-semibold text-iso-p mt-10 mb-6;
-  border-bottom: 2px solid var(--color-iso-a);
-  display: inline-block;
-  padding-bottom: 0.5rem;
-}
+/* Supprimé - doublon avec .markdown h2 */
 
 /* Liens */
 :root {

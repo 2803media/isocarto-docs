@@ -34,28 +34,6 @@ Elles sont particulièrement utiles lorsque :
 - il faut représenter une zone évolutive, non normative ou informelle,
 - le terrain réel est mieux connu que les frontières officielles.
 
----
-
-## Fonctionnement dans le SaaS
-
-Ton SaaS propose un **outil de dessin interactif** permettant :
-
-- de cliquer sur la carte pour créer des sommets,
-- de dessiner un polygone point par point,
-- de modifier les points après dessin (déplacement, ajout, suppression),
-- de renommer la zone,
-- d’enregistrer la géométrie en base de données.
-
-La zone est ensuite traitée comme n’importe quelle autre géométrie du SaaS :
-
-- analyse de population,
-- comptage d’entreprises,
-- calcul d’indicateurs internes,
-- intégration dans les rapports,
-- exportation.
-
----
-
 ## Cas d’usage des zones manuelles
 
 ### 1. **Zonage commercial personnalisé**
