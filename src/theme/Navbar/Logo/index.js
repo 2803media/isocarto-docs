@@ -10,7 +10,7 @@ export default function LogoWrapper(props) {
             <span className="text-yellow-500 dark:text-yellow-400">iso</span>
             carto
           </span>
-          <span className="ml-2 text-sm lg:text-base font-semibold leading-none text-slate-600 dark:text-slate-400">
+          <span className="ml-2 pr-2 text-sm lg:text-base font-semibold leading-none text-slate-600 dark:text-slate-400">
             DOCS
           </span>
         </div>
