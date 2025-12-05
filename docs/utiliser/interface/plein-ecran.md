@@ -14,7 +14,9 @@ Isocarto offre un mode plein écran qui permet d’afficher la carte de façon i
 
 ## Utilisation du bouton plein écran
 
-Le bouton plein écran se trouve en haut à droite de la carte, à côté du bouton de zoom.
+Le bouton plein écran se trouve en haut à droite de la carte, sous les boutons de zoom.
+
+![bouton full screen](/img/full-screen.jpg)
 
 ## Fonctionnement
 

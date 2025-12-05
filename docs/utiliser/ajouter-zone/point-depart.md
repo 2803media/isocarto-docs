@@ -6,7 +6,7 @@ sidebar_label: Point de départ
 slug: /utiliser/ajouter-zone/point-depart
 ---
 
-# Point de départ pour une nouvelle zone
+# Déterminer le point de départ de la zone
 
 La création d’une zone dans Isocarto s’effectue depuis la barre latérale gauche, dans le panneau général.  
 Cette page décrit l’ensemble du processus : ouverture du panneau, choix du point de départ, validation dans Street View et sélection du type de zone.
@@ -47,7 +47,7 @@ L’objectif :
 
 ![vérification Pegman](/img/add-zone-2.jpg)
 
-L’utilisateur peut ensuite fermer cette fenêtre "Google Street View" et **valider ou recommencer le processus**.
+L’utilisateur peut ensuite fermer cette fenêtre "Google Street View" et **confirmer ou recommencer** le processus.
 
 ## Choisir le type de zone
 

@@ -16,6 +16,8 @@ Isocarto propose une fonctionnalité de géolocalisation qui permet de positionn
 
 Le bouton de géolocalisation se trouve en haut à droite de la carte, sous les boutons de zoom et de plein écran.
 
+![bouton géolocalisation](/img/geoloc-button.jpg)
+
 ## Étapes d’activation
 
 1. **Cliquer sur le bouton de géolocalisation** : Un clic sur ce bouton déclenchera une demande d’autorisation du navigateur pour accéder à votre position.

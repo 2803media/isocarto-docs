@@ -74,8 +74,6 @@ En bas de l’écran, un sélecteur de fond de carte permet de choisir entre :
 - Classique
 - Aucun fond de carte
 
-<VimeoVideo videoId="1143125621" />
-
 Chaque fond possède un usage adapté selon le type d’analyse ou de rendu souhaité.
 
 [En savoir plus sur les différentes vues](vues-fonds-de-carte)

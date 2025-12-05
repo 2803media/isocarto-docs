@@ -6,7 +6,13 @@ sidebar_label: Vues et fonds de carte
 slug: /utiliser/interface/vues-fonds-de-carte
 ---
 
+import VimeoVideo from '@site/src/theme/VimeoVideo';
+
 # Usages recommandés des fonds de carte
+
+## Vidéo de présentation de la fonctionnalité
+
+<VimeoVideo videoId="1143125621" />
 
 ## Vue Satellite
 
