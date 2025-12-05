@@ -92,6 +92,9 @@ const sidebars = {
           items: [
             "utiliser/ajouter-zone/point-depart",
             "utiliser/ajouter-zone/zone-isochrone",
+            "utiliser/ajouter-zone/zone-isodistance",
+            "utiliser/ajouter-zone/zone-manuelle",
+            "utiliser/ajouter-zone/zone-administrative",
           ],
         },
       ],

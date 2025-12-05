@@ -16,7 +16,7 @@ La zone isochrone permet de visualiser une aire géographique accessible en un t
 
 <VimeoVideo videoId="1143762105" />
 
-1. **Ouvrir le panneau "Ajouter nouvelle zone"** : Cliquez sur le bouton **"Ajouter une nouvelle zone"** dans la barre latérale.
+1. **Ouvrir le panneau "Ajouter nouvelle zone"**
 
 2. **Ajoutez un point de départ** : Suivez les étapes détaillées dans la documentation sur la [définition du point de départ](/utiliser/ajouter-zone/point-depart).
 

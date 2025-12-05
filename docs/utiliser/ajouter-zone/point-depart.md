@@ -2,7 +2,7 @@
 id: point-depart
 title: Point de départ
 description: Guide pour créer sélectionner un point de départ de zone
-sidebar_label: Point de départ
+sidebar_label: Sélectionner un point de départ
 slug: /utiliser/ajouter-zone/point-depart
 ---
 
