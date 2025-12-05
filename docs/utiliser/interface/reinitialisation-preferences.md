@@ -16,7 +16,7 @@ La réinitialisation permet de nettoyer le cache, de réinitialiser les préfér
 
 ## Procédure
 
-1. Pour réinitialiser, cliquez sur l'icône en forme de **cercle rouge** située en bas à droite de la barre latérale principale.
+1. Pour réinitialiser, cliquez sur l'icône en forme de **cercle rouge** <span class="inline-flex h-3 w-3 relative top-[-2px] mx-1"><span class="absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span><span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span></span> située en bas à droite de la barre latérale principale.
 2. Une modal de confirmation apparaîtra, vous demandant de valider votre choix.
 
 ![Modal de confirmation](/img/modal-reinitialisation.jpg)

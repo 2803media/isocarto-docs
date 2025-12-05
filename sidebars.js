@@ -85,7 +85,7 @@ const sidebars = {
         },
         {
           type: "category",
-          label: "Zones",
+          label: "Gérer les zones",
           collapsed: true,
           customProps: {
             icon: "heroicons:rectangle-group",
