@@ -15,7 +15,7 @@ Cette page décrit l’ensemble du processus : ouverture du panneau, choix du po
 
 ## Ouvrir le panneau "Ajouter nouvelle zone"
 
-Dans la barre latérale, cliquez sur le bouton **"Ajouter nouvelle zone"** <span class="inline-flex items-center ml-1"><span class="relative flex h-6 w-6"><span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-slate-400 opacity-100"></span><span class="relative inline-flex"><Icon icon="heroicons:plus-circle" className="h-6 w-6 text-slate-500" /></span></span></span>
+Dans la barre latérale, cliquez sur le bouton **"Ajouter nouvelle zone"** avec l'icône <span class="inline-flex items-center ml-1"><span class="relative flex h-6 w-6"><span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-slate-400 opacity-100"></span><span class="relative inline-flex"><Icon icon="heroicons:plus-circle" className="h-6 w-6 text-slate-500" /></span></span></span>
 
 Ce bouton est volontairement mis en avant afin de guider l’utilisateur vers la création de sa première zone.
 
