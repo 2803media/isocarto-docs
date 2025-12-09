@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-slug: inscription
+slug: /inscription
 sidebar_label: Inscription
 sidebar_custom_props:
   icon: heroicons:user-plus

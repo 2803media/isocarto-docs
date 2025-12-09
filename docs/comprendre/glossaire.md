@@ -30,6 +30,10 @@ Mesure de la facilité avec laquelle un lieu peut être atteint depuis d'autres 
 
 Document officiel qui recense et identifie les propriétés foncières d'une commune. Il sert de base au calcul des impôts locaux et est utilisé dans les études d'urbanisme et d'aménagement du territoire.
 
+### Carte
+
+Dans Isocarto, une carte est une composition visuelle qui associe un fond cartographique à un ou plusieurs calques de données géographiques. Elle permet de visualiser et d'analyser des informations spatiales. Les cartes peuvent inclure différents types de zones, des marqueurs, et d'autres éléments géographiques pour faciliter l'analyse et la prise de décision.
+
 ### Carte de chaleur
 
 Représentation visuelle des données où les valeurs sont représentées par des couleurs, permettant d'identifier rapidement les zones de forte concentration ou d'activité.
@@ -91,6 +95,10 @@ Ensemble de techniques permettant à des machines d'accomplir des tâches et de 
 ### INSEE (Institut National de la Statistique et des Études Économiques)
 
 Établissement public français chargé de collecter, d'analyser et de diffuser des données statistiques sur la population, l'économie et la société française. L'INSEE fournit des données démographiques, économiques et sociales utilisées dans de nombreux domaines.
+
+### IRIS (Îlots Regroupés pour l'Information Statistique)
+
+Découpage du territoire en mailles de taille homogène, défini par l'INSEE pour diffuser des données statistiques à un niveau géographique fin. Les IRIS constituent la brique de base de la diffusion de l'information géographique en France, avec une population moyenne d'environ 2 000 habitants. Ils sont utilisés dans Isocarto pour des analyses statistiques détaillées à l'échelle locale.
 
 ### Isochrone
 
@@ -177,6 +185,10 @@ Pourcentage d'une population cible qui utilise un produit ou un service spécifi
 Définition statistique de l'INSEE qui désigne une commune ou un ensemble de communes présentant une zone de bâti continu de plus de 2 000 habitants où aucune habitation n'est séparée de la plus proche de plus de 200 mètres. Elle permet d'identifier les espaces urbains en France.
 
 ## Z
+
+### Zone (Isocarto)
+
+Dans Isocarto, une zone est une entité géographique qui représente un espace délimité sur la carte. Elle peut prendre différentes formes (polygone, cercle, isochrone, etc.) et est utilisée pour délimiter des périmètres d'étude, des secteurs d'analyse ou des territoires spécifiques. Les zones sont les éléments fondamentaux pour effectuer des analyses spatiales et des calculs statistiques dans Isocarto.
 
 ### Zone d'Emploi
 
