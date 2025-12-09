@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-slug: connexion
+slug: /connexion
 sidebar_label: Connexion
 sidebar_custom_props:
   icon: heroicons:user
