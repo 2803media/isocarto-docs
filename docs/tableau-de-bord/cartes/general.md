@@ -52,7 +52,7 @@ Isocarto permet la collaboration entre plusieurs utilisateurs.
 
 Vous pouvez partager une carte avec d’autres personnes afin qu’elles puissent la visualiser.
 
-Voir la page dédiée [Partager une carte](partage-carte).
+Voir la page dédiée [Partager une carte](/tableau-de-bord/partage-carte).
 
 ### Ajouter des collaborateurs
 
