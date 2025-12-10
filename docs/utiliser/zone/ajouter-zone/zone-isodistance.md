@@ -19,7 +19,7 @@ La zone isodistance permet de visualiser une aire géographique définie par un 
 1. **Ouvrir le panneau "Ajouter nouvelle zone"**
 
 2. **Ajouter un point de départ** : Suivez les étapes détaillées dans la documentation sur la  
-   [définition du point de départ](/utiliser/ajouter-zone/point-depart).
+   [définition du point de départ](/utiliser/zone/ajouter-zone/point-depart).
 
 3. **Choisir le type de zone** : Sélectionnez l’icône **"Distance"** pour indiquer que vous souhaitez créer une zone isodistance.
 

@@ -27,7 +27,7 @@ Cliquer sur une carte dans la liste pour l'ouvrir dans l'application.
 
 En cliquant sur **Ajouter une carte**, vous pouvez créer une nouvelle carte vide dans laquelle vous pourrez ensuite dessiner ou ajouter vos zones.
 
-Voir la page dédiée [Créer une carte](ajout-carte)
+Voir la page dédiée [Créer une carte](/tableau-de-bord/cartes/ajout-carte)
 
 ## Modifier une carte
 
@@ -42,7 +42,7 @@ Le mode d’édition permet de :
 - Ajuster les paramètres d’analyse
 - Gérer les données associées à la carte
 
-Voir la page dédiée [Modifier une carte](edit-carte).
+Voir la page dédiée [Modifier une carte](/tableau-de-bord/cartes/edit-carte).
 
 ## Partage et collaboration
 
@@ -52,7 +52,7 @@ Isocarto permet la collaboration entre plusieurs utilisateurs.
 
 Vous pouvez partager une carte avec d’autres personnes afin qu’elles puissent la visualiser.
 
-Voir la page dédiée [Partager une carte](/tableau-de-bord/partage-carte).
+Voir la page dédiée [Partager une carte](/tableau-de-bord/cartes/partage-carte).
 
 ### Ajouter des collaborateurs
 

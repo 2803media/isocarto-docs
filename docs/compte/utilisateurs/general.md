@@ -45,10 +45,10 @@ Trois rôles sont possibles :
 - Peut inviter et gérer les membres.
 - Ne peut **pas** gérer :
 
-  - [L'abonnement](../abonnement/general)
-  - [La facturation](../factures/general)
-  - [Les paramètres de l’organisation](../informations)
-  - [Les données à afficher dans les rapports](../../tableau-de-bord/rapport)
+  - [L'abonnement](/compte/abonnement/general)
+  - [La facturation](/compte/factures/general)
+  - [Les paramètres de l'organisation](/compte/informations)
+  - [Les données à afficher dans les rapports](/tableau-de-bord/rapport)
 
 ### **Member**
 
