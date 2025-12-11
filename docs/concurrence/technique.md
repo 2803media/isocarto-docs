@@ -18,7 +18,7 @@ L’objectif est d’offrir une vision claire des choix techniques et architectu
 | Critère                      | **Isocarto**                            | **Smappen**                     | **Geo-Business**        |
 | ---------------------------- | --------------------------------------- | ------------------------------- | ----------------------- |
 | **Technologie principale**   | Next.js (React)                         | WordPress + React/Vue           | WordPress + Spring      |
-| **Performances / Modernité** | ★★★★★                                   | ★★★                             | ★★                      |
+| **Performances / Modernité** | ★★★★★                                   | ★★★☆☆                           | ★★☆☆☆                   |
 | **Back-end**                 | Node.js + API modernes                  | PHP (WordPress)                 | Java (Spring) + PHP     |
 | **Front-end**                | 100% React + Tailwind CSS               | WordPress + React/Vue hybrides  | WordPress + Vue         |
 | **Base de données**          | PostgreSQL (non détecté par Wappalyzer) | MySQL                           | MySQL                   |

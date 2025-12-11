@@ -12,11 +12,11 @@ sidebar_custom_props:
 
 La qualité de la documentation influence directement l’autonomie des utilisateurs et la charge de support. Voici une comparaison des approches adoptées par les trois plateformes, **Isocarto**, **Smappen** et **Geo-Business**.
 
-## Isocarto - Documentation moderne et assistée par IA
+## Isocarto - Documentation moderne et assistée par IA interne
 
 **Documentation :** [https://docs.isocarto.fr/](https://docs.isocarto.fr/)
 
-Isocarto propose une documentation structurée, organisée en sections claires et régulièrement mise à jour. Elle intègre un chatbot IA basé sur un LLM utilisant un système de RAG (Retrieval-Augmented Generation) permettant :
+Isocarto propose une documentation structurée, organisée en sections claires et régulièrement mise à jour. Elle intègre un chatbot IA basé sur un **LLM** utilisant un système de **RAG** (Retrieval-Augmented Generation) **développé en interne** permettant :
 
 - une recherche contextuelle dans toute la documentation,
 - des réponses adaptées à la question de l’utilisateur,

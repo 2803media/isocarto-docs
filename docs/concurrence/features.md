@@ -8,7 +8,7 @@ sidebar_custom_props:
   icon: heroicons:wrench-screwdriver
 ---
 
-# Comparaison des fonctionnalités
+# Comparaison des fonctionnalités Isocarto, Smappen et Geo‑Business
 
 Ce document compare les principales capacités des plateformes de géomarketing et d’analyse de zones : **Isocarto**, **Smappen** et **Geo‑Business**.
 
@@ -39,3 +39,51 @@ Ce document compare les principales capacités des plateformes de géomarketing 
 |                                            | Taux de cambriolages                                                  | -                                                                         | -                                                                                  |
 |                                            | Zones patrimoine et monuments historiques                             | -                                                                         | -                                                                                  |
 | **Export formats SIG / vecteurs**          | GeoJSON                                                               | KML                                                                       | GeoJSON / formats SIG selon plan                                                   |
+
+## Synthèse comparative
+
+Les trois plateformes - **Isocarto**, **Smappen** et **Geo-Business** - offrent des outils solides pour créer des zones et analyser un territoire. Cependant, elles se distinguent par leur approche, la richesse de leurs données et leur orientation métier.
+
+### Isocarto
+
+- **Positionnement :** solution complète de géomarketing et d’analyse territoriale.
+- **Points forts :**
+
+  - Large choix de zones : isochrones, isodistances, administratives, manuelles.
+  - **Catalogue de données très avancé** notamment en couche vectorielle : INSEE, cadastre, propriétaires, transactions immobilières, risques, PLU, etc.
+  - Exports professionnels : GeoJSON, PDF, PNG, XLS.
+  - Rapports automatisés, consultables en ligne, personnalisables et analyses détaillées.
+  - Utilisation de l'IA dans l'outil.
+
+- **Idéal pour :** franchises, réseaux commerciaux, PME, bureaux d’étude et organisations ayant besoin d’analyses complètes.
+
+### Smappen
+
+- **Positionnement :** solution intuitive, orientée marketing et PME.
+- **Points forts :**
+
+  - Interface extrêmement simple et efficace.
+  - Outils d’analyse marketing classiques (population, catégories socio-pro, revenus…).
+  - Export Word/Excel et rapports rapides.
+
+- **Limites :**
+
+  - Moins de données avancées.
+  - Limitation du rapport au format Word.
+
+### Geo-Business
+
+- **Positionnement :** outil professionnel centré sur les données socio-économiques.
+- **Points forts :**
+
+  - Beaucoup d'indicateurs socio-économiques intégrés.
+  - Création d’indicateurs personnalisés.
+  - Rapports détaillés et tableaux complets.
+
+- **Idéal pour :** analyses statistiques poussées et métiers nécessitant un fort niveau de données sectorielles.
+
+## Conclusion
+
+- **Isocarto** se distingue par son **catalogue de données unique** (cadastre, propriétaires, transactions, risques, urbanisme…) et sa profondeur analytique.
+- **Smappen** se défend bien sur l’**ergonomie** et la simplicité pour les équipes marketing.
+- **Geo-Business** propose un beau jeu d'indicateurs socio-économiques, idéal pour des analyses sectorielles approfondies.
