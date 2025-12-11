@@ -13,33 +13,29 @@
 
 /* ======  STYLES POUR LES TABLEAUX  =========================== */
 .markdown table {
-  @apply w-full my-4 border-collapse border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden;
+  @apply border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden;
+  display: inline-table;
+  border-collapse: separate;
+  border-spacing: 0;
+  max-width: 100%;
+  margin: 1rem 0;
+}
+
+.markdown th,
+.markdown td {
+  @apply px-4 py-2 text-left border border-gray-100 dark:border-gray-800;
 }
 
 .markdown th {
-  @apply bg-gray-100 dark:bg-gray-800 px-4 py-3 text-left font-semibold text-gray-700 dark:text-gray-200 border-b border-gray-200 dark:border-gray-700;
+  @apply bg-gray-100 dark:bg-gray-800 font-semibold text-gray-700 dark:text-gray-200;
 }
 
 .markdown td {
-  @apply px-4 py-3 border-b border-gray-100 dark:border-gray-800 text-gray-700 dark:text-gray-300;
+  @apply text-gray-700 dark:text-gray-300;
 }
 
 .markdown tr:last-child td {
   @apply border-b-0;
-}
-
-.markdown tr:hover td {
-  @apply bg-gray-50 dark:bg-gray-800/50;
-}
-
-.markdown th:first-child,
-.markdown td:first-child {
-  @apply pl-6;
-}
-
-.markdown th:last-child,
-.markdown td:last-child {
-  @apply pr-6;
 }
 
 /* Styles pour les étoiles de notation */

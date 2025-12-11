@@ -70,3 +70,5 @@ Geo-Business propose une documentation simple, principalement composée de resso
 | Richesse des contenus      | Élevée                           | Moyenne                  | Faible                       |
 | Autonomie de l’utilisateur | Très élevée                      | Moyenne                  | Faible                       |
 | **Évaluation globale**     | ★★★★★                            | ★★★★☆                    | ★★★☆☆                        |
+
+_Date de comparaison : 11 décembre 2025_

@@ -110,12 +110,12 @@ Geo-Business combine WordPress avec un back-end Java Spring.
 
 ### Framework principal
 
-|                   | Isocarto          | Smappen               | Geo-Business          |
-| ----------------- | ----------------- | --------------------- | --------------------- |
-| Framework moderne | Next.js 16        | WordPress + Elementor | WordPress             |
-| API performantes  | Oui (Next.js API) | Non (PHP + plugins)   | Oui (Spring, partiel) |
-| UI moderne        | React + Tailwind  | Mix React/Vue + WP    | Vue + Bootstrap       |
-| Stack cohérente   | Oui               | Non                   | Non                   |
+|                 | Isocarto          | Smappen               | Geo-Business          |
+| --------------- | ----------------- | --------------------- | --------------------- |
+| Framework       | Next.js 16        | WordPress + Elementor | WordPress             |
+| API             | Oui (Next.js API) | Non (PHP + plugins)   | Oui (Spring, partiel) |
+| UI              | React + Tailwind  | Mix React/Vue + WP    | Vue + Bootstrap       |
+| Stack cohérente | Oui               | Non                   | Non                   |
 
 ### Base de données
 
@@ -165,4 +165,4 @@ Architecture Java + WordPress plus ancienne.
 
 **Isocarto dispose de l’architecture la plus moderne, cohérente et performante.**
 
-Date de comparaison : 11 décembre 2025
+_Date de comparaison : 11 décembre 2025_
