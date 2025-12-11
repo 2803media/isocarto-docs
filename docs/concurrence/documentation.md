@@ -62,11 +62,11 @@ Geo-Business propose une documentation simple, principalement composée de resso
 
 ## Synthèse : Documentation et support
 
-| Critère                    | Isocarto                         | Smappen                   | Geo-Business                 |
-| -------------------------- | -------------------------------- | ------------------------- | ---------------------------- |
-| Type de documentation      | Documentation moderne structurée | Centre d'aide + Intercom  | Ressources statiques simples |
-| Chatbot ou IA              | Oui (LLM + RAG)                  | Non (Intercom uniquement) | Non                          |
-| Recherche avancée          | Oui                              | Partielle via Intercom    | Non                          |
-| Richesse des contenus      | Élevée                           | Moyenne                   | Faible                       |
-| Autonomie de l’utilisateur | Très élevée                      | Moyenne                   | Faible                       |
-| **Évaluation globale**     | ★★★★★                            | ★★★★☆                     | ★★★☆☆                        |
+| Critère                    | Isocarto                         | Smappen                  | Geo-Business                 |
+| -------------------------- | -------------------------------- | ------------------------ | ---------------------------- |
+| Type de documentation      | Documentation moderne structurée | Centre d'aide + Intercom | Ressources statiques simples |
+| Chatbot ou IA              | Oui (LLM + RAG)                  | Oui (Intercom)           | Non                          |
+| Recherche avancée          | Oui                              | Partielle via Intercom   | Non                          |
+| Richesse des contenus      | Élevée                           | Moyenne                  | Faible                       |
+| Autonomie de l’utilisateur | Très élevée                      | Moyenne                  | Faible                       |
+| **Évaluation globale**     | ★★★★★                            | ★★★★☆                    | ★★★☆☆                        |
