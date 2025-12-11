@@ -38,6 +38,10 @@ Dans Isocarto, une carte est une composition visuelle qui associe un fond cartog
 
 Représentation visuelle des données où les valeurs sont représentées par des couleurs, permettant d'identifier rapidement les zones de forte concentration ou d'activité.
 
+### Chatbot
+
+Programme informatique conçu pour simuler une conversation avec des utilisateurs humains, particulièrement sur Internet. Les chatbots modernes, comme celui d'Isocarto, utilisent souvent des technologies d'IA avancées comme les LLM et le RAG pour comprendre les requêtes des utilisateurs et fournir des réponses pertinentes et contextuelles. Ils sont largement utilisés pour le support client, l'assistance utilisateur et l'automatisation des réponses aux questions fréquentes.
+
 ## D
 
 ### Densité commerciale
@@ -118,6 +122,10 @@ Projet collaboratif international visant à créer une carte libre et modifiable
 
 Loi française (n°89-1008 du 31 décembre 1989) régissant les relations commerciales, notamment dans le domaine de la franchise. Elle impose aux franchiseurs de fournir une information précontractuelle complète aux candidats franchisés, notamment via le Document d'Information Précontractuelle (DIP).
 
+### LLM (Large Language Model)
+
+Modèle de langage de grande envergure, une forme d'intelligence artificielle entraînée sur d'importants volumes de données textuelles. Les LLM sont capables de comprendre, générer et traiter du langage naturel, ce qui les rend particulièrement utiles pour des tâches comme la réponse à des questions, la traduction et la génération de contenu. Dans le contexte d'Isocarto, les LLM sont utilisés pour alimenter les fonctionnalités d'assistance et de recherche dans la documentation.
+
 ## P
 
 ### Pegman
@@ -149,6 +157,10 @@ Zone géographique identifiée comme nécessitant une attention particulière en
 ### Rayon d'action
 
 Distance maximale à laquelle un commerce ou un service peut attirer des clients de manière efficace.
+
+### RAG (Retrieval-Augmented Generation)
+
+Technique d'intelligence artificielle qui combine la recherche d'information et la génération de texte. Le modèle recherche d'abord des documents pertinents dans une base de connaissances, puis utilise ces informations pour générer des réponses plus précises et documentées. Cette approche est particulièrement utile pour fournir des réponses précises et sourcées dans les systèmes d'assistance comme le chatbot d'Isocarto.
 
 ## S
 

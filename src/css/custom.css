@@ -272,7 +272,7 @@ html[data-theme="dark"] .theme-edit-this-page::before {
 /* Style spécifique pour h4 */
 .markdown h4 {
   @apply text-sm md:text-base font-semibold mt-8 mb-3;
-  color: var(--color-iso-p-dark);
+  color: var(--color-iso-p);
   position: relative;
   padding-left: 1rem;
   transition: color 0.2s ease;
@@ -283,8 +283,8 @@ html[data-theme="dark"] .theme-edit-this-page::before {
 }
 
 .markdown h4::before {
-  content: "•";
-  @apply text-iso-s mr-2;
+  content: "#";
+  @apply mr-2;
   transition: transform 0.2s ease;
 }
 

@@ -228,6 +228,18 @@ const sidebars = {
         },
       ],
     },
+
+    // ⚙️ Concurrence
+    {
+      type: "category",
+      label: "Concurrence",
+      collapsed: false,
+      items: [
+        "concurrence/features",
+        "concurrence/documentation",
+        "concurrence/technique",
+      ],
+    },
   ],
 };
 
