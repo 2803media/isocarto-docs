@@ -36,7 +36,7 @@ Isocarto repose sur une architecture moderne conçue pour la performance, utilis
 
 #### Technologies principales
 
-- Next.js 16.0.6 (framework React)
+- Next.js 16.0.10 (framework React)
 - React
 - Tailwind CSS
 - Emotion (CSS-in-JS)

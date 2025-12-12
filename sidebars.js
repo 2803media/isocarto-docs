@@ -38,6 +38,7 @@ const sidebars = {
           items: [
             "comprendre/concepts/geomarketing-introduction",
             "comprendre/concepts/zone-chalandise",
+            "comprendre/concepts/precision-donnees",
           ],
         },
         {
