@@ -52,6 +52,10 @@ Indicateur mesurant le nombre de commerces ou la surface commerciale par habitan
 
 Rapport entre le nombre d'emplois et la superficie d'une zone géographique donnée (généralement exprimé en nombre d'emplois par km²). Cet indicateur est utilisé pour évaluer la concentration des activités économiques sur un territoire.
 
+### Désagrégation spatiale
+
+La désagrégation spatiale (aussi appelée downscaling spatial) est une méthode qui consiste à transformer une information disponible à une échelle géographique large (commune, département, région…) pour l’estimer à une échelle plus fine (IRIS, carreaux, quartiers, parcelles…). C’est une technique très utilisée en géostatistique, en modélisation territoriale et dans les SIG.
+
 ### Données démographiques
 
 Informations statistiques sur les caractéristiques d'une population, comme l'âge, le sexe, le revenu, le niveau d'éducation, etc.
