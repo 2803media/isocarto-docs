@@ -83,7 +83,23 @@ const config = {
     ],
   ],
 
-  plugins: ["./src/plugins/tailwind-config.js"],
+  plugins: [
+    "./src/plugins/tailwind-config.js",
+    [
+      "docusaurus-plugin-image-zoom",
+      {
+        // options here
+        selector: ".markdown img",
+        // options for medium-zoom
+        // See https://www.npmjs.com/package/medium-zoom#options
+        config: {
+          margin: 24,
+          background: "var(--ifm-background-surface-color)",
+          scrollOffset: 0,
+        },
+      },
+    ],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -139,6 +155,16 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      zoom: {
+        selector: ".markdown :not(em) > img",
+        background: {
+          light: "rgb(255, 255, 255)",
+          dark: "#0f172a",
+        },
+        config: {
+          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+        },
       },
     }),
 };

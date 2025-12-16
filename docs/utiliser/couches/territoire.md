@@ -85,6 +85,7 @@ Selon le niveau de zoom, la carte peut afficher :
 
 - les **réseaux de bus**,
 - les **réseaux de métro**
+- les **réseaux de tram**
 
 ### Intérêt pour l’analyse territoriale
 
@@ -102,7 +103,7 @@ La couche **Taux de cambriolage** permet de visualiser les indicateurs de sécur
 
 :::warning[Attention]
 
-Les données ne sont disponibles que pour les grosses agglomérations.
+Les données ne sont disponibles que pour les grosses agglomérations (unités urbaines de plus de 100 000 habitants en France, hors Guadeloupe, Guyane et Mayotte).
 :::
 
 ### Mode de représentation

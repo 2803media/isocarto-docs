@@ -415,6 +415,29 @@ html[data-theme="dark"] .theme-edit-this-page::before {
   @apply border-gray-700;
 }
 
+/* ======  IMAGES ZOOMÉES (medium-zoom)  ======================== */
+
+/* Image en cours de zoom - conserve le style */
+.medium-zoom-image--opened {
+  @apply border border-gray-200 rounded-xl;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+[data-theme="dark"] .medium-zoom-image--opened {
+  @apply border-gray-700;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+/* Overlay de fond */
+.medium-zoom-overlay {
+  background: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(8px);
+}
+
+[data-theme="dark"] .medium-zoom-overlay {
+  background: rgba(15, 23, 42, 0.95) !important;
+}
+
 /* ======  FIL D'ARIANE (BREADCRUMB)  ============================ */
 
 .breadcrumbsContainer_Z_bl {
