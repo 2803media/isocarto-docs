@@ -14,7 +14,7 @@ Chaque éditeur possède ses **propres paramètres et préférences d’affichag
 
 ## Étape 1 : Accéder à la gestion des éditeurs
 
-Dans l’onglet **Vos cartes**, sélectionnez la carte sur laquelle vous souhaitez collaborer.  
+Dans l’onglet **Vos cartes** dans votre tableau de bord, sélectionnez la carte sur laquelle vous souhaitez collaborer.  
 Cliquez ensuite sur le **bouton “Ajouter des éditeurs”** pour ouvrir le panneau dédié.
 
 ![Interface d'ajout d'éditeur - étape 1](/img/ajout-editeur-1.jpg)

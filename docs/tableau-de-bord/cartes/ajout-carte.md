@@ -11,7 +11,7 @@ Cette page explique comment créer une nouvelle carte dans votre espace de trava
 
 ## Étape 1 : Accéder à l’ajout de carte
 
-Dans la page **Vos cartes**, cliquez sur la **carte avec le symbole “+”**, intitulée **_Nouvelle carte_**.  
+Dans la page **Vos cartes** dans votre tableau de bord, cliquez sur la **carte avec le symbole “+”**, intitulée **_Nouvelle carte_**.  
 Ce bouton permet de créer rapidement une nouvelle carte dans votre compte.
 
 ![Bouton 'Nouvelle carte' avec icône + pour créer une nouvelle carte](/img/add-carte.jpg)

@@ -11,7 +11,7 @@ Cette page explique comment importer un nouveau fichier de données dans **Isoca
 
 ## Étape 1 : Choisir un fichier à importer
 
-Depuis l’onglet **Vos fichiers**, cliquez sur **Ajouter un fichier**.
+Depuis l’onglet **Vos fichiers** dans votre tableau de bord, cliquez sur **Ajouter un fichier**.
 
 Vous pouvez ensuite importer les formats de fichier suivants :
 

@@ -16,7 +16,7 @@ Dans Isocarto, une zone devient **active** simplement en cliquant sur son nom ou
 
 ## Processus d’activation
 
-Lorsque vous cliquez sur une zone :
+Lorsque vous cliquez sur une zone dans le panneau "Zones dans la carte" :
 
 - Celle-ci passe en **jaune**,
 - Un label **Active** apparaît à côté de son nom.

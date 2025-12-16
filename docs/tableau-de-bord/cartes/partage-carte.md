@@ -11,7 +11,7 @@ Par défaut, une carte dans **Isocarto** est **privée** et uniquement visible p
 
 ## Étape 1 : Accéder à la fonction de partage
 
-Dans la page **Vos cartes**, sélectionnez la carte que vous souhaitez partager et cliquez sur le **bouton de partage**.  
+Dans la page **Vos cartes** dans votre tableau de bord, sélectionnez la carte que vous souhaitez partager et cliquez sur le **bouton de partage**.  
 Ce bouton ouvre l’interface de partage public.
 
 ![Interface de la page 'Vos cartes' avec le bouton de partage d'une carte sélectionnée](/img/partage-carte-1.jpg)

@@ -11,7 +11,7 @@ Cette page explique comment mettre à jour le **titre** et la **description** d�
 
 ## Étape 1 : Accéder à la modification
 
-Dans la page **Vos cartes**, sélectionnez la carte à modifier et cliquez sur le **bouton jaune** associé.  
+Dans la page **Vos cartes** dans votre tableau de bord, sélectionnez la carte à modifier et cliquez sur le **bouton jaune** associé.  
 Ce bouton vous permet d’ouvrir l’interface de modification des informations de la carte.
 
 ![Interface 'Vos cartes' avec le bouton d'édition (icône de crayon) mis en évidence pour modifier une carte](/img/edit-carte-1.jpg)

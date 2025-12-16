@@ -6,8 +6,6 @@ sidebar_label: Supprimer une zone
 slug: /utiliser/zone/edit/supprimer
 ---
 
-import { Icon } from '@iconify/react';
-
 # Supprimer une zone
 
 La suppression d’une zone est définitive.  
