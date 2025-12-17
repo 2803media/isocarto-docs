@@ -49,7 +49,7 @@ This project uses a dual-license approach:
    - Applies to all JavaScript, TypeScript, CSS, and other source code files
    - Permits commercial use, modification, and distribution
 
-2. **Documentation** (in `/docs` directory) is licensed under [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+2. **Documentation and Static Resources** (in `/docs` and `/static` directories) are licensed under [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
    - **You are free to:**
      - **Share** - copy and redistribute the material in any medium or format
    - **Under the following terms:**
