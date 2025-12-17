@@ -1,0 +1,153 @@
+---
+id: pourquoi-geojson
+title: Pourquoi le GeoJSON plutôt que le KML ?
+description: Comprendre les avantages du format GeoJSON dans Isocarto et comment convertir vos fichiers si nécessaire.
+sidebar_label: GeoJSON vs KML
+slug: /comprendre/concepts/pourquoi-geojson
+---
+
+import Link from "@docusaurus/Link";
+
+# Pourquoi le GeoJSON plutôt que le KML ?
+
+Dans Isocarto, nous avons fait le choix du **GeoJSON** comme format privilégié pour l'export de données géographiques. Ce choix technique repose sur plusieurs avantages significatifs pour l'analyse géo-marketing.
+
+## Les avantages du GeoJSON
+
+### 1. Format web natif et performant
+
+Le GeoJSON est basé sur **JSON** (JavaScript Object Notation), ce qui en fait un format **natif pour les applications web modernes**. Cette compatibilité naturelle permet :
+
+- un **chargement plus rapide** des données sur la carte,
+- une **manipulation directe** sans conversion nécessaire,
+- une **intégration fluide** avec les API et outils cartographiques modernes (Mapbox, Leaflet, OpenLayers).
+
+### 2. Léger et optimisé
+
+Comparé au KML (basé sur XML), le GeoJSON est généralement **plus léger** en termes de taille de fichier, ce qui améliore :
+
+- la **vitesse de chargement** des données,
+- la **fluidité de l'interface** lors de la manipulation de grands ensembles de données,
+- l'**expérience utilisateur** globale, notamment lors de l'analyse de zones étendues.
+
+### 3. Structure simple et lisible
+
+Le format GeoJSON utilise une **syntaxe claire et intuitive**, facilitant :
+
+- la **lecture et la compréhension** des données,
+- le **débogage** en cas de problème,
+- la **création manuelle** de fichiers si nécessaire,
+- l'**interopérabilité** avec d'autres outils d'analyse de données (Python, R, bases de données spatiales).
+
+### 4. Standard moderne et évolutif
+
+Le GeoJSON est un **standard IETF** (RFC 7946) largement adopté par la communauté géospatiale. Il est :
+
+- **activement maintenu** et amélioré,
+- **compatible** avec la plupart des outils SIG modernes,
+- **privilégié** par les API géographiques contemporaines (Google Maps, Mapbox, OpenStreetMap).
+
+### 5. Meilleure gestion des propriétés
+
+Le GeoJSON permet d'associer facilement des **attributs métier** aux objets géographiques :
+
+- stockage de **données complexes** (tableaux, objets imbriqués),
+- conservation des **types de données** (nombres, booléens, chaînes),
+- enrichissement des analyses avec des **informations contextuelles** détaillées.
+
+## Le KML : un format en perte de vitesse
+
+Le **KML** (Keyhole Markup Language) a été créé par Google au début des années 2000 pour Google Earth. Bien qu'il reste **fonctionnel**, plusieurs facteurs expliquent son déclin progressif dans l'écosystème web moderne :
+
+### Un héritage de l'ère pré-web
+
+- Conçu initialement pour **Google Earth** (application desktop), pas pour le web
+- Basé sur **XML**, une technologie moins adaptée aux applications web actuelles
+- Architecture pensée pour la **visualisation 3D**, souvent excessive pour des besoins 2D
+
+### Adoption en baisse
+
+- Les **nouvelles API cartographiques** (Mapbox, Leaflet) privilégient le GeoJSON nativement
+- **Google Maps lui-même** recommande désormais le GeoJSON pour les applications web
+- La communauté des développeurs web se tourne massivement vers JSON pour tous types de données
+
+### Limitations techniques
+
+- **Verbosité** du XML rendant les fichiers plus lourds
+- **Parsing plus lent** dans les navigateurs web
+- Fonctionnalités avancées (styles 3D, tours, animations) rarement utilisées en géo-marketing
+
+### Maintenance réduite
+
+- Peu d'**évolutions récentes** du standard KML
+- Moins de **bibliothèques actives** pour son traitement
+- Intégration nécessitant souvent des **conversions préalables**
+
+:::info[Contexte historique]
+
+Le KML a été un standard important pour démocratiser la cartographie numérique avec Google Earth. Cependant, l'évolution des usages vers les applications web et mobiles a naturellement favorisé des formats plus adaptés à ces environnements, comme le GeoJSON.
+
+:::
+
+## Comparaison GeoJSON vs KML
+
+| Critère                    | GeoJSON                  | KML                      |
+| -------------------------- | ------------------------ | ------------------------ |
+| **Format de base**         | JSON (léger)             | XML (verbeux)            |
+| **Taille des fichiers**    | Plus compact             | Plus volumineux          |
+| **Performances web**       | Excellent                | Correct                  |
+| **Lisibilité**             | Très bonne               | Moyenne                  |
+| **Support cartographique** | Natif sur web            | Nécessite conversion     |
+| **Standard**               | IETF RFC 7946 (2016)     | OGC (2008)               |
+| **Évolution**              | Active                   | Ralentie                 |
+| **Usage principal**        | Applications web/mobiles | Google Earth, SIG legacy |
+
+## Conversion GeoJSON vers KML
+
+Bien qu'Isocarto utilise principalement le format GeoJSON, vous pourriez avoir besoin de convertir vos zones exportées vers le format KML pour les utiliser avec d'autres outils. Voici comment procéder :
+
+### Outils en ligne (gratuits)
+
+- **MyGeodata Converter** - Conversion rapide et simple, sans inscription requise  
+  **Lien :** <Link href="https://mygeodata.cloud/converter/geojson-to-kml" rel="nofollow" target="_blank">https://mygeodata.cloud/converter/geojson-to-kml</Link>
+
+- **GeoJSON.io** - Éditeur interactif qui permet d'exporter en KML après édition  
+  **Lien :** <Link href="https://geojson.io/" rel="nofollow" target="_blank">https://geojson.io/</Link>
+
+- **QGIS** - Solution complète pour des conversions avancées et le traitement de données géospatiales  
+  **Lien :** <Link href="https://qgis.org/" rel="nofollow" target="_blank">https://qgis.org/</Link>
+
+### Outils en ligne de commande
+
+Pour les utilisateurs avancés, la conversion peut être effectuée avec **ogr2ogr** (inclus dans GDAL) :
+
+```bash
+ogr2ogr -f KML output.kml input.geojson
+```
+
+:::tip[Conseil pratique]
+
+Pour une conversion rapide avec prévisualisation, **GeoJSON.io** est idéal. Pour des traitements par lots ou des conversions complexes, **QGIS** ou la ligne de commande seront plus adaptés.
+
+:::
+
+### Points d'attention lors de la conversion
+
+1. **Projection** : Vérifiez que le système de coordonnées est correctement défini (WGS84 par défaut)
+2. **Propriétés** : Certains outils peuvent ne pas conserver toutes les propriétés des objets
+3. **Styles** : Les styles personnalisés peuvent nécessiter une adaptation après conversion
+
+## Cas d'usage
+
+Le choix du GeoJSON dans Isocarto est particulièrement adapté pour :
+
+- l'**enrichissement des analyses** avec des données tierces,
+- l'**export de zones** pour des traitements complémentaires,
+- l'**intégration avec des workflows** d'analyse de données modernes,
+- le **partage de données** avec d'autres outils géo-marketing et SIG.
+
+:::info[Évolution continue]
+
+Nous restons attentifs aux évolutions des standards géospatiaux et aux besoins de nos utilisateurs. Le format GeoJSON représente aujourd'hui le meilleur compromis entre performance, simplicité et compatibilité pour une application web de géo-marketing moderne.
+
+:::

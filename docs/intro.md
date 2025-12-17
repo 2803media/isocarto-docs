@@ -6,9 +6,15 @@ sidebar_custom_props:
   icon: heroicons:home
 ---
 
+import VimeoVideo from '@site/src/theme/VimeoVideo';
+
 # Bienvenue sur la documentation d'Isocarto
 
 **Isocarto** est une plateforme de géo-marketing nouvelle génération conçue pour analyser vos territoires, comprendre vos données et orienter vos décisions.
+
+Voici la vidéo de présentation de la plateforme :
+
+<VimeoVideo videoId="1136179489" />
 
 ## Pourquoi Isocarto ?
 

@@ -39,6 +39,7 @@ const sidebars = {
             "comprendre/concepts/geomarketing-introduction",
             "comprendre/concepts/zone-chalandise",
             "comprendre/concepts/precision-donnees",
+            "comprendre/concepts/pourquoi-geojson",
           ],
         },
         {
@@ -106,7 +107,7 @@ const sidebars = {
             },
             {
               type: "category",
-              label: "Éditer une zone",
+              label: "Gérer les zones",
               items: [
                 "utiliser/zone/edit/presentation",
                 "utiliser/zone/edit/activer",
@@ -146,7 +147,10 @@ const sidebars = {
           customProps: {
             icon: "heroicons:flag",
           },
-          items: ["utiliser/donnees/general"],
+          items: [
+            "utiliser/donnees/ajout-donnees",
+            "utiliser/donnees/presentation",
+          ],
         },
         {
           type: "category",
