@@ -11,5 +11,8 @@
 # Documentation - Licence CC BY-NC-ND 4.0
 docs/**/*.md license=CC-BY-NC-ND-4.0
 
+# Fichiers statiques - Licence CC BY-NC-ND 4.0
+/static/**/* license=CC-BY-NC-ND-4.0
+
 # Licence par défaut - CC BY-NC-ND 4.0
 * license=CC-BY-NC-ND-4.0

@@ -30,19 +30,19 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 2. Documentation (CC BY-NC-ND 4.0)
+## 2. Documentation and Static Resources (CC BY-NC-ND 4.0)
 
-All documentation files (Markdown files in the `/docs` directory) are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
+All documentation files (Markdown files in the `/docs` directory) and static resources (in the `/static` directory, including images, icons, and other media) are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
 
 ### You are free to:
 
-- **Share** — copy and redistribute the material in any medium or format
+- **Share** - copy and redistribute the material in any medium or format
 
 ### Under the following terms:
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- **NonCommercial** — You may not use the material for commercial purposes.
-- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+- **Attribution** - You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** - You may not use the material for commercial purposes.
+- **NoDerivatives** - If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 ### Additional Information:
 

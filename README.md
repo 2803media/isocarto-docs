@@ -51,11 +51,11 @@ This project uses a dual-license approach:
 
 2. **Documentation** (in `/docs` directory) is licensed under [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
    - **You are free to:**
-     - **Share** — copy and redistribute the material in any medium or format
+     - **Share** - copy and redistribute the material in any medium or format
    - **Under the following terms:**
-     - **Attribution** — You must give appropriate credit
-     - **NonCommercial** — No commercial use without permission
-     - **NoDerivatives** — No distribution of modified versions
+     - **Attribution** - You must give appropriate credit
+     - **NonCommercial** - No commercial use without permission
+     - **NoDerivatives** - No distribution of modified versions
 
 For full details, see the complete [LICENSE](LICENSE) file.
 
