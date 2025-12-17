@@ -1,0 +1,28 @@
+Isocarto Documentation
+Copyright © 2025 Isocarto. All rights reserved.
+
+This documentation is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+To view a copy of this license, visit: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+---
+
+Third-Party Software Components:
+
+1. Docusaurus
+
+   - License: MIT License
+   - Homepage: https://docusaurus.io/
+   - Copyright (c) Facebook, Inc. and its affiliates.
+
+2. React
+
+   - License: MIT License
+   - Homepage: https://reactjs.org/
+   - Copyright (c) Facebook, Inc. and its affiliates.
+
+3. Other Dependencies
+   - For a complete list of third-party dependencies and their respective licenses, please refer to the package.json file and node_modules directory.
+
+---
+
+This product may include software developed by The Apache Software Foundation (http://www.apache.org/), used under their respective licenses.

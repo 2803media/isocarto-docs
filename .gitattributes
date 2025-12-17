@@ -1,0 +1,15 @@
+# Code source - Licence MIT
+*.js license=MIT
+*.jsx license=MIT
+*.ts license=MIT
+*.tsx license=MIT
+*.json license=MIT
+*.css license=MIT
+*.scss license=MIT
+*.mdx license=MIT
+
+# Documentation - Licence CC BY-NC-ND 4.0
+docs/**/*.md license=CC-BY-NC-ND-4.0
+
+# Licence par défaut - CC BY-NC-ND 4.0
+* license=CC-BY-NC-ND-4.0

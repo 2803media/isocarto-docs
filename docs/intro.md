@@ -32,6 +32,12 @@ Dans cette documentation, vous trouverez :
 
 Utilisez la barre latérale pour accéder rapidement aux sections.
 
+:::tip[Conseil]
+
+Consultez notre guide pour [créer votre première zone](/start)
+
+:::
+
 ## Besoin d'aide ?
 
 Consultez les différents guides dans la barre latérale ou contactez notre support à [support@isocarto.fr](mailto:support@isocarto.fr)

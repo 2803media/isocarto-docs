@@ -6,7 +6,7 @@ const sidebars = {
       type: "category",
       label: "Démarrer", // ✅ Le texte propre pour le breadcrumb
       collapsed: false,
-      items: ["intro", "inscription", "connexion"],
+      items: ["intro", "inscription", "connexion", "start"],
     },
 
     // 📚 COMPRENDRE
@@ -138,6 +138,33 @@ const sidebars = {
             "utiliser/couches/urbanisme-immobilier",
             "utiliser/couches/territoire",
           ],
+        },
+        {
+          type: "category",
+          label: "Ajout de données",
+          collapsed: true,
+          customProps: {
+            icon: "heroicons:flag",
+          },
+          items: ["utiliser/donnees/general"],
+        },
+        {
+          type: "category",
+          label: "Importer des données",
+          collapsed: true,
+          customProps: {
+            icon: "heroicons:circle-stack",
+          },
+          items: ["utiliser/datas-business/general"],
+        },
+        {
+          type: "category",
+          label: "Rapport et téléchargement",
+          collapsed: true,
+          customProps: {
+            icon: "heroicons:document-arrow-down",
+          },
+          items: ["utiliser/rapport/general"],
         },
       ],
     },

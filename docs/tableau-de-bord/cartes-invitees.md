@@ -31,7 +31,3 @@ Une fois sur la carte, vous pouvez :
 Si vous ne souhaitez plus collaborer sur la carte, il vous suffit de cliquer sur le bouton **Annuler l’accès**. Cela ne supprimera pas la carte, mais retirera simplement votre droit d’édition.
 
 ![Menu d'options d'une carte avec le bouton 'Annuler l'accès' mis en évidence](/img/cartes-invitees-2.jpg)
-
----
-
-Vous êtes maintenant bien informé sur la gestion des cartes invitées dans **Isocarto**.

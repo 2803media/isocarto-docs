@@ -2,11 +2,11 @@
 id: ajouter
 title: Ajouter une zone
 description: Créer une nouvelle zone depuis le panneau des zones
-sidebar_label: Ajouter une zone
+sidebar_label: Présentation
 slug: /utiliser/zone/ajouter
 ---
 
-# Ajouter une zone
+# Comment ajouter une zone ?
 
 ## Ajouter une zone directement sur la carte
 

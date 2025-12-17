@@ -39,3 +39,26 @@ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+## License
+
+This project uses a dual-license approach:
+
+1. **Source Code** is licensed under the [MIT License](LICENSE) - See the [LICENSE](LICENSE) file for details
+
+   - Applies to all JavaScript, TypeScript, CSS, and other source code files
+   - Permits commercial use, modification, and distribution
+
+2. **Documentation** (in `/docs` directory) is licensed under [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+   - **You are free to:**
+     - **Share** — copy and redistribute the material in any medium or format
+   - **Under the following terms:**
+     - **Attribution** — You must give appropriate credit
+     - **NonCommercial** — No commercial use without permission
+     - **NoDerivatives** — No distribution of modified versions
+
+For full details, see the complete [LICENSE](LICENSE) file.
+
+## Third-Party Licenses
+
+This project includes third-party open source software components. For more information, please see the [NOTICE](NOTICE) file.

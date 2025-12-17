@@ -56,7 +56,7 @@ L’utilisateur peut ensuite fermer cette fenêtre "Google Street View" et **con
 
 Une fois le point confirmé, quatre types de zones peuvent être créés :
 
-- **Zone isochrone** (basée sur un temps de trajet)
-- **Zone isodistante** (basée sur une distance)
-- **Zone manuelle** (tracée à main levée)
-- **Zone administrative** (basée sur des limites officielles)
+- **[Zone isochrone](/utiliser/zone/ajouter-zone/zone-isochrone)** (basée sur un temps de trajet)
+- **[Zone isodistante](/utiliser/zone/ajouter-zone/zone-isodistance)** (basée sur une distance)
+- **[Zone manuelle](/utiliser/zone/ajouter-zone/zone-manuelle)** (tracée à main levée)
+- **[Zone administrative](/utiliser/zone/ajouter-zone/zone-administrative)** (basée sur des limites officielles)
