@@ -56,22 +56,6 @@ Ces actions sont accessibles via le menu associé à chaque jeu de données.
 
 ![edit data](/img/edit-data.jpg)
 
-## Affichage intelligent à l’échelle de la zone
-
-En zoomant (ou dézoomant) sur la zone de chalandise, les données de **Contexte et concurrence** s’actualisent automatiquement afin de refléter uniquement les informations pertinentes pour la zone analysée.
-
-Cela permet une lecture fine et contextualisée de l’environnement concurrentiel et des points d’intérêt dans une zone.
-
-Pour les zones importantes une logique de **clustering**, basée sur les algorithmes de regroupement avancés, permet d'avoir une vision lisible des informations sur la carte.
-
-![clustering datas](/img/clustering-datas.jpg)
-
-:::info[]
-
-Beaucoup d'acteurs du marché proposant des solutions de géo-marketing ne proposent pas de logique de clustering dynamique comme celle de l'outil, rendant ainsi l'analyse moins précise et plus difficile à interpréter dans certaines zones.
-
-:::
-
 ## Cas d’usage
 
 La section **Contexte et concurrence** est particulièrement utile pour :

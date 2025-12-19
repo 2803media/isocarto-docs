@@ -150,6 +150,7 @@ const sidebars = {
           items: [
             "utiliser/donnees/ajout-donnees",
             "utiliser/donnees/presentation",
+            "utiliser/donnees/clustering",
           ],
         },
         {
