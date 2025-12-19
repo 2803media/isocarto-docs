@@ -28,3 +28,5 @@ Cette fonctionnalité permet de visualiser rapidement les zones les plus riches 
 - Analyser la répartition des emplois dans une zone de chalandise.
 - Identifier les pôles économiques importants.
 - Prendre des décisions stratégiques basées sur la densité d'emplois.
+
+![visualisation](/img/densite-emploi.jpg)

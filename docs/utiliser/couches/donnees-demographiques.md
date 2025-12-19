@@ -28,6 +28,8 @@ Pour afficher les données démographiques, activez le toggle principal (devenan
 - **Variation de la population** : Évolution entre 2017 et 2019.
 - **Répartition par tranches d’âge** : Pourcentages des groupes d’âge (moins de 18 ans, 18-24 ans, 25-34 ans, 35-44 ans, 45-54 ans, 55-64 ans, 65-79 ans, plus de 80 ans).
 
+![visualisation](/img/demographie.jpg)
+
 ### Revenus
 
 - **Revenu moyen** : Niveau de vie moyen en euros.

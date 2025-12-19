@@ -19,8 +19,16 @@ Dans l'onglet **Couches de données** de l'application Isocarto, vous pouvez act
 Vous avez le choix entre trois types de zones :
 
 - **[Unités urbaines](/comprendre/glossaire#unité-urbaine)** : regroupements de communes qui forment un tissu urbain continu.
+
+![visualisation](/img/unite-urbaine.jpg)
+
 - **[Aires d'attraction](/comprendre/glossaire#aire-dattraction-des-villes)** : territoires autour d'un pôle urbain, définis par les flux de déplacements.
+
+![visualisation](/img/aire-attraction.jpg)
+
 - **[Zones d'emploi](/comprendre/glossaire#zone-demploi)** : zones caractérisées par la densité d’emplois et d’activités économiques.
+
+![visualisation](/img/zone-emploi.jpg)
 
 ## Personnalisation de l'affichage
 

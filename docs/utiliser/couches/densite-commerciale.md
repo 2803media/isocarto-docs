@@ -20,3 +20,5 @@ La couche **Densité commerciale** permet de visualiser les zones commerçantes 
 - **Affichage** : Une fois activée, la carte met en évidence les zones commerçantes grâce à une visualisation claire et intuitive.
 
 Ce système permet aux utilisateurs d’analyser facilement la densité commerciale et d’optimiser leurs stratégies en fonction des données disponibles.
+
+![visualisation](/img/densite-commerciale.jpg)

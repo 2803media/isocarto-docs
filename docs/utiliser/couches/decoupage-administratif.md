@@ -24,6 +24,8 @@ Les différents niveaux administratifs sont disponibles, allant du plus petit au
 - **Départements**
 - **Régions**
 
+![visualisation](/img/decoupage-administratif.jpg)
+
 ## Utilisation de la couche
 
 Pour afficher un découpage administratif :
