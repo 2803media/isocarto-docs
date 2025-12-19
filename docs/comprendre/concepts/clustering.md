@@ -3,12 +3,12 @@ id: clustering
 title: Clustering des données
 description: Comment le clustering fonctionne dans Isocarto pour afficher les données de manière intelligente.
 sidebar_label: Clustering de données
-slug: /utiliser/donnees/clustering
+slug: /comprendre/concepts/clustering
 ---
 
 # Affichage intelligent à l’échelle de la zone
 
-En zoomant (ou dézoomant) sur la zone de chalandise, les données de **Contexte et concurrence** s’actualisent automatiquement afin de refléter uniquement les informations pertinentes pour la zone analysée.
+Dans Isocarto, en zoomant (ou dézoomant) sur la zone de chalandise, les données de **Contexte et concurrence** s’actualisent automatiquement afin de refléter uniquement les informations pertinentes pour la zone analysée.
 
 Cela permet une lecture fine et contextualisée de l’environnement concurrentiel et des points d’intérêt dans une zone.
 

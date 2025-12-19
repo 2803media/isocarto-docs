@@ -39,6 +39,7 @@ const sidebars = {
             "comprendre/concepts/geomarketing-introduction",
             "comprendre/concepts/zone-chalandise",
             "comprendre/concepts/precision-donnees",
+            "comprendre/concepts/clustering",
             "comprendre/concepts/pourquoi-geojson",
           ],
         },
@@ -150,7 +151,6 @@ const sidebars = {
           items: [
             "utiliser/donnees/ajout-donnees",
             "utiliser/donnees/presentation",
-            "utiliser/donnees/clustering",
           ],
         },
         {
