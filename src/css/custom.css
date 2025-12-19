@@ -403,7 +403,7 @@ html[data-theme="dark"] .theme-edit-this-page::before {
 }
 
 .markdown p > a {
-  @apply bg-[var(--color-iso-s)]/30 
+  @apply bg-[var(--color-iso-a)]/30 
          text-[var(--color-iso-p)]
          rounded-lg
          px-2
@@ -411,12 +411,15 @@ html[data-theme="dark"] .theme-edit-this-page::before {
          no-underline
          hover:no-underline
          relative
-         pr-6
          hover:bg-[var(--color-iso-s)]/40
          transition-colors;
 }
 
-.markdown p > a::after {
+.markdown p > a:hover {
+  padding-right: 1.5rem; /* Ajoute de l'espace pour l'icône uniquement au survol */
+}
+
+.markdown p > a:hover::after {
   content: "";
   display: inline-block;
   width: 1em;
@@ -433,7 +436,7 @@ html[data-theme="dark"] .theme-edit-this-page::before {
 }
 
 [data-theme="dark"] .markdown p > a {
-  @apply bg-[var(--color-iso-s)]/20 
+  @apply bg-[var(--color-iso-a)]/20 
          text-[var(--color-iso-white)]
          hover:bg-[var(--color-iso-s)]/30;
 }
