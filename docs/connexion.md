@@ -12,7 +12,7 @@ Cette page explique comment vous connecter à votre compte sur **Isocarto**.
 
 ## Étape 1 : Accéder au formulaire de connexion
 
-En haut à droite de la page d'accueil, cliquez sur le **bouton "Connexion"**. Vous serez redirigé vers le formulaire de connexion.
+En haut à droite de la page d'accueil, cliquez sur le **bouton "Connexion"**. Vous serez redirigé vers le formulaire de connexion. Vous pouvez aussi vous rendre directement à cette URL : [https://isocarto.fr/auth/signin](https://isocarto.fr/auth/signin)
 
 ## Étape 2 : Renseigner vos identifiants
 

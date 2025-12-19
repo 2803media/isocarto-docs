@@ -402,8 +402,44 @@ html[data-theme="dark"] .theme-edit-this-page::before {
   --ifm-color-primary: var(--color-iso-s);
 }
 
-.markdown a {
-  @apply font-medium transition-colors;
+.markdown p > a {
+  @apply bg-[var(--color-iso-s)]/30 
+         text-[var(--color-iso-p)]
+         rounded-lg
+         px-2
+         py-0.5
+         no-underline
+         hover:no-underline
+         relative
+         pr-6
+         hover:bg-[var(--color-iso-s)]/40
+         transition-colors;
+}
+
+.markdown p > a::after {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-left: 0.25em;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14' /%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  right: 0.3rem;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.7;
+}
+
+[data-theme="dark"] .markdown p > a {
+  @apply bg-[var(--color-iso-s)]/20 
+         text-[var(--color-iso-white)]
+         hover:bg-[var(--color-iso-s)]/30;
+}
+
+[data-theme="dark"] .markdown p > a::after {
+  filter: invert(1) brightness(2);
 }
 
 /* Code inline */

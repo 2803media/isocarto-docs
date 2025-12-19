@@ -25,7 +25,7 @@ Avant de créer une zone, assurez-vous d'avoir :
 Isocarto propose plusieurs types de zones adaptés à différents besoins :
 
 1. **[Zone isochrone](/comprendre/definitions/isochrones)** : basée sur un temps de trajet (ex: 10 minutes à pied)
-2. **[Zone isodistance](/comprendre/definitions/isodistances)** : basée sur une distance (ex: 1 km à vol d'oiseau)
+2. **[Zone isodistance](/comprendre/definitions/isodistances)** : basée sur une distance de parcours
 3. **[Zone manuelle](/comprendre/definitions/zones-manuelles)** : dessinée librement sur la carte
 4. **[Zone administrative](/comprendre/definitions/zones-administratives)** : basée sur des limites officielles (communes, départements...)
 

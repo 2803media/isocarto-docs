@@ -14,18 +14,18 @@ L'onglet **Couches de données** dans la barre latérale permet d'afficher et de
 
 ## Types de couches disponibles
 
-- **Zones de chalandise** : personnalisation du design, des limites et des marqueurs.
-- **Données démographiques** : informations statistiques sur la population.
-- **Densité commerciale**
-- **Densité zone d'emploi**
-- **Découpage administratif** : iris, communes, départements, unités urbaines.
-- **Zones statistiques INSEE**
-- **Urbanisme et immobilier** : couches d’informations sur l’urbanisation et le marché immobilier.
-- **Territoire** : couches permettant de mieux comprendre les territoires.
+- **[Zones de chalandise](/utiliser/couches/zones-chalandise)** : personnalisation du design, des limites et des marqueurs.
+- **[Données démographiques](/utiliser/couches/donnees-demographiques)** : informations statistiques sur la population.
+- **[Densité commerciale](/utiliser/couches/densite-commerciale)**
+- **[Densité zone d'emploi](/utiliser/couches/densite-zone-emploi)**
+- **[Découpage administratif](/utiliser/couches/decoupage-administratif)** : iris, communes, départements, unités urbaines.
+- **[Zones statistiques INSEE](/utiliser/couches/zones-statistiques-insee)**
+- **[Urbanisme et immobilier](/utiliser/couches/urbanisme-immobilier)** : couches d’informations sur l’urbanisation et le marché immobilier.
+- **[Territoire](/utiliser/couches/territoire)** : couches permettant de mieux comprendre les territoires.
 
 ## Bouton "pulse" vert sur les intitulés
 
-Le petit marqueur vert sur les thématiques vous permet de retrouvrer rapidement les options qui ont été activées.
+Le petit marqueur vert sur les thématiques vous permet de retrouver rapidement les options qui ont été activées.
 
 ## Légende et activation des couches
 
