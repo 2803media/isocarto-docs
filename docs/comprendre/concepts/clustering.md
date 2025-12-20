@@ -24,7 +24,7 @@ Beaucoup d'acteurs du marché proposant des solutions de géo-marketing ne propo
 
 ## Cas d’usage
 
-La section **Contexte et concurrence** est particulièrement utile pour :
+La section **Contexte et concurrence** dans la barre latérale d'Isocarto est particulièrement utile pour :
 
 - analyser l’**environnement concurrentiel** d’un emplacement,
 - identifier les **points d’intérêt** à proximité d’une zone,
