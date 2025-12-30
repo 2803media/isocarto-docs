@@ -149,8 +149,8 @@ const sidebars = {
             icon: "heroicons:flag",
           },
           items: [
-            "utiliser/donnees/ajout-donnees",
             "utiliser/donnees/presentation",
+            "utiliser/donnees/ajout-donnees",
           ],
         },
         {
@@ -160,7 +160,10 @@ const sidebars = {
           customProps: {
             icon: "heroicons:circle-stack",
           },
-          items: ["utiliser/datas-business/general"],
+          items: [
+            "utiliser/datas-business/general",
+            "utiliser/datas-business/ajout-donnees",
+          ],
         },
         {
           type: "category",
