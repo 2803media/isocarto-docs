@@ -172,7 +172,11 @@ const sidebars = {
           customProps: {
             icon: "heroicons:document-arrow-down",
           },
-          items: ["utiliser/rapport/general"],
+          items: [
+            "utiliser/rapport/general",
+            "utiliser/rapport/telechargement",
+            "utiliser/rapport/ia",
+          ],
         },
       ],
     },
