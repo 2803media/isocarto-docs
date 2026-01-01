@@ -116,6 +116,53 @@ Plus d'information sur la création de [zones administratives](/utiliser/zone/aj
 
 ![première zone](/img/first-zone.jpg)
 
+## Ajouter des données pour enrichir votre analyse
+
+### Ajouter des données facilement
+
+Enrichissez votre carte avec des données publiques pour analyser le contexte et la concurrence :
+
+1. Allez dans **"Contexte et concurrence"** dans la barre latérale
+2. Choisissez votre source de données (INSEE, OpenStreetMap, SIRENE)
+3. Sélectionnez les thématiques pertinentes (restaurants, commerces, équipements...)
+4. Visualisez et ajoutez les données à votre carte
+
+:::tip[En savoir plus]
+
+Décrez comment [ajouter des données publiques](/utiliser/donnees/ajout-donnees) pour une analyse complète
+
+:::
+
+### Importer vos données métier
+
+Ajoutez vos propres fichiers pour une analyse personnalisée :
+
+1. Cliquez sur **"Données métier"** dans la barre latérale
+2. Importez vos fichiers Excel ou CSV
+3. Associez les données à vos zones
+4. Créez des indicateurs personnalisés
+
+:::tip[En savoir plus]
+
+Apprenez à [importer vos données métier](/utiliser/datas-business/ajout-donnees) pour des analyses sur mesure
+
+:::
+
+## Générer des rapports complets
+
+Une fois votre zone créée et vos données ajoutées, générez un rapport détaillé :
+
+1. Accédez aux rapports via le menu **"Rapports et Téléchargements"**
+2. Explorez les différentes sections (démographie, emploi, revenus...)
+3. Personnalisez le contenu selon vos besoins
+4. Exportez en PDF ou téléchargez les données Excel
+
+:::tip[En savoir plus]
+
+Découvrez toutes les fonctionnalités des [rapports de zones](/utiliser/rapport/general)
+
+:::
+
 ## Modifier et customiser la zone
 
 Vous pouvez :
