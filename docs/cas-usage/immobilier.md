@@ -6,38 +6,38 @@ sidebar_label: "Immobilier"
 slug: /cas-usage/immobilier
 ---
 
-# Immobilier et analyse de marché
+# Intelligence Immobilière et Analyse de Marché
 
-Isocarto fournit des outils puissants pour les professionnels de l'immobilier, des promoteurs aux investisseurs, en passant par les agences immobilières.
+En tant qu'analyste en investissement immobilier, vous savez que la valeur d'un actif dépend de trois critères : l'emplacement, l'emplacement et l'emplacement. Isocarto vous donne accès à une profondeur de données officielles (DVF, Insee, Cadastre) pour transformer chaque transaction en une opportunité stratégique.
 
-## Pourquoi utiliser Isocarto pour l'immobilier ?
+## La data au service de la rentabilité
 
-- **Analyse de marché précise** : Évaluez la valeur des biens avec des données actualisées
-- **Étude de potentiel** : Identifiez les zones en croissance et les opportunités d'investissement
-- **Données géographiques** : Accédez à des informations sur l'environnement et les services à proximité
+- **Valuation de précision (DVF)** : Accédez à l'historique complet des ventes immobilières depuis 2014 pour établir des comparatifs réalistes basés sur les prix de transaction réels.
+- **Analyse du tissu propriétaire** : Identifiez les typologies de propriétaires (personnes morales, collectivités, offices HLM) sur les parcelles cadastrales pour détecter des opportunités foncières.
+- **Audit de l'accessibilité** : Évaluez la valeur d'usage d'un bien en mesurant sa proximité réelle avec les services via les **isochrones** (ex: temps de marche vers le métro ou les commerces).
 
-## Fonctionnalités clés
+## Outils de décision pour les professionnels
 
-### 1. Analyse de marché
+### 1. Analyse des Ventes par Quartiles
+Visualisez les prix au mètre carré selon des classes de prix (quartiles). Isocarto colorie la carte pour mettre en évidence les zones premium et les secteurs plus abordables, facilitant la lecture immédiate du marché local.
 
-- Prix au m² par quartier avec des données depuis 2014
-- Répartition des ventes par quartiles
-- Comparaison de biens similaires
+### 2. Cadastre et PLU dynamiques
+Consultez le plan cadastral en temps réel et accédez aux zones du **Plan Local d'Urbanisme (PLU)**. Cliquez sur une parcelle pour obtenir sa surface, son périmètre et le règlement d'urbanisme applicable (téléchargement du PDF disponible).
 
-### 2. Aide à la décision
+### 3. Données Socio-Démographiques Insee
+Analysez le profil des habitants d'un secteur : revenus moyens, types de ménages, âge des logements. Ces indicateurs sont essentiels pour évaluer le potentiel de valorisation à long terme d'un quartier.
 
-- Cartographie des prix
-- Analyse du parc immobilier
-- Évaluation du potentiel de la zone
+## Indicateurs clés de l'investissement (KPIs) avec Isocarto
 
-### 3. Outils professionnels
+- **Prix moyen au m² par typologie** : Distinction entre maisons, appartements et terrains.
+- **Volume de transactions historiques** : Dynamisme du marché local sur les 10 dernières années.
+- **Profil de revenus du voisinage** : Indicateur du pouvoir d'achat et de la solvabilité locale.
 
-- Génération de rapports d'analyse de marché pour vous ou votre client
-- Export des données pour vos propres analyses
+## Votre méthodologie Isocarto
 
-## Étapes pour une analyse immobilière réussie
+1. **Sourcing** : Utilisez les cartes de chaleur de revenus pour cibler les zones à fort potentiel.
+2. **Estimation** : Consultez les ventes immobilières (DVF) de la micro-zone pour affiner la valeur vénale.
+3. **Audit foncier** : Activez la couche propriétaires pour identifier les parcelles stratégiques.
+4. **Validation réglementaire** : Vérifiez les contraintes du PLU et la proximité des sites patrimoniaux protégés.
 
-1. **Définir sa stratégie** : Investissement locatif, résidence principale, etc.
-2. **Cibler les zones** : Utilisez nos cartes interactives pour identifier les secteurs prometteurs
-3. **Analyser les données** : Prix, tendances, équipements à proximité
-4. **Prendre une décision éclairée** : Basée sur des données objectives et actualisées
+

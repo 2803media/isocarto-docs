@@ -6,26 +6,37 @@ sidebar_label: "Analyse concurrence"
 slug: /cas-usage/analyse-concurrence
 ---
 
-# Analyse de la concurrence
+# Analyse de la concurrence et Veille Territoriale
 
-Isocarto vous offre un outil puissant pour analyser la concurrence sur vos marchés cibles. Cette section vous guide à travers les différentes fonctionnalités disponibles.
+En tant qu'expert en intelligence compétitive, vous savez que la localisation est le premier levier de différenciation. Isocarto transforme la donnée géographique en avantage concurrentiel en vous permettant de visualiser la pression commerciale et d'intégrer vos propres données de veille.
 
-## Fonctionnalités clés
+## Enjeux stratégiques
 
-- **Cartographie des concurrents** : Visualisez l'emplacement de vos concurrents sur une carte interactive
-- **Analyse de marché** : Évaluez la saturation du marché par zone géographique
-- **Données démographiques** : Comprenez la clientèle de vos concurrents
-- **Indicateurs de performance** : Comparez vos performances à celles de la concurrence
+- **Maîtrise du taux d'emprise** : En important vos propres indicateurs (CA par zone, nombre de clients), évaluez votre part de marché locale face à l'offre existante.
+- **Identification des zones de "conflit"** : Repérez les secteurs de forte **densité commerciale** grâce aux cartes de chaleur pour anticiper la saturation.
+- **Détection des opportunités de niche** : Localisez les "zones blanches" où la demande (démographie) est forte mais l'offre commerciale est absente ou peu dense.
 
-## Comment commencer
+## Fonctionnalités d'analyse concrètes
 
-1. Définissez votre zone d'étude
-2. Sélectionnez les catégories de concurrents à analyser
-3. Consultez les rapports générés
+### 1. Carte de chaleur de la Densité Commerciale
+Visualisez instantanément les pôles d'attraction commerciale d'un territoire. Isocarto met en évidence les zones de concentration des activités, vous permettant de benchmarker votre emplacement par rapport aux flux marchands existants.
 
-## Bonnes pratiques
+### 2. Importation de données de veille (Excel/CSV)
+Personnalisez votre analyse en important vos listes de concurrents. Isocarto les projette sur la carte et vous permet de calculer des indicateurs personnalisés par zone (ex: nombre de concurrents par isochrone, somme des surfaces de vente concurrentes).
 
-- Analysez régulièrement l'évolution de la concurrence
-- Identifiez les zones sous-représentées
-- Surveillez les nouveaux entrants sur le marché
-- Comparez les stratégies de prix et de positionnement
+### 3. Analyse comparée par zone
+Utilisez les **zones isochrones** (temps de trajet) pour comparer la structure de la concurrence selon l'accessibilité réelle de vos clients, et non une simple distance à vol d'oiseau.
+
+## Indicateurs clés (KPIs) avec Isocarto
+
+- **Indice de densité commerciale** : Intensité de l'offre sur votre zone de chalandise.
+- **Pression concurrentielle importée** : Ratio entre vos données métiers et le nombre de concurrents identifiés sur le terrain.
+- **Potentiel de consommation résiduel** : Croisement entre la population de la zone et la densité commerciale actuelle.
+
+## Méthodologie recommandée
+
+1. **Mapping** : Activez la couche de densité commerciale pour identifier les hubs.
+2. **Qualification** : Importez vos données de veille pour situer précisément vos adversaires directs.
+3. **Synthèse IA** : Utilisez l'analyse IA pour obtenir une interprétation croisée entre la démographie locale et l'intensité commerciale de la zone.
+
+
