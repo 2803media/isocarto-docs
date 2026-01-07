@@ -53,6 +53,7 @@ const sidebars = {
             "comprendre/methodo/analyser-zone-chalandise",
             "comprendre/methodo/choisir-type-zone",
             "comprendre/methodo/lire-donnees",
+            "comprendre/methodo/zone-chalandise-donnees-cb",
           ],
         },
         "comprendre/glossaire",
