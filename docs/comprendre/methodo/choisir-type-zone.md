@@ -1,6 +1,8 @@
 ---
+id: choisir-type-zone
 sidebar_label: Choisir le type de zone
 title: Choisir le type de zone
+description: Choisir le bon type de zone pour votre analyse géo-marketing
 slug: /comprendre/methodo/choisir-type-zone
 ---
 

@@ -1,6 +1,8 @@
 ---
+id: lire-donnees
 sidebar_label: Lire et interpréter les données
 title: Lire et interpréter les données
+description: Savez vous lire et les données d'une zone de chalandise?
 slug: /comprendre/methodo/lire-donnees
 ---
 

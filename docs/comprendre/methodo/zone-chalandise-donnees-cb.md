@@ -1,6 +1,8 @@
 ---
-sidebar_label: Zone de chalandise par données CB
-title: Déterminer une zone de chalandise via les données de cartes bancaires
+id: zone-chalandise-donnees-cb
+title: Zone de chalandise par données CB
+description: Déterminer une zone de chalandise via les données de cartes bancaires
+sidebar_label: Déterminer la vrai zone de chalandise
 slug: /comprendre/methodo/zone-chalandise-donnees-cb
 ---
 
