@@ -27,7 +27,7 @@ L'objectif principal est d'offrir à l'utilisateur une vue synthétique et intel
 
 ### Génération de la synthèse
 
-Pour générer l'analyse, il suffit de cliquer sur le bouton **Générer l'analyse IA** en haut de la page. L’IA utilisera un modèle de langage (LLM) pour traiter les données et produire un rapport synthétique.
+Pour générer l'analyse, il suffit de cliquer sur le bouton **Générer l'analyse** en haut de la page. L’IA utilisera un modèle de langage (LLM) pour traiter les données et produire un rapport synthétique.
 
 ![analyse IA](/img/rapport-7.jpg)
 

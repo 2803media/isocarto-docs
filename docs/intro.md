@@ -22,6 +22,7 @@ Isocarto vous aide à :
 
 - **Analyser finement vos zones de chalandise**
 - **Croiser vos données internes** avec les données publiques (INSEE, SIREN, OSM…)
+- **Comparer vos zones** avec des zones de référence
 - **Générer des insights immédiatement exploitables grâce à l’IA**
 - **Optimiser vos décisions stratégiques** selon la localisation et le contexte territorial
 

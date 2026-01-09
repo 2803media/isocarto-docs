@@ -51,8 +51,9 @@ Les trois plateformes - **Isocarto**, **Smappen** et **Geo-Business** - offrent 
 
   - Large choix de zones : isochrones, isodistances, administratives, manuelles.
   - **Catalogue de données très avancé** notamment en couche vectorielle : INSEE, cadastre, propriétaires, transactions immobilières, risques, PLU, etc.
+  - Comparaison de zone.
   - Exports professionnels : GeoJSON, PDF, PNG, XLS.
-  - Rapports automatisés, consultables en ligne, personnalisables et analyses détaillées.
+  - Rapports automatisés pour ELM ou étude de marché, consultables en ligne, personnalisables et analyses détaillées.
   - Utilisation de l'IA dans l'outil.
 
 - **Idéal pour :** franchises, réseaux commerciaux, PME, bureaux d’étude et organisations ayant besoin d’analyses complètes.

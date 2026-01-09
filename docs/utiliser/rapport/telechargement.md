@@ -23,6 +23,10 @@ Le contenu du PDF respecte la personnalisation définie dans l’interface du ra
 
 <iframe src="/upload/exemple-rapport-2025.pdf" width="100%" height="800px" style={{"border": "none"}}></iframe>
 
+### Exemple de rapport PDF avec une comparaison de zone
+
+<iframe src="/upload/exemple-rapport-comparaison-2026.pdf" width="100%" height="800px" style={{"border": "none"}}></iframe>
+
 ## Téléchargement des données au format Excel
 
 Les données sont téléchargeables au format Excel. Les données téléchargeables sont :
