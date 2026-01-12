@@ -20,7 +20,7 @@ En tant qu'analyste en investissement immobilier, vous savez que la valeur d'un 
 
 ### 1. Analyse des Ventes par Quartiles
 
-Visualisez les prix au mètre carré selon des classes de prix (quartiles). Isocarto colorie la carte pour mettre en évidence les zones premium et les secteurs plus abordables, facilitant la lecture immédiate du marché local.
+Visualisez les prix au mètre carré selon des classes de prix (quartiles). Isocarto colorie la carte avec les transactions de la période sélectionnée pour mettre en évidence les zones premium et les secteurs plus abordables, facilitant la lecture immédiate du marché local.
 
 ### 2. Cadastre et PLU dynamiques
 
