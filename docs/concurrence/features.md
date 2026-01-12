@@ -28,10 +28,9 @@ Ce document compare les principales capacités des plateformes de géomarketing 
 | **Indicateurs personnalisés / métriques**  | Certaines analytiques intégrées                                       | Dashboard métriques personnalisées                                        | Création d’indicateurs personnalisés (Standard)                                    |
 | **Multi‑utilisateurs / collaboration**     | Selon plan (ajout d’utilisateurs)                                     | Plan Avancé + utilisateurs supplémentaires                                | Ajout utilisateurs (Standard)                                                      |
 | **Rapports interactifs en ligne**          | Oui (consultables en ligne, personnalisables)                         | Partiel (limité)                                                          | Partiel (limité)                                                                   |
-|  |
 | **Rapports automatisés (ELM / synthèses)** | Oui (PDF/Excel détaillés)                                             | Oui (Word / Excel automatisés - Pro+)                                     | Export de rapports et synthèses                                                    |
 | **Interface intuitive / facile**           | Oui, orientée géomarketing                                            | Oui, très intuitive (focus PME)                                           | Oui, plateforme riche mais professionnelle                                         |
-| **Catalogue de données intégré**           | Données sociodémographiques et immobilières (selon plan)              | Données démographiques & entreprises (France, BE, USA, UK, CA selon plan) | +300 indicateurs socio‑économiques et données métiers                              |
+| **Catalogue de données intégré**           | Données sociodémographiques et immobilières (selon plan)              | Données démographiques & entreprises (France, BE, USA, UK, CA selon plan) | Indicateurs socio‑économiques et données métiers                                   |
 | **Données uniques**                        | Plan cadastral                                                        | -                                                                         | Plan cadastral                                                                     |
 |                                            | Propriétaires personnes morales                                       | -                                                                         | Propriétaires personnes morales                                                    |
 |                                            | Transactions immobilières                                             | -                                                                         | Transactions immobilières                                                          |
@@ -90,7 +89,7 @@ Les trois plateformes - **Isocarto**, **Smappen** et **Geo-Business** - offrent 
 
 ## Conclusion
 
-- **Isocarto** se distingue par son **catalogue de données unique** (cadastre, propriétaires, transactions, risques, urbanisme…) et sa profondeur analytique.
+- **Isocarto** se distingue par son **catalogue de données unique** (cadastre, propriétaires, transactions, risques, urbanisme…), sa profondeur analytique et son interface intuitive.
 - **Smappen** se défend bien sur l’**ergonomie** et la simplicité pour les équipes marketing.
 - **Geo-Business** propose un beau jeu d'indicateurs socio-économiques, idéal pour des analyses sectorielles approfondies.
 
