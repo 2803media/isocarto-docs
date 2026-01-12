@@ -76,6 +76,8 @@ Les trois plateformes - **Isocarto**, **Smappen** et **Geo-Business** - offrent 
   - Moins de données avancées.
   - Limitation du rapport au format Word.
 
+- **Idéal pour :** une première analyse de marché et approche du concept du géomarketing.
+
 ### Geo-Business
 
 - **Positionnement :** outil professionnel centré sur les données socio-économiques.
