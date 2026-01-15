@@ -38,6 +38,7 @@ const sidebars = {
           items: [
             "comprendre/concepts/geomarketing-introduction",
             "comprendre/concepts/zone-chalandise",
+            "comprendre/concepts/etat-local-marche-franchise",
             "comprendre/concepts/precision-donnees",
             "comprendre/concepts/clustering",
             "comprendre/concepts/pourquoi-geojson",

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 1
 sidebar_label: Introduction au géo-marketing
 title: Introduction au géo-marketing
 slug: /comprendre/concepts/geomarketing-introduction
