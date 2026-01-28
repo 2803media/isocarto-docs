@@ -91,7 +91,7 @@ Les trois plateformes - **Isocarto**, **Smappen** et **Geo-Business** - offrent 
 
 ## Conclusion
 
-- **Isocarto** se distingue par son **catalogue de données unique** (cadastre, propriétaires, transactions, risques, urbanisme…), sa profondeur analytique et son interface intuitive.
+- **Isocarto** se distingue par son **catalogue de données unique** (cadastre, propriétaires, transactions, risques, urbanisme…), sa profondeur analytique, les possibilités de comparison de zone et son interface intuitive avec l'usage de l'IA.
 - **Smappen** se défend bien sur l’**ergonomie** et la simplicité pour les équipes marketing.
 - **Geo-Business** propose un beau jeu d'indicateurs socio-économiques, idéal pour des analyses sectorielles approfondies.
 

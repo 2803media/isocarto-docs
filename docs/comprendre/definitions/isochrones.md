@@ -1,6 +1,6 @@
 ---
 id: definition-isochrone
-title: Zone Isochrone
+title: Définition d'une zone Isochrone
 description: Comprendre ce qu’est une zone isochrone, son utilité et ses variantes selon les modes de transport.
 slug: /comprendre/definitions/isochrones
 ---

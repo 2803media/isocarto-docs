@@ -1,6 +1,6 @@
 ---
 id: zone-primaire
-title: Zone Primaire, Secondaire et Tertiaire
+title: Définition des zones Primaire, Secondaire et Tertiaire
 description: "Comprendre les zones primaires, secondaires et tertiaires de chalandise utilisées dans Isocarto : leur rôle et leur utilité en analyse géographique."
 slug: /comprendre/definitions/zone-primaire
 ---
