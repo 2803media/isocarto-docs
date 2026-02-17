@@ -119,10 +119,10 @@ const sidebars = {
                 "utiliser/zone/edit/changer-couleur",
                 "utiliser/zone/edit/telecharger",
                 "utiliser/zone/edit/supprimer",
-                "utiliser/zone/edit/organiser-les-zones",
                 "utiliser/zone/edit/consulter-rapport",
               ],
             },
+            "utiliser/zone/organiser/organiser-les-zones",
           ],
         },
         {
@@ -170,6 +170,19 @@ const sidebars = {
         },
         {
           type: "category",
+          label: "Importer des zones",
+          collapsed: true,
+          customProps: {
+            icon: "heroicons:cloud-arrow-up",
+          },
+          items: [
+            "utiliser/importer/general",
+            "utiliser/importer/smappen",
+            "utiliser/importer/geoportail",
+          ],
+        },
+        {
+          type: "category",
           label: "Rapport et téléchargement",
           collapsed: true,
           customProps: {
@@ -180,6 +193,18 @@ const sidebars = {
             "utiliser/rapport/comparaison",
             "utiliser/rapport/telechargement",
             "utiliser/rapport/ia",
+          ],
+        },
+        {
+          type: "category",
+          label: "Trouver des zones similaires",
+          collapsed: true,
+          customProps: {
+            icon: "heroicons:viewfinder-circle",
+          },
+          items: [
+            "utiliser/zones-similaires/fonctionnement",
+            "utiliser/zones-similaires/methodologie",
           ],
         },
       ],

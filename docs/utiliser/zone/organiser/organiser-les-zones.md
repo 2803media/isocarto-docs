@@ -26,7 +26,7 @@ Dans cette modale, vous pourrez créer des dossiers en les nommant, puis glisser
 
 ## Réorganiser les zones
 
-Une fois les dossiers créés, vous pouvez réorganiser les zones en les déplaçant dans ces dossiers ou entre eux. Survolez le nom d’un dossier pour modifier son titre avec l’icône de crayon.
+Une fois les dossiers créés (cliquez sur le bouton "Nouveau dossier"), vous pouvez réorganiser les zones en les déplaçant dans ces dossiers ou entre eux. Survolez le nom d’un dossier pour modifier son titre avec l’icône de crayon.
 
 ![Organiser par dossiers](/img/organiser-2.jpg)
 
