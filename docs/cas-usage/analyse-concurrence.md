@@ -19,12 +19,15 @@ En tant qu'expert en intelligence compétitive, vous savez que la localisation e
 ## Fonctionnalités d'analyse concrètes
 
 ### 1. Carte de chaleur de la Densité Commerciale
+
 Visualisez instantanément les pôles d'attraction commerciale d'un territoire. Isocarto met en évidence les zones de concentration des activités, vous permettant de benchmarker votre emplacement par rapport aux flux marchands existants.
 
 ### 2. Importation de données de veille (Excel/CSV)
-Personnalisez votre analyse en important vos listes de concurrents. Isocarto les projette sur la carte et vous permet de calculer des indicateurs personnalisés par zone (ex: nombre de concurrents par isochrone, somme des surfaces de vente concurrentes).
+
+Personnalisez votre analyse en important vos listes de concurrents. Isocarto les projette sur la carte et vous permet de calculer des indicateurs personnalisés par zone (ex: nombre de concurrents par isochrone, somme des surfaces des zones de vente concurrentes).
 
 ### 3. Analyse comparée par zone
+
 Utilisez les **zones isochrones** (temps de trajet) pour comparer la structure de la concurrence selon l'accessibilité réelle de vos clients, et non une simple distance à vol d'oiseau.
 
 ## Indicateurs clés (KPIs) avec Isocarto
@@ -38,5 +41,3 @@ Utilisez les **zones isochrones** (temps de trajet) pour comparer la structure d
 1. **Mapping** : Activez la couche de densité commerciale pour identifier les hubs.
 2. **Qualification** : Importez vos données de veille pour situer précisément vos adversaires directs.
 3. **Synthèse IA** : Utilisez l'analyse IA pour obtenir une interprétation croisée entre la démographie locale et l'intensité commerciale de la zone.
-
-

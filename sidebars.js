@@ -110,7 +110,7 @@ const sidebars = {
             },
             {
               type: "category",
-              label: "Gérer les zones",
+              label: "Édition des zones",
               items: [
                 "utiliser/zone/edit/presentation",
                 "utiliser/zone/edit/activer",
@@ -119,6 +119,7 @@ const sidebars = {
                 "utiliser/zone/edit/changer-couleur",
                 "utiliser/zone/edit/telecharger",
                 "utiliser/zone/edit/supprimer",
+                "utiliser/zone/edit/organiser-les-zones",
                 "utiliser/zone/edit/consulter-rapport",
               ],
             },
