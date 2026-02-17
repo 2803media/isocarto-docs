@@ -20,6 +20,10 @@ Pour organiser vos zones, allez dans l’onglet "Zones dans la carte", puis cliq
 
 ![Organiser par dossiers](/img/organiser-1.jpg)
 
+Vous pouvez aussi créer et gérer les dossiers directement depuis le menu contextuel de chaque zone (les 3 points verticaux).
+
+![Organiser par dossiers menu](/img/organiser-5.jpg)
+
 Une fenêtre modale s’ouvrira.
 
 Dans cette modale, vous pourrez créer des dossiers en les nommant, puis glisser vos zones existantes dans ces dossiers.
