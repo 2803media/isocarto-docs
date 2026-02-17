@@ -10,7 +10,7 @@ import VimeoVideo from '@site/src/theme/VimeoVideo';
 
 # Organiser les zones
 
-Isocarto vous permet de structurer vos zones dans la barre latérale en créant des dossiers personnalisés, facilitant l’organisation et la navigation.
+Isocarto vous permet de structurer vos zones dans la barre latérale en créant des dossiers personnalisés, facilitant l’organisation et la navigation. Et plutôt que de vous laisser déplacer les zones une par une manuellement vous avons décidé de proposer un outil central de gestion des zones et des dossiers car cela est beaucoup plus rapide et efficace!
 
 <VimeoVideo videoId="1165767479" />
 
