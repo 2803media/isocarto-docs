@@ -42,7 +42,7 @@ Chaque dossier affiche un nombre total de zones qu’il contient.
 
 :::tip[Info]
 
-Le dossier intitulé "Sans dossier" est le dossier par défaut il ne peut pas être supprimé, mais s'il est vide il ne sera pas affiché!
+Le dossier intitulé "À trier" est le dossier par défaut il ne peut pas être supprimé, mais s'il est vide il ne sera pas affiché!
 
 :::
 
