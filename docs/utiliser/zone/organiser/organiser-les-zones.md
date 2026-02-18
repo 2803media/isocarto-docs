@@ -1,6 +1,6 @@
 ---
 id: organiser-les-zones
-title: Organiser les zones
+title: Organiser les zones par dossier
 description: Organiser les zones via des dossiers personnalisés dans Isocarto
 sidebar_label: Organiser les zones
 slug: /utiliser/zone/edit/organiser-les-zones
@@ -8,11 +8,11 @@ slug: /utiliser/zone/edit/organiser-les-zones
 
 import VimeoVideo from '@site/src/theme/VimeoVideo';
 
-# Organiser les zones
+# Organiser les zones par dossier
 
 Isocarto vous permet de structurer vos zones dans la barre latérale en créant des dossiers personnalisés, facilitant l’organisation et la navigation. Et plutôt que de vous laisser déplacer les zones une par une manuellement vous avons décidé de proposer un outil central de gestion des zones et des dossiers car cela est beaucoup plus rapide et efficace!
 
-<VimeoVideo videoId="1165767479" />
+<VimeoVideo videoId="1166050218" />
 
 ## Créer des dossiers
 
@@ -53,3 +53,9 @@ Après avoir disposé les zones, cliquez sur "Enregistrer les modifications" pou
 Vous pouvez réduire ou agrandir chaque dossier pour une meilleure lisibilité. Cela permet de simplifier l’interface et de mieux gérer vos espaces de travail.
 
 ![Organiser par dossiers](/img/organiser-4.jpg)
+
+## Afficher / Masquer toutes les zones d'un dossier
+
+Vous pouvez afficher ou masquer toutes les zones d'un dossier en cliquant sur l'icône d'activation/désactivation (toggle) à droite du nom du dossier.
+
+![Organiser par dossiers](/img/organiser-6.jpg)

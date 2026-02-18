@@ -203,7 +203,8 @@ const sidebars = {
             icon: "heroicons:viewfinder-circle",
           },
           items: [
-            "utiliser/zones-similaires/fonctionnement",
+            "utiliser/zones-similaires/zone-reference",
+            "utiliser/zones-similaires/avec-criteres",
             "utiliser/zones-similaires/methodologie",
           ],
         },
