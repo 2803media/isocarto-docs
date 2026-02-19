@@ -40,7 +40,7 @@ Cliquez sur l'icône correspondante pour sélectionner le mode de déplacement s
 - **Distance à vol d'oiseau** : Ne prend pas en compte le réseau routier et trace un **cercle parfait** autour du point de départ en fonction de la distance sélectionnée.
 
 5. **Définir la distance** : Indiquez la distance souhaitée.  
-   Les zones isodistances peuvent couvrir des distances de **1 à 200 kilomètres**.
+   Les zones isodistances peuvent couvrir des distances de **500m à 200 kilomètres**.
 
 6. **Créer la zone** : Une fois la distance définie, cliquez sur le bouton **"Créer la zone"** pour générer la zone isodistance sur la carte.
 
