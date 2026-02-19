@@ -25,13 +25,19 @@ La zone isodistance permet de visualiser une aire géographique définie par un 
 
 4. **Définir le mode de déplacement** : Vous avez plusieurs options :
 
-   - **À pied**
-   - **En voiture**
-   - **À vélo**
-   - **En transport en commun** (train, tram, bus, métro...)
-   - **En camion**
+### Options basées sur le réseau routier :
 
-   Cliquez sur l’icône correspondante pour sélectionner le mode de déplacement souhaité.
+- **À pied**
+- **En voiture**
+- **À vélo**
+- **En transport en commun** (train, tram, bus, métro...)
+- **En camion**
+
+Cliquez sur l'icône correspondante pour sélectionner le mode de déplacement souhaité.
+
+### Option distance directe :
+
+- **Distance à vol d'oiseau** : Ne prend pas en compte le réseau routier et trace un **cercle parfait** autour du point de départ en fonction de la distance sélectionnée.
 
 5. **Définir la distance** : Indiquez la distance souhaitée.  
    Les zones isodistances peuvent couvrir des distances de **1 à 200 kilomètres**.
