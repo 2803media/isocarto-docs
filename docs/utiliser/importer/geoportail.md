@@ -28,3 +28,9 @@ Depuis Géoportail, vous pouvez exporter une zone isochrone calculée, directeme
 Vérifiez bien les détails de l’isochrone avant l’export pour garantir la précision de votre import dans Isocarto.
 
 :::
+
+:::info[Faire l'import]
+
+Ensuite pour importer le fichier généré il faut [suivre ce tutoriel](/utiliser/importer/general).
+
+:::

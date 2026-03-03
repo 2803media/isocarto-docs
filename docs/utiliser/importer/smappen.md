@@ -27,3 +27,9 @@ Si vous avez plusieurs cartes, répétez l’opération pour chaque carte. L’e
 Pensez à organiser vos cartes Smappen avant l’export pour une gestion optimisée de vos zones.
 
 :::
+
+:::info[Faire l'import]
+
+Ensuite pour importer le fichier généré il faut [suivre ce tutoriel](/utiliser/importer/general).
+
+:::
