@@ -21,9 +21,9 @@ La zone administrative vous permet d'utiliser des découpages géographiques tel
 2. **Sélectionner le type de zone** : Cliquez sur l’icône **"Administratif"** pour indiquer que vous souhaitez créer une zone administrative.
 
 3. **Choisir le découpagage administratif** : Sélectionnez le type de découpage souhaité, par exemple :
-
    - **Iris**
    - **Communes**
+   - **Codes postaux**
    - **EPCI**
    - **Départements**
    - **Zones urbaines**
@@ -31,6 +31,12 @@ La zone administrative vous permet d'utiliser des découpages géographiques tel
    - **Zones d'emploi**
 
    Le découpage apparaîtra automatiquement sur la carte avec des limites colorées.
+
+:::warning[Information]
+
+Le découpage par code postal n'est pas un découpage administratif au sens strict du terme, car il correspond aux zones de distribution postale plutôt qu'à des divisions administratives officielles. Cependant, pour des raisons de simplicité et d'utilité pratique, cette option est proposée parmi les découpages administratifs.
+
+:::
 
 4. **Sélectionner les zones** : Cliquez sur les zones administratives qui vous intéressent. Chaque zone sélectionnée sera mise en surbrillance.
 
@@ -42,8 +48,9 @@ La zone administrative vous permet d'utiliser des découpages géographiques tel
 
 Les zones administratives sont utiles pour :
 
-- Analyser des données démographiques à l’échelle communale ou départementale.
-- Étudier des zones d’influence pour des projets d’urbanisme.
-- Comparer l’impact de différentes zones administratives sur un territoire.
+- Analyser des **données démographiques** à l’échelle communale ou départementale.
+- Étudier des **zones d’influence** pour des projets d’urbanisme.
+- **Comparer l’impact** de différentes zones administratives sur un territoire.
+- Faire une campagne **Adwords** en sélectionnant les codes postaux avec les plus forts revenus.
 
 N’hésitez pas à explorer ces fonctionnalités pour une analyse plus fine de vos données géographiques.
