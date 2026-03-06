@@ -52,7 +52,7 @@ const config = {
           lastVersion: "current",
           versions: {
             current: {
-              label: "2.2",
+              label: "2.3",
               path: "/", // Version actuelle à la racine
               banner: "none",
             },
