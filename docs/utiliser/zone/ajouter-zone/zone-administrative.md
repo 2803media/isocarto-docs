@@ -38,7 +38,9 @@ Le découpage par code postal n'est pas un découpage administratif au sens stri
 
 :::
 
-4. **Sélectionner les zones** : Cliquez sur les zones administratives qui vous intéressent. Chaque zone sélectionnée sera mise en surbrillance.
+4. **Sélectionner les zones** : Cliquez sur les zones administratives qui vous intéressent. Chaque zone sélectionnée sera mise en surbrillance. Vous avez aussi la possibilité de faire des sélections multiples grâce au mode dessin pour être encore plus rapide et efficace comme dans la video ci-dessous:
+
+<VimeoVideo videoId="1170961631" />
 
 5. **Éditer la zone si nécessaire** : Si vous souhaitez modifier la zone, vous pouvez cliquer sur les zones jaunes pour ajuster les contours avant de valider définitivement.
 
