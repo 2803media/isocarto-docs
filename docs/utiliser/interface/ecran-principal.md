@@ -72,6 +72,8 @@ En bas de l’écran, un sélecteur de fond de carte permet de choisir entre :
 
 - Satellite
 - Classique
+- Sombre
+- Blue Print
 - Aucun fond de carte
 
 Chaque fond possède un usage adapté selon le type d’analyse ou de rendu souhaité.
