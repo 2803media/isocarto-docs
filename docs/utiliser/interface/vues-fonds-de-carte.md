@@ -1,7 +1,7 @@
 ---
 id: vues-fonds-de-carte
 title: Vues et fonds de carte
-description: Présentation des vues et des fonds de carte disponibles dans Isocarto.
+description: "Présentation des vues et des fonds de carte disponibles dans Isocarto : classique, satellite, sombre, blueprint et sans fond."
 sidebar_label: Vues et fonds de carte
 slug: /utiliser/interface/vues-fonds-de-carte
 ---
@@ -45,6 +45,41 @@ Le fond de carte classique est optimisé pour :
 :::tip[Information]
 
 A l'inverse des concurrents, Isocarto utilise **son propre serveur de tuiles** basé sur les données OpenStreetMap, permettant une maîtrise complète du style et des éléments affichés.
+
+:::
+
+## Vue Sombre (Dark Mode)
+
+![Vue sombre](/img/fond-dark.jpg)
+
+Le fond de carte sombre est particulièrement adapté pour :
+
+- **les rapports d'analyse en soirée** ou les dashboards nocturnes ;
+- **les présentations commerciales** dans des environnements à faible éclairage ;
+- **mettre en avant les segments clés** comme les zones de chalandise ou les performances par région grâce au contraste élevé ;
+- **les interfaces professionnelles** où le thème sombre est privilégié pour le confort visuel.
+
+:::tip[Cas d'usage]
+
+Une équipe commerciale peut présenter des données complexes sur les ventes en conditions de faible éclairage, sans perdre en lisibilité. Le contraste élevé permet de mettre en avant les zones stratégiques et les indicateurs de performance.
+
+:::
+
+## Vue Blueprint
+
+![Vue blueprint](/img/fond-blueprint.jpg)
+
+Le fond de carte blueprint est idéal pour :
+
+- **les projets d'aménagement urbain** ou de logistique ;
+- **les plans de réseau de transport** où chaque voie et bâtiment ressort en nuances bleues ;
+- **les analyses techniques** nécessitant une dimension structurée ;
+- **la compréhension des flux logistiques** ou des emplacements d'infrastructures ;
+- **les présentations d'urbanisme** où un rendu technique est valorisé.
+
+:::tip[Cas d'usage]
+
+Une équipe d'urbanistes peut présenter un plan de réseau de transport avec une dimension technique et structurée, facilitant la compréhension des flux logistiques et des emplacements des infrastructures grâce au rendu bleu caractéristique.
 
 :::
 

@@ -123,7 +123,9 @@
   @apply flex flex-col gap-0.5
          my-1 pl-0;
   overflow: hidden;
-  transition: opacity 0.2s ease, height 0.2s ease;
+  transition:
+    opacity 0.2s ease,
+    height 0.2s ease;
 }
 
 /* ====== NIVEAU 3 - Avec indentation ET bordure ====== */
@@ -467,6 +469,7 @@ html[data-theme="dark"] .theme-edit-this-page::before {
 .medium-zoom-image--opened {
   @apply border border-gray-200 rounded-xl;
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  z-index: 999;
 }
 
 [data-theme="dark"] .medium-zoom-image--opened {
@@ -478,6 +481,7 @@ html[data-theme="dark"] .theme-edit-this-page::before {
 .medium-zoom-overlay {
   background: rgba(255, 255, 255, 0.95) !important;
   backdrop-filter: blur(8px);
+  z-index: 998;
 }
 
 [data-theme="dark"] .medium-zoom-overlay {
@@ -524,7 +528,9 @@ html[data-theme="dark"] .theme-edit-this-page::before {
   background-repeat: no-repeat;
   background-position: center bottom 2px;
   opacity: 1;
-  transition: opacity 0.2s ease, filter 0.2s ease;
+  transition:
+    opacity 0.2s ease,
+    filter 0.2s ease;
   vertical-align: baseline;
   margin-right: 2px;
 }
@@ -646,7 +652,8 @@ blockquote p + p {
   @apply p-4 md:p-6 rounded-lg border border-gray-200 dark:border-gray-700 transition-all duration-200;
   background-color: rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(8px);
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05),
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.05),
     0 2px 4px -1px rgba(0, 0, 0, 0.03);
 }
 
