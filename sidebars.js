@@ -208,6 +208,7 @@ const sidebars = {
             "utiliser/zones-similaires/methodologie",
           ],
         },
+        "utiliser/chatgpt",
       ],
     },
 
