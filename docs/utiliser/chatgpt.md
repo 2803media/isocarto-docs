@@ -50,6 +50,16 @@ Elle est particulièrement utile en amont d'une analyse, lorsque vous ne savez p
 ![Réponse de l'application Isocarto dans ChatGPT](/img/Chatgpt_Answer.jpg)
 ![Analyse géomarketing dans ChatGPT avec Isocarto](/img/Chatgpt_Answer2.jpg)
 
+## Révoquer les tokens
+
+Si vous souhaitez révoquer les tokens générés par l'application Isocarto dans ChatGPT, vous pouvez le faire depuis les paramètres de votre compte ChatGPT en cliquant sur "Déconnecter" ou "Disconnect" dans la section "Connected apps".
+
+![révoquer les tokens](/img/chatgpt-revoke-openai.jpg)
+
+Mais aussi directement depuis l'application Isocarto dans l'onglet ChatGPT de la page de "Gestion de votre compte". C'est pratique s'il y a un bug quelconque ou si vous voulez simplement désactiver l'application.
+
+![révoquer les tokens](/img/chatgpt-revoke.jpg)
+
 ## Bonnes pratiques
 
 Pour obtenir une réponse plus pertinente :
