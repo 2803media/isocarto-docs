@@ -2,6 +2,7 @@
 title: Utiliser Isocarto dans ChatGPT
 description: Installer et utiliser l'application Isocarto dans ChatGPT pour interroger vos zones, analyser une implantation ou préparer une étude de marché.
 sidebar_label: Isocarto dans ChatGPT
+slug: /utiliser/chatgpt
 sidebar_custom_props:
   icon: heroicons:chat-bubble-bottom-center-text
 ---
