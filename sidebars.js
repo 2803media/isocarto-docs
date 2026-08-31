@@ -209,6 +209,7 @@ const sidebars = {
           ],
         },
         "utiliser/chatgpt",
+        "utiliser/mcp",
       ],
     },
 
