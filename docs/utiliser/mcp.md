@@ -22,7 +22,7 @@ Pour installer directement le plugin Isocarto depuis le répertoire ChatGPT, con
 Utilisez cette adresse dans les clients prenant en charge les serveurs MCP distants :
 
 ```text
-https://api.isocarto.fr/mcp
+https://mcp.isocarto.fr/mcp
 ```
 
 La connexion utilise :
@@ -50,7 +50,7 @@ Dans Claude sur le Web ou l’application Desktop :
 1. Ouvrez **Personnaliser**, puis **Connecteurs**.
 2. Cliquez sur **+**, puis sur **Ajouter un connecteur personnalisé**.
 3. Nommez le connecteur **Isocarto**.
-4. Renseignez l’URL `https://api.isocarto.fr/mcp`.
+4. Renseignez l’URL `https://mcp.isocarto.fr/mcp`.
 5. Cliquez sur **Ajouter**, puis sur **Connecter**.
 6. Connectez-vous à Isocarto et acceptez les autorisations demandées.
 7. Dans une conversation, activez Isocarto depuis **+ → Connecteurs**.
@@ -65,7 +65,7 @@ Sur une organisation Claude Team ou Enterprise, un propriétaire peut devoir ajo
 2. Sélectionnez l’onglet **MCPs**, puis cliquez sur **Add**.
 3. Choisissez **Streamable HTTP**.
 4. Nommez le serveur `isocarto_mcp`.
-5. Utilisez l’URL `https://api.isocarto.fr/mcp`.
+5. Utilisez l’URL `https://mcp.isocarto.fr/mcp`.
 6. Enregistrez, puis cliquez sur **Authenticate**.
 7. Autorisez Codex depuis la page Isocarto ouverte dans le navigateur.
 
@@ -74,7 +74,7 @@ Sur une organisation Claude Team ou Enterprise, un propriétaire peut devoir ajo
 Ajoutez le serveur :
 
 ```bash
-codex mcp add isocarto --url https://api.isocarto.fr/mcp
+codex mcp add isocarto --url https://mcp.isocarto.fr/mcp
 ```
 
 Lancez ensuite l’authentification :
@@ -88,7 +88,7 @@ codex mcp login isocarto
 Ajoutez Isocarto au niveau utilisateur pour le retrouver dans tous vos projets :
 
 ```bash
-claude mcp add --transport http --scope user isocarto https://api.isocarto.fr/mcp
+claude mcp add --transport http --scope user isocarto https://mcp.isocarto.fr/mcp
 ```
 
 Puis :
@@ -107,7 +107,7 @@ Ajoutez un serveur MCP distant depuis les réglages MCP de Cursor. Vous pouvez �
 {
   "mcpServers": {
     "isocarto": {
-      "url": "https://api.isocarto.fr/mcp"
+      "url": "https://mcp.isocarto.fr/mcp"
     }
   }
 }
@@ -120,7 +120,7 @@ Activez ensuite le serveur dans Cursor et suivez le parcours OAuth proposé.
 Lorsque votre client propose l’ajout d’un serveur personnalisé :
 
 1. choisissez **Streamable HTTP** ou **Remote HTTP** ;
-2. utilisez `https://api.isocarto.fr/mcp` ;
+2. utilisez `https://mcp.isocarto.fr/mcp` ;
 3. n’ajoutez aucun en-tête d’autorisation manuel ;
 4. laissez le client découvrir automatiquement OAuth ;
 5. terminez la connexion sur Isocarto.
@@ -211,7 +211,7 @@ Certains clients utilisent temporairement une adresse locale pour récupérer le
 
 ### Le client ne trouve aucun outil
 
-Vérifiez que l’adresse configurée est exactement `https://api.isocarto.fr/mcp`, que le transport sélectionné est Streamable HTTP et que l’authentification est terminée. Redémarrez ensuite le client ou ouvrez une nouvelle conversation pour actualiser la liste des outils.
+Vérifiez que l’adresse configurée est exactement `https://mcp.isocarto.fr/mcp`, que le transport sélectionné est Streamable HTTP et que l’authentification est terminée. Redémarrez ensuite le client ou ouvrez une nouvelle conversation pour actualiser la liste des outils.
 
 ### Une carte ne s’affiche pas
 
