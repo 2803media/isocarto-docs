@@ -25,6 +25,7 @@ Les couches suivantes peuvent être affichées sur la carte :
 - **Réseaux de transport**
 - **Taux de cambriolage**
 - **Risques d’inondation**
+- **Retrait-gonflement des argiles**
 
 Chaque couche peut être activée ou désactivée indépendamment.
 
@@ -142,6 +143,35 @@ Cette couche permet de :
 - anticiper les contraintes réglementaires,
 - sécuriser les projets de construction ou d’aménagement,
 - intégrer les risques naturels dans l’analyse territoriale.
+
+## Retrait-gonflement des argiles
+
+La couche **Retrait-gonflement des argiles** présente la [carte réglementaire 2026 publiée par Géorisques](https://www.georisques.gouv.fr/donnees/bases-de-donnees/retrait-gonflement-des-argiles-version-2026). Elle permet de repérer les secteurs exposés aux mouvements de terrain liés aux variations d’humidité des sols argileux.
+
+![rga](/img/rga.jpg)
+
+### Niveaux d’exposition
+
+Les zones sont représentées selon trois niveaux :
+
+- exposition **faible**, en jaune,
+- exposition **moyenne**, en orange,
+- exposition **forte**, en rouge.
+
+Les limites des zones d’exposition peuvent également être affichées sur la carte.
+
+:::info[Échelle d’interprétation]
+
+Cette cartographie donne une lecture territoriale de l’exposition. Elle ne permet pas de déterminer avec certitude la nature du sol à l’échelle d’une parcelle et ne remplace pas une étude géotechnique.
+:::
+
+### Cas d’usage
+
+Cette couche permet notamment de :
+
+- repérer les secteurs exposés avant un projet immobilier ou d’aménagement,
+- intégrer le risque lié aux sols argileux dans une analyse territoriale,
+- compléter l’étude des contraintes naturelles d’un site.
 
 ## Cas d’usage
 
