@@ -40,11 +40,14 @@ La comparaison s’applique à toutes les sections du rapport :
 ![comparaison de zones](/img/comparaison-4.jpg)
 
 - **Dynamisme économique** : comparaison des indicateurs économiques, comme le taux d’emploi et la répartition des entreprises.
+- **Consommation résidente** : une dernière colonne affiche l’écart de dépense et le potentiel par établissement de la zone de référence, dans les mêmes unités que la zone active. Voir [Consommation résidente](/utiliser/rapport/consommation#comparer-avec-une-autre-zone).
 - **Données ajoutées** : si l’utilisateur a ajouté des données, la comparaison les intègre également.
 
 ![comparaison de zones](/img/comparaison-5.jpg)
 
 - **Données importées** : idem, la comparaison d'applique aussi sur les données importées.
+
+Dans les tableaux, les colonnes de la zone de référence sont séparées des autres par un trait vertical pour faciliter la lecture.
 
 ## Cas d'usage
 

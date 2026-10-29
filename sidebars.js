@@ -191,6 +191,7 @@ const sidebars = {
           items: [
             "utiliser/rapport/general",
             "utiliser/rapport/comparaison",
+            "utiliser/rapport/consommation",
             "utiliser/rapport/telechargement",
             "utiliser/rapport/ia",
           ],

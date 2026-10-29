@@ -41,11 +41,17 @@ L’analyse IA inclut plusieurs sections :
 
 - **Dynamisme économique** : Évaluation de l’activité économique locale, avec des indicateurs comme le taux d’emploi, les secteurs d’activité, et la répartition des entreprises.
 
+- **Consommation résidente** : si la section [Consommation résidente](/utiliser/rapport/consommation) est disponible dans votre abonnement, l’IA s’appuie sur l’écart de dépense des habitants et le potentiel par établissement pour enrichir les parties consacrées à l’économie et aux opportunités. Elle les présente toujours comme une demande des résidents, jamais comme un chiffre d’affaires.
+
 - **Données ajoutées par l’utilisateur** : Si des données personnalisées ont été importées, l’analyse IA les intègre pour proposer des insights supplémentaires.
 
 - **Opportunités** : L’IA identifie des opportunités potentielles pour le développement ou l’investissement, basées sur les tendances et les données analysées.
 
 ![analyse IA](/img/rapport-8.jpg)
+
+## Fiabilité des chiffres
+
+L’IA rédige à partir des seuls chiffres calculés par Isocarto pour la zone et pour la France. Elle a pour consigne de ne pas inventer de données ni de recalculer de nouveaux ratios. Comme pour tout texte généré, vérifiez les chiffres importants dans les sections détaillées du rapport avant de les reprendre dans un document.
 
 ## Personnalisation de l'analyse
 

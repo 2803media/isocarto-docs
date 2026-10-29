@@ -88,12 +88,19 @@ Un **icône “filtre”** situé en haut à droite du rapport (près du menu) p
 - Niveau de vie
 - Répartition par déciles
 
-### 7. Éducation et formation
+### 7. Consommation résidente
+
+Section affichée ou masquée en bloc, selon votre abonnement :
+
+- Demande des ménages résidents
+- Offre et potentiel par établissement
+
+### 8. Éducation et formation
 
 - Personnes en étude
 - Niveau d'étude
 
-### 8. Logements et immobilier
+### 9. Logements et immobilier
 
 - Morphologie des logements
 - Année de construction
@@ -103,23 +110,23 @@ Un **icône “filtre”** situé en haut à droite du rapport (près du menu) p
 - Voitures et stationnements
 - Évolution des prix de l'immobilier
 
-### 9. Équipements et services
+### 10. Équipements et services
 
 - Zones commerçantes
 - Répartition par catégorie
 
-### 10. Entreprises
+### 11. Entreprises
 
 - Zones d'emploi
 - Classification des entreprises
 - Répartition des effectifs
 
-### 11. Données ajoutées
+### 12. Données ajoutées
 
 - Recherches
 - Vos données
 
-### 12. Données administratives et statistiques
+### 13. Données administratives et statistiques
 
 - Communes
 - IRIS
@@ -130,7 +137,7 @@ Un **icône “filtre”** situé en haut à droite du rapport (près du menu) p
 - Unités urbaines
 - Aires d'attraction
 
-### 13. Téléchargements & export
+### 14. Téléchargements & export
 
 - **Formats disponibles**
   - Communes

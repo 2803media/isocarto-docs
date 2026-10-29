@@ -42,6 +42,10 @@ Représentation visuelle des données où les valeurs sont représentées par de
 
 Programme informatique conçu pour simuler une conversation avec des utilisateurs humains, particulièrement sur Internet. Les chatbots modernes, comme celui d'Isocarto, utilisent souvent des technologies d'IA avancées comme les LLM et le RAG pour comprendre les requêtes des utilisateurs et fournir des réponses pertinentes et contextuelles. Ils sont largement utilisés pour le support client, l'assistance utilisateur et l'automatisation des réponses aux questions fréquentes.
 
+### Consommation résidente
+
+Estimation de la dépense annuelle des ménages qui habitent une zone, par thématique (restauration, alimentaire, coiffure…). Calculée à partir de l'enquête Budget de famille de l'INSEE et du niveau de vie des habitants, elle ignore les actifs non résidents, les touristes et la clientèle de passage. Voir [Consommation résidente](/utiliser/rapport/consommation).
+
 ## D
 
 ### Densité commerciale
@@ -141,6 +145,10 @@ Outil de navigation de Google Maps représenté par une icône de bonhomme jaune
 - Identifier les points d'intérêt à proximité
 
 L'utilisation de Pegman aide à éviter les erreurs de positionnement et à valider le choix d'un emplacement pour des analyses précises.
+
+### Potentiel par établissement
+
+Dans Isocarto, demande résidente d'une thématique rapportée au nombre d'établissements de la zone, puis comparée à la moyenne France (base 100). Au-dessus de 100, chaque établissement dispose de plus de demande résidente qu'en moyenne ; en dessous, la demande est partagée entre davantage d'établissements.
 
 ### PLU (Plan Local d'Urbanisme)
 

@@ -114,6 +114,22 @@ Elle est particulièrement utile pour analyser l’attractivité économique et 
 Cette section présente les **niveaux de revenus** et leur répartition au sein de la zone.  
 Elle permet d’évaluer le pouvoir d’achat local et d’orienter des décisions commerciales ou d’implantation.
 
+### Consommation résidente
+
+Cette section estime la **dépense annuelle des ménages résidents** par thématique (restauration, cafés, coiffure, sport, entretien de véhicules, alimentaire, consommation totale) :
+
+- écart de dépense par rapport à un ménage moyen en France,
+- dépense par ménage et consommation résidente de la zone,
+- nombre d’établissements et potentiel par établissement (France = 100).
+
+Elle permet de vérifier si la demande des habitants est bien ou mal servie par l’offre en place.
+
+:::info[Guide]
+
+Consultez le guide [Consommation résidente](/utiliser/rapport/consommation) pour lire et interpréter ces indicateurs.
+
+:::
+
 ### Éducation
 
 La section **Éducation** fournit des données sur :

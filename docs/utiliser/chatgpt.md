@@ -47,6 +47,7 @@ Le plugin Isocarto dans ChatGPT peut vous accompagner pour :
 - créer des zones isochrones, isodistantes, circulaires ou administratives ;
 - afficher vos cartes et retrouver les zones déjà enregistrées ;
 - compter des commerces, entreprises, services et équipements issus des bases BPE, OpenStreetMap et SIRENE ;
+- estimer la consommation des habitants par thématique et le potentiel par établissement (voir [Consommation résidente](/utiliser/rapport/consommation)) ;
 - transformer une question métier en analyse géomarketing ;
 - analyser les indicateurs démographiques, économiques et résidentiels d'une zone ;
 - préparer une comparaison entre plusieurs emplacements ;
