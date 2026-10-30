@@ -90,8 +90,6 @@ Un **icône “filtre”** situé en haut à droite du rapport (près du menu) p
 
 ### 7. Consommation résidente
 
-Section affichée ou masquée en bloc, selon votre abonnement :
-
 - Demande des ménages résidents
 - Offre et potentiel par établissement
 
